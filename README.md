@@ -4,6 +4,7 @@ This project contains Apache Hive User-Defined Functions.
 + findPlace('CH', text) - UDF which finds places (municipals) in Switzerland from a given text. At the moment there are only municipals supported from Switzerland.
 
 
+##### findPlace
 
 	
 
