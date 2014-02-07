@@ -84,4 +84,12 @@ public class TestFindPlace {
 				"i like Bern city"));
 		Assert.assertEquals("Bern", found.toString());
 	}
+
+	@Test
+	public void testFindPlaceWithDefaultCountry() {
+
+		FindPlace finder = new FindPlace();
+		Text found = finder.evaluate(new Text("i like zürich city"));
+		Assert.assertEquals("Zürich", found.toString());
+	}
 }

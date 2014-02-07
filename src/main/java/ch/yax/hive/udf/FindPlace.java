@@ -12,10 +12,15 @@ import ch.yax.hive.util.StringFinder;
 public class FindPlace extends UDF {
 
 	private final static String RESOURCE = ".places.txt";
+	private final static Text DEFAULT_COUNTRY = new Text("CH");
 	private Map<String, ResourceReader> readers = new HashMap<String, ResourceReader>();
 
 	public FindPlace() {
 
+	}
+
+	public Text evaluate(Text text) throws RuntimeException {
+		return evaluate(DEFAULT_COUNTRY, text);
 	}
 
 	public Text evaluate(Text country, Text text) throws RuntimeException {
