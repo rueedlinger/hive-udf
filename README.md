@@ -1,4 +1,4 @@
-hive-udf - Hive User-Defined Functions (UDFs)
+Hive User-Defined Functions (UDFs)
 ========
 This project contains Apache Hive User-Defined Functions.
 + findPlace('CH', text) - UDF which finds places (municipals) in Switzerland from a given text. At the moment there are only municipals supported from Switzerland.
@@ -8,7 +8,7 @@ This project contains Apache Hive User-Defined Functions.
 
 	
 
-#### Hive configuration
+### Hive configuration
 
 First you must build the JAR.
 
@@ -21,7 +21,7 @@ Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class p
 
 	
 	
-#### Initialize Eclipse
+### Initialize Eclipse
 To initialize eclipse settings run the following maven command.
 
 	mvn eclipse:eclipse
