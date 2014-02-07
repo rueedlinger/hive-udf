@@ -4,7 +4,6 @@ This project contains Apache Hive User-Defined Functions.
 + findPlace(text) - UDF which finds places (municipals) in Switzerland from a given text. At the moment there are only municipals supported from Switzerland.
 
 
-##### findPlace
 
 	
 
@@ -36,6 +35,12 @@ You can now execute the query with our findplace User-Defined Functions (UDF).
 	
 	-- should return --> Bern
 	SELECT findplace('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
+
+	
+
+##### findPlace
+
+tbd
 
 	
 ### Initialize Eclipse
