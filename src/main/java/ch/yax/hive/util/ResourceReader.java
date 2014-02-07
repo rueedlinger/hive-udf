@@ -12,9 +12,13 @@ public class ResourceReader {
 	private String resource = null;
 	private List<String> entries = null;
 
-	public ResourceReader(String resource) throws IOException {
+	public ResourceReader(String resource) {
 		this.resource = resource;
-		this.entries = init();
+		try {
+			this.entries = init();
+		} catch (IOException e) {
+			throw new RuntimeException(e);
+		}
 	}
 
 	public List<String> getEntries() {
@@ -34,9 +38,9 @@ public class ResourceReader {
 			if (read == null) {
 				break;
 			} else {
-				String value = read.trim().toLowerCase();
+				String value = read.trim();
 				if (!value.startsWith("#")) {
-					entries.add(read.trim().toLowerCase());
+					entries.add(read.trim());
 				}
 			}
 		}

@@ -1,4 +1,4 @@
-package ch.yax.hive.udf;
+package ch.yax.hive.util;
 
 import java.util.ArrayList;
 import java.util.List;
