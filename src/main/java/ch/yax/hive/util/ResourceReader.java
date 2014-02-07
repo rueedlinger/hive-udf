@@ -34,9 +34,11 @@ public class ResourceReader {
 			if (read == null) {
 				break;
 			} else {
-				entries.add(read.trim().toLowerCase());
+				String value = read.trim().toLowerCase();
+				if(!value.startsWith("#")) {
+					entries.add(read.trim().toLowerCase());
+				}				
 			}
-
 		}
 
 		return entries;
