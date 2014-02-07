@@ -1,0 +1,4815 @@
+#
+# municipals switzerland
+#
+Lausanne
+Prilly
+Pully
+Lausanne
+Renens VD
+Chavannes-près-Renens
+Crissier
+Ecublens VD
+St-Sulpice VD
+Echandens-Denges
+Lonay
+Préverenges
+Bussigny-près-Lausanne
+Romanel-sur-Lausanne
+Cheseaux-sur-Lausanne
+Etagnières
+Bercher
+Echallens
+St-Barthélemy VD
+Oulens-sous-Echallens
+Bettens
+Villars-le-Terroir
+Epautheyres
+Dommartin
+Peyres-Possens
+Boulens
+Poliez-le-Grand
+Poliez-Pittet
+Bottens
+Bretigny-sur-Morrens
+Boussens
+Bournens
+Sullens
+Assens
+Sugnens
+Fey
+Ogens
+Bioley-Magnoux
+Bioley-Orjulaz
+Le Mont-sur-Lausanne
+Cugy VD
+Morrens VD
+Froideville
+Thierrens
+Epalinges
+Savigny
+Mézières VD
+Belmont-sur-Lausanne
+La Conversion
+Paudex
+Lutry
+Cully
+Riex
+Epesses
+Villars-Tiercelin
+Peney-le-Jorat
+Villars-Mendraz
+Sottens
+Chapelle-sur-Moudon
+St-Cierges
+Mollie-Margot
+Les Cullayes
+Montpreveyres
+Corcelles-le-Jorat
+Ropraz
+Carrouge VD
+Vulliens
+Vucherens
+Syens
+Ferlens VD
+Servion
+Essertes
+Auboranges
+Morges
+Echichens
+Lussy-sur-Morges
+Lully VD
+Tolochenaz
+Monnaz
+Vaux-sur-Morges
+Clarmont
+Reverolle
+St-Saphorin-sur-Morges
+Colombier VD
+Vullierens
+Cottens VD
+Grancy
+Senarclens
+Bremblens
+Romanel-sur-Morges
+Aclens
+Gollion
+Vufflens-le-Château
+Denens
+Bussy-Chardonney
+Yens
+Villars-sous-Yens
+Ballens
+Berolle
+Mollens VD
+Montricher
+Pampigny
+Sévery
+Apples
+Bière
+L'Isle
+St-Prex
+Etoy
+Buchillon
+Allaman
+Perroy
+Aubonne
+Bougy-Villars
+Féchy
+Montherod
+Lavigny
+St-Livres
+Rolle
+Gilly
+Bursins
+Vinzel
+Luins
+Mont-sur-Rolle
+Essertines-sur-Rolle
+St-Oyens
+Saubraz
+Gimel
+Dully-Bursinel
+Gland
+Prangins
+Genève
+Grand-Lancy
+Petit-Lancy
+Onex
+Vernier
+Cointrin
+Meyrin
+Le Grand-Saconnex
+Le Lignon
+Aïre
+Châtelaine
+Les Avanchets
+Vésenaz
+Cologny
+Chêne-Bougeries
+Chêne-Bourg
+Thônex
+Carouge GE
+Les Acacias
+Plan-les-Ouates
+Conches
+Confignon
+Bernex
+Vessy
+Cartigny
+Avully
+Collex
+Puplinge
+Satigny
+Presinge
+Choulex
+Collonge-Bellerive
+Corsier GE
+Anières
+Hermance
+Gy
+Meinier
+Vandoeuvres
+Jussy
+Veyrier
+Troinex
+La Croix-de-Rozon
+Perly
+Nyon
+Borex
+La Rippe
+Chavannes-de-Bogis
+Grens
+Chéserex
+Gingins
+Trélex
+Givrins
+Genolier
+Le Muids
+Arzier
+Burtigny
+Marchissy
+Le Vaud
+Bassins
+Longirod
+St-George
+Eysins
+Crassier
+St-Cergue
+La Cure
+Duillier
+Vich-Coinsins
+Begnins
+Russin
+Dardagny
+La Plaine
+Chancy
+Athenaz (Avusy)
+Soral
+Laconnex
+Aire-la-Ville
+Versoix
+Commugny
+Chambésy
+Bellevue
+Genthod
+Mies-Tannay
+Coppet
+Founex
+Céligny
+Crans-près-Céligny
+Vufflens-la-Ville
+Cossonay-Ville
+Dizy
+Lussery-Villars
+Penthalaz
+La Sarraz
+Orny
+Chevilly
+Vallorbe
+Ballaigues
+Orient
+Les Bioux
+L'Abbaye
+Le Pont
+Les Charbonnières
+Le Lieu
+Le Sentier
+Le Brassus
+Daillens
+Penthaz
+La Chaux (Cossonay)
+Cuarnens
+Ferreyres
+Moiry VD
+Arnex-sur-Orbe
+Pompaples
+Eclépens
+Bretonnières
+Croy
+Romainmôtier
+Premier
+Vaulion
+Juriens
+La Praz
+Mont-la-Ville
+Orbe
+Agiez
+Bofflens
+Montcherand
+L'Abergement
+Les Clées
+Lignerolle
+Valeyres-sous-Rances
+Rances
+Chavornay
+Bavois
+Corcelles-sur-Chavornay
+Penthéréaz
+Goumoens-la-Ville
+Yverdon-les-Bains
+Essertines-sur-Yverdon
+Pailly
+Vuarrens
+Fiez
+Fontaines-sur-Grandson
+Villars-Burquin
+Mauborget
+Giez
+Orges
+Vugelles-La Mothe
+Pomy
+Cronay
+Donneloye
+Prahins
+Chanéaz
+Valeyres-sous-Ursins
+Orzens
+Rueyres
+Cuarny
+Bonvillars
+Champagne
+Novalles
+Fontanezier
+Molondin
+Grandson
+Onnens VD
+Concise
+Corcelles-près-Concise
+Belmont-sur-Yverdon
+Suchy
+Ependes VD
+Essert-Pittet
+Treycovagnes
+Suscévaz
+Mathod
+Valeyres-sous-Montagny
+Montagny-près-Yverdon
+Champvent
+Vuiteboeuf
+Baulmes
+Ste-Croix
+La Sagne (Ste-Croix)
+L'Auberson
+Les Rasses
+Bullet
+Le Château-de-Ste-Croix
+Yvonand
+Rovray
+Chavannes-le-Chêne
+Chêne-Pâquier
+Cheyres
+Estavayer-le-Lac
+Font
+Châbles FR
+Montet (Broye)
+Cugy FR
+Bussy FR
+Aumont
+Nuvilly
+Vuissens
+Champtauroz
+Treytorrens (Payerne)
+Murist
+Moudon
+Chavannes-sur-Moudon
+Hermenches
+Bussy-sur-Moudon
+Oulens-sur-Lucens
+Villars-le-Comte
+Neyruz-sur-Moudon
+Denezy
+Lucens
+Curtilles
+Granges-près-Marnand
+Villeneuve FR
+Surpierre
+Cheiry
+Payerne
+Fétigny
+Ménières
+Sassel
+Combremont-le-Petit
+Forel-sur-Lucens
+Cremin
+Rueyres-les-Prés
+Grandcour
+Gletterens
+Chevroux
+Vers-chez-Perrin
+Trey
+Châtonnaye
+Sédeilles
+Villarzel
+Villars-Bramard
+Dompierre VD
+Combremont-le-Grand
+Corcelles-près-Payerne
+Dompierre FR
+Domdidier
+Missy
+Autavaux
+Delley
+Portalban
+St-Aubin FR
+Avenches
+Villarepos
+Villars-le-Grand
+Salavaux
+Vallamand
+Montmagny
+Chabrey
+Constantine
+Cudrefin
+Faoug
+Palézieux-Village
+Châtillens
+Ecublens FR
+Henniez
+Marnand
+La Croix (Lutry)
+Grandvaux
+Aran
+Puidoux
+Chexbres
+Forel (Lavaux)
+Palézieux
+Granges (Veveyse)
+Bossonnens
+Attalens
+Remaufens
+Châtel-St-Denis
+Les Paccots
+Semsales
+La Verrerie
+Vaulruz
+Vuadens
+Bulle
+Vuippens
+Sorens
+Gumefens
+Avry-devant-Pont
+Le Bry
+Echarlens
+Corbières
+Hauteville
+Im Fang
+Jaun
+Abländschen
+Cerniat FR
+Villarvolard
+Botterens
+Morlon
+Moléson-sur-Gruyères
+Riaz
+Marsens
+La Roche FR
+Pont-la-Ville
+La Tour-de-Trême
+Broc
+Charmey (Gruyère)
+Le Pâquier-Montbarry
+Pringy
+Estavannens
+Enney
+Neirivue
+Albeuve
+Gruyères
+Epagny
+Grandvillard
+Oron-la-Ville
+Vauderens
+Ursy
+Vuarmarens
+Rue
+Promasens
+Siviriez
+Villaraboud
+Chavannes-les-Forts
+Prez-vers-Siviriez
+Romont FR
+Billens
+Prévonloup
+Brenles
+Chesalles-sur-Moudon
+Orsonnens
+Villarsiviriaux
+Villarlod
+Vuisternens-en-Ogoz
+Mézières FR
+Villariaz
+Estévenens
+Grangettes-près-Romont
+Le Châtelard-près-Romont
+Sommentier
+Romanens
+Massonnens
+Vuisternens-devant-Romont
+Sâles (Gruyère)
+Ecoteaux
+Maracon
+Oron-le-Châtel
+St-Martin FR
+Le Crêt-près-Semsales
+La Joux FR
+Bouloz
+Porsel
+Pont (Veveyse)
+Fribourg
+Granges-Paccot
+Fribourg
+Corminboeuf
+Misery-Courtion
+Giffers
+St. Silvester
+Plasselb
+Sangernboden
+Schwarzsee
+Bonnefontaine
+Corpataux-Magnedens
+Rossens FR
+Brünisried
+Ependes FR
+Arconciel
+Treyvaux
+Chésopelloz
+Tafers
+St. Antoni
+Heitenried
+Alterswil FR
+Plaffeien
+St. Ursen
+Rechthalten
+Bourguillon
+Marly
+Le Mouret
+Posieux
+Farvagny
+Prez-vers-Noréaz
+Corserey
+Torny-le-Grand
+Middes
+Neyruz FR
+Cottens FR
+Chénens
+Lentigny
+Autigny
+Estavayer-le-Gibloux
+Villarimboud
+Villars-sur-Glâne
+Matran
+Rosé
+Onnens FR
+Noréaz
+Villaz-St-Pierre
+Givisiez
+Grolley
+Léchelles
+Cousset
+Montagny-la-Ville
+Courlevon
+Courgevaux
+Münchenwiler
+Salvenach
+Jeuss
+Cordast
+Courtaman
+Praz (Vully)
+Lugnorre
+Belfaux
+Pensier
+Courtepin
+Cressier FR
+Sugiez
+Môtier (Vully)
+Vevey
+Le Mont-Pèlerin
+Les Monts-de-Corsier
+Fenil-sur-Corsier
+Corseaux
+Chardonne
+Corsier-sur-Vevey
+Jongny
+St-Légier-La Chiésaz
+Blonay
+Rivaz
+St-Saphorin (Lavaux)
+La Tour-de-Peilz
+Clarens
+Chailly-Montreux
+Brent
+Montreux
+Territet-Veytaux
+Chernex
+Glion
+Caux
+Villard-sur-Chamby
+Les Sciernes-d'Albeuve
+La Tine
+Les Moulins
+Flendruz
+L'Etivaz
+Chamby
+Les Avants
+Montbovon
+Rossinière
+Château-d'Oex
+Rougemont
+Villeneuve VD
+Rennaz
+Noville
+Chessel
+Roche VD
+Yvorne
+Leysin
+St-Triphon
+Aigle
+Corbeyrier
+La Comballaz
+Les Mosses
+La Forclaz VD
+Huémoz
+Panex
+Le Sépey
+Vers-l'Eglise
+Les Diablerets
+Ollon VD
+Collombey
+Monthey
+Choëx
+Les Giettes
+Troistorrents
+Val-d'Illiez
+Champéry
+Morgins
+Bex
+Fenalet-sur-Bex
+Frenières-sur-Bex
+Les Plans-sur-Bex
+Gryon
+Villars-sur-Ollon
+Chesières
+St-Maurice
+Mex VS
+Vérossaz
+Massongex
+Vionnaz
+Les Evouettes
+Torgon
+Lavey-Village
+Muraz (Collombey)
+Vouvry
+Miex
+Bouveret
+St-Gingolph
+Evionnaz
+Collonges
+Vernayaz
+Dorénaz
+Charrat
+Saxon
+Riddes
+Leytron
+Ovronnaz
+Saillon
+Isérables
+La Tzoumaz
+Chamoson
+St-Pierre-de-Clages
+Ardon
+Martigny
+Martigny-Croix
+Le Trétien
+Le Châtelard VS
+Chemin
+Trient
+Ravoire
+Salvan
+Les Granges (Salvan)
+Les Marécottes
+Finhaut
+Fully
+Bovernier
+Versegères
+Vollèges
+Levron
+Lourtier
+Fionnay
+Sarreyer
+Liddes
+Bourg-St-Pierre
+Praz-de-Fort
+La Fouly VS
+Sembrancher
+Le Châble VS
+Verbier
+Orsières
+Champex-Lac
+Sion
+St-Séverin
+Erde
+Aven
+Daillon
+Grimisuat
+Arbaz
+Vernamiège
+Nax
+Mase
+St-Martin VS
+Vex
+Euseigne
+Les Haudères
+Arolla
+La Sage
+Hérémence
+Les Collons
+Salins
+Les Agettes
+Les Mayens-de-Sion
+Veysonnaz
+Siviez (Nendaz)
+Fey (Nendaz)
+Beuson (Nendaz)
+Baar (Nendaz)
+Basse-Nendaz
+Haute-Nendaz
+Aproz (Nendaz)
+Pont-de-la-Morge (Sion)
+Vétroz
+Conthey
+Savièse
+Ayent
+Signèse (Ayent)
+Bramois
+Evolène
+Anzère
+Thyon
+Neuchâtel
+Auvernier
+Colombier NE
+Bôle
+Areuse
+Cortaillod
+Boudry
+Bevaix
+Gorgier
+St-Aubin-Sauges
+Chez-le-Bart
+Vaumarcus
+Peseux
+Corcelles NE
+Cormondrèche
+Valangin
+Boudevilliers
+Fontaines NE
+Fontainemelon
+Cernier
+Chézard-St-Martin
+Les Vieux-Prés
+Dombresson
+Villiers
+Le Pâquier NE
+Vilars NE
+Savagnier
+Chaumont
+Hauterive NE
+St-Blaise
+Enges
+Marin-Epagnier
+Gals
+Cornaux NE
+Cressier NE
+Brot-Plamboz
+Noiraigue
+Travers
+Couvet
+Môtiers NE
+Boveresse
+Fleurier
+Buttes
+La Côte-aux-Fées
+St-Sulpice NE
+La Brévine
+Les Verrières
+Le Brouillet
+Les Taillères
+Les Bayards
+Champ-du-Moulin
+Les Sagnettes
+Mont-de-Buttes
+La Vraconnaz
+Chambrelien
+Rochefort
+Montmollin
+Les Geneveys-sur-Coffrane
+Coffrane
+Les Hauts-Geneveys
+La Chaux-de-Fonds
+Petit-Martel
+Les Emibois
+La Sagne NE
+Les Ponts-de-Martel
+Le Crêt-du-Locle
+Les Planchettes
+La Cibourg
+La Ferrière
+Les Bois
+Le Locle
+La Châtagne
+La Chaux-du-Milieu
+Le Prévoux
+Le Cerneux-Péquignot
+Les Brenets
+Biel/Bienne
+Tüscherz-Alfermée
+Twann
+Ligerz
+Prêles
+Lamboing
+Diesse
+Nods
+La Neuveville
+Lignières
+Le Landeron
+Magglingen/Macolin
+Evilard
+Orvin
+Les Prés-d'Orvin
+Frinvillier
+Plagne
+Vauffelin
+Romont BE
+Grenchen
+Pieterlen
+Lengnau BE
+Bettlach
+Selzach
+Orpund
+Safnern
+Meinisberg
+Brügg BE
+Scheuren
+Studen BE
+Aegerten
+Nidau
+Port
+Ipsach
+Bellmund
+Jens
+Sutz
+Täuffelen
+Lüscherz
+Siselen BE
+Brüttelen
+Péry
+La Heutte
+Sonceboz-Sombeval
+Corgémont
+Cortébert
+Courtelary
+Montagne-de-Courtelary
+St-Imier
+Mont-Soleil
+Mont-Crosin
+Cormoret
+Villeret
+Sonvilier
+Montagne-de-Sonvilier
+Renan BE
+Tavannes
+Le Fuet
+Le Prédame
+Fornet-Dessous
+Fornet-Dessus
+Châtelat-Monible
+Sornetan
+Bellelay
+Les Genevez JU
+Lajoux JU
+Tramelan
+La Tanne
+Les Reussilles
+Mont-Tramelan
+Les Breuleux
+Le Cerneux-Veusil
+La Chaux-des-Breuleux
+Le Noirmont
+Saignelégier
+Les Pommerats
+Goumois
+Reconvilier
+Saicourt
+Saules BE
+Loveresse
+Pontenet
+Malleray-Bévilard
+Bévilard
+Sorvilier
+Court
+Moutier
+Perrefitte
+Souboz
+Eschert
+Belprahon
+Seehof
+Grandval
+Crémines
+Corcelles BE
+Roches BE
+Rebeuvelier
+Courrendlin
+Delémont
+Develier
+Bourrignon
+Soyhières
+Mettembert
+Pleigne
+Lucelle
+Movelier
+Ederswiler
+Roggenburg
+Courroux
+Courcelon
+Vicques
+Courchapoix
+Corban
+Mervelier
+Montsevelier
+Vermes
+Rossemaison
+Châtillon JU
+Courtételle
+Courfaivre
+Bassecourt
+Glovelier
+Boécourt
+Montavon
+Undervelier
+Soulce
+Saulcy
+St-Ursanne
+Montmelon
+Montenol
+Epauvillers
+Epiquerez
+Soubey
+Seleute
+Ocourt
+Courgenay
+Porrentruy
+Fontenais
+Villars-sur-Fontenais
+Bressaucourt
+Courtedoux
+Chevenez
+Rocourt
+Grandfontaine
+Roche-d'Or
+Damvant
+Bure
+Fahy
+Courchavon
+Courtemaîche
+Montignez
+Buix
+Boncourt
+Coeuve
+Beurnevésin
+Alle
+Vendlincourt
+Bonfol
+Miécourt
+Charmoille
+Cornol
+Fregiécourt-Pleujouse
+Asuel
+Bern
+Spiegel b. Bern
+Hinterkappelen
+Wohlen b. Bern
+Murzelen
+Frieswil
+Detligen
+Herrenschwanden
+Kirchlindach
+Ortschwaben
+Uettligen
+Säriswil
+Meikirch
+Wahlendorf
+Bremgarten b. Bern
+Worblaufen
+Zollikofen
+Münchenbuchsee
+Schüpfen
+Ittigen
+Bolligen
+Bolligen Dorf
+Stettlen
+Boll
+Utzigen
+Ostermundigen
+Gümligen
+Muri b. Bern
+Rüfenacht BE
+Worb
+Enggistein
+Richigen
+Schlosswil
+Trimstein
+Wabern
+Oberbütschel
+Zimmerwald
+Niedermuhlern
+Rüeggisberg
+Hinterfultigen
+Oberbalm
+Liebefeld
+Köniz
+Schliern b. Köniz
+Rüti b. Riggisberg
+Münsingen
+Allmendingen b. Bern
+Wichtrach
+Gerzensee
+Kirchdorf BE
+Kiesen
+Uttigen
+Kehrsatz
+Belp
+Belpberg
+Toffen
+Kaufdorf
+Mühlethurnen
+Kirchenthurnen
+Riggisberg
+Burgistein
+Wattenwil
+Seftigen
+Gurzelen
+Uetendorf
+Gasel
+Niederscherli
+Mittelhäusern
+Lanzenhäusern
+Schwarzenburg
+Mamishaus
+Rüschegg Gambach
+Rüschegg Heubach
+Helgisried-Rohrbach
+Riffenmatt
+Milken
+Guggisberg
+Riedstätt
+Niederwangen b. Bern
+Oberwangen b. Bern
+Thörishaus
+Flamatt
+Neuenegg
+Laupen BE
+Bösingen
+Kriechenwil
+Ueberstorf
+Albligen
+Wünnewil
+Düdingen
+Gelterfingen
+Frauenkappelen
+Mühleberg
+Rosshäusern
+Gümmenen
+Rizenbach
+Wileroltigen
+Gurbrü
+Kerzers
+Ried b. Kerzers
+Gempenach
+Ulmiz
+Liebistorf
+Gurmels
+Müntschemier
+Treiten
+Ins
+Tschugg
+Vinelz
+Erlach
+Gampelen
+Lyss
+Lyss Zustellung
+Wengi b. Büren
+Worben
+Schnottwil
+Messen
+Rapperswil BE
+Dieterswil
+Grossaffoltern
+Ammerzwil BE
+Suberg
+Büetigen
+Diessbach b. Büren
+Wiler b. Seedorf
+Seedorf BE
+Lobsigen
+Aarberg
+Radelfingen b. Aarberg
+Walperswil
+Kappelen
+Hermrigen
+Murten
+Meyriez
+Bargen BE
+Kallnach
+Fräschels
+Galmiz
+Muntelier
+Busswil BE
+Dotzigen
+Büren an der Aare
+Rüti b. Büren
+Arch
+Leuzigen
+Oberwil b. Büren
+Moosseedorf
+Jegenstorf
+Grafenried
+Fraubrunnen
+Büren zum Hof
+Schalunen
+Bätterkinden
+Kräiligen
+Schönbühl Einkaufszentrum
+Urtenen-Schönbühl
+Mattstetten
+Bäriswil BE
+Hindelbank
+Hettiswil b. Hindelbank
+Krauchthal
+Zuzwil BE
+Iffwil
+Etzelkofen
+Brunnenthal
+Kernenried
+Limpach
+Mülchi
+Herzogenbuchsee
+Höchstetten-Hellsau
+Aeschi SO
+Graben
+Wanzwil
+Heimenhausen
+Röthenbach Herzogenbuchsee
+Wangenried
+Niederönz
+Oberönz
+Seeberg
+Grasswil
+Bettenhausen
+Thörigen
+Bleienbach
+Burgdorf
+Heimiswil
+Kaltacker
+Oberburg
+Hasle-Rüegsau
+Affoltern im Emmental
+Rüegsau
+Rüegsbach
+Biembach im Emmental
+Lyssach
+Kirchberg BE
+Rüdtligen
+Alchenflüh
+Ersigen
+Niederösch
+Koppigen
+Aefligen
+Utzenstorf
+Wiler b. Utzenstorf
+Lützelflüh-Goldbach
+Schwanden im Emmental
+Obergoldbach
+Ramsei
+Zollbrück
+Rüderswil
+Lauperswil
+Ranflüh
+Grünenmatt
+Heimisbach
+Sumiswald
+Grünen
+Trachselwald
+Wasen im Emmental
+Weier im Emmental
+Häusernmoos im Emmental
+Schmidigen-Mühleweg
+Dürrenroth
+Wynigen
+Alchenstorf
+Rüedisbach
+Riedtwil
+Hermiswil
+Oschwand
+Tägertschi
+Gysenstein
+Niederhünigen
+Grosshöchstetten
+Biglen
+Arni BE
+Konolfingen
+Walkringen
+Bigenthal
+Schafhausen im Emmental
+Oberdiessbach
+Aeschlen b. Oberdiessbach
+Linden
+Bleiken b. Oberdiessbach
+Brenzikofen
+Oberthal
+Zäziwil
+Bowil
+Signau
+Schüpbach
+Aeschau
+Eggiwil
+Röthenbach im Emmental
+Emmenmatt
+Langnau im Emmental
+Oberfrittenbach
+Bärau
+Gohl
+Trubschachen
+Trub
+Fankhaus (Trub)
+Thun
+Fahrni b. Thun
+Süderen
+Eriz
+Innereriz
+Homberg b. Thun
+Uebeschi
+Höfen b. Thun
+Längenbühl
+Steffisburg
+Steffisburg
+Unterlangenegg
+Heimenschwand
+Schwarzenegg
+Teuffenthal b. Thun
+Goldiwil (Thun)
+Heiligenschwendi
+Hünibach
+Heimberg
+Amsoldingen
+Thierachern
+Blumenstein
+Pohlern
+Gwatt (Thun)
+Einigen
+Reutigen
+Hilterfingen
+Oberhofen am Thunersee
+Gunten
+Sigriswil
+Tschingel ob Gunten
+Aeschlen ob Gunten
+Schwanden (Sigriswil)
+Merligen
+Spiez
+Hondrich
+Aeschi b. Spiez
+Aeschiried
+Krattigen
+Faulensee
+Leissigen
+Därligen
+Emdthal
+Mülenen
+Reichenbach im Kandertal
+Frutigen
+Wengi b. Frutigen
+Adelboden
+Kandergrund
+Blausee-Mitholz
+Kandersteg
+Scharnachtal
+Kiental
+Ried (Frutigen)
+Achseten
+Wimmis
+Oey
+Diemtigen
+Horboden
+Zwischenflüh
+Schwenden im Diemtigtal
+Latterbach
+Erlenbach im Simmental
+Därstetten
+Weissenburg
+Oberwil im Simmental
+Boltigen
+Zweisimmen
+Blankenburg
+St. Stephan
+Matten (St. Stephan)
+Lenk im Simmental
+Oeschseite
+Saanenmöser
+Schönried
+Gstaad
+Turbach
+Lauenen b. Gstaad
+Grund b. Gstaad
+Feutersoey
+Gsteig b. Gstaad
+Saanen
+Interlaken
+Unterseen
+Matten b. Interlaken
+Jungfraujoch
+Beatenberg
+Habkern
+Goldswil b. Interlaken
+Bönigen b. Interlaken
+Iseltwald
+Wilderswil
+Saxeten
+Gsteigwiler
+Zweilütschinen
+Lütschental
+Burglauenen
+Grindelwald
+Lauterbrunnen
+Isenfluh
+Wengen
+Stechelberg
+Mürren
+Gimmelwald
+Ringgenberg BE
+Niederried b. Interlaken
+Oberried am Brienzersee
+Brienz BE
+Axalp
+Brienzwiler
+Unterbach BE
+Hofstetten b. Brienz
+Meiringen
+Rosenlaui
+Innertkirchen
+Gadmen
+Guttannen
+Brig
+Gamsen
+Hohtenn
+Birgisch
+Mund
+Blatten b. Naters
+Belalp
+Rosswald
+Ried-Brig
+Termen
+Rothwald
+Simplon Hospiz
+Simplon Dorf
+Gabi (Simplon)
+Gondo
+Eisten
+Saas-Balen
+Saas-Grund
+Glis
+Goppenstein
+Ferden
+Kippel
+Wiler (Lötschen)
+Blatten (Lötschen)
+Naters
+Saas-Almagell
+Saas-Fee
+Zermatt
+Törbel
+Embd
+Herbriggen
+Randa
+Täsch
+Stalden VS
+Kalpetran
+St. Niklaus VS
+Gasenried
+Grächen
+Visp
+St. German
+Staldenried
+Baltschieder
+Ausserberg
+Eggerberg
+Eyholz
+Lalden
+Visperterminen
+Zeneggen
+Bürchen
+Eischoll
+Unterbäch VS
+Ergisch
+Unterems
+Gruben
+Oberems
+Agarn
+Albinen
+Guttet-Feschel
+Erschmatt
+Varen
+Noës
+Flanthey
+Lens
+Icogne
+Grône
+Raron
+Niedergesteln
+Gampel
+Turtmann
+Susten
+Leuk Stadt
+Inden
+Leukerbad
+Salgesch
+Granges VS
+St-Léonard
+Sierre
+Corin-de-la-Crête
+Loc
+Chermignon
+Chermignon-d'en-Bas
+Ollon VS
+Miège
+Venthône
+Mollens VS
+Randogne
+Vissoie
+St-Luc
+Chandolin
+Ayer
+Zinal
+Grimentz
+Vercorin
+Montana
+Crans-Montana
+Muraz (Sierre)
+Chippis
+Chalais
+Réchy
+Veyras
+Bitsch
+Grengiols
+Lax
+Bellwald
+Niederwald
+Blitzingen
+Biel VS
+Gluringen
+Reckingen VS
+Geschinen
+Obergesteln
+Oberwald
+Ried-Mörel
+Riederalp
+Betten
+Bettmeralp
+Ernen
+Binn
+Mörel
+Fiesch
+Münster VS
+Ulrichen
+Basel
+Basel 2 Zustellung
+Basel Dist Ba
+Basel
+Basel 2 Annahme
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel Universitätsspital
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Bruderholz
+Binningen
+Bottmingen
+Oberwil BL
+Biel-Benken BL
+Therwil
+Ettingen
+Witterswil
+Bättwil-Flüh
+Bättwil
+Flüh
+Hofstetten SO
+Mariastein
+Metzerlen
+Burg im Leimental
+Rodersdorf
+Allschwil
+Schönenbuch
+Riehen
+Bettingen
+Birsfelden
+Muttenz
+Pratteln
+Münchenstein
+Dornach
+Arlesheim
+Gempen
+Hochwald
+Aesch BL
+Pfeffingen
+Reinach BL
+Duggingen
+Grellingen
+Seewen SO
+Bretzwil
+Nunningen
+Zwingen
+Brislach
+Breitenbach
+Büsserach
+Erschwil
+Laufen
+Dittingen
+Röschenz
+Kleinlützel
+Himmelried
+Blauen
+Nenzlingen
+Beinwil SO
+Fehren
+Meltingen
+Zullwil
+Wahlen b. Laufen
+Grindel
+Bärschwil
+Bärschwil Dorf
+Liesberg
+Liesberg Dorf
+Augst BL
+Kaiseraugst
+Kaiseraugst Liebrüti
+Giebenach
+Olsberg
+Rheinfelden
+Magden
+Möhlin
+Zeiningen
+Zuzgen
+Hellikon
+Wegenstetten
+Mumpf
+Wallbach
+Obermumpf
+Schupfart
+Stein AG
+Münchwilen AG
+Sisseln AG
+Laufenburg
+Kaisten
+Ittenthal
+Rheinsulz
+Sulz AG
+Etzgen
+Mettau
+Oberhofen AG
+Gansingen
+Wil AG
+Hottwil
+Schwaderloch
+Leibstadt
+Full-Reuenthal
+Frenkendorf
+Liestal
+Liestal Kaserne
+Seltisberg
+Nuglar
+Büren SO
+Füllinsdorf
+Lausen
+Bubendorf
+Ziefen
+Reigoldswil
+Lupsingen
+St. Pantaleon
+Arisdorf
+Hersberg
+Arboldswil
+Titterten
+Lauwil
+Bennwil
+Lampenberg
+Ramlinsburg
+Hölstein
+Niederdorf
+Oberdorf BL
+Waldenburg
+Langenbruck
+Thürnen
+Diepflingen
+Wittinsburg
+Rümlingen
+Häfelfingen
+Buckten
+Känerkinden
+Läufelfingen
+Sissach
+Wintersingen
+Itingen
+Nusshof
+Zunzgen
+Tenniken
+Diegten
+Eptingen
+Gelterkinden
+Böckten
+Hemmiken
+Anwil
+Rickenbach BL
+Buus
+Maisprach
+Ormalingen
+Rothenfluh
+Kienberg
+Tecknau
+Wenslingen
+Oltingen
+Zeglingen
+Kilchberg BL
+Rünenberg
+Solothurn
+Weissenstein b. Solothurn
+Balm b. Günsberg
+Niederwil SO
+Hubersdorf
+Rumisberg
+Farnern
+Horriwil
+Hersiwil
+Bellach
+Langendorf
+Lommiswil
+Oberdorf SO
+Rüttenen
+Günsberg
+Zuchwil
+Feldbrunnen
+Riedholz
+Flumenthal
+Attiswil
+Wiedlisbach
+Oberbipp
+Derendingen
+Subingen
+Etziken
+Inkwil
+Biberist
+Gerlafingen
+Obergerlafingen
+Zielebach
+Recherswil
+Kriegstetten
+Küttigkofen
+Kyburg-Buchegg
+Brügglen
+Mühledorf SO
+Gossliwil
+Bibern SO
+Lüterkofen-Ichertswil
+Ichertswil
+Tscheppach
+Hessigkofen
+Biezwil
+Aetingen
+Unterramsern
+Oberramsern
+Nennigkofen
+Lüsslingen
+Olten
+Wangen b. Olten
+Rickenbach SO
+Hägendorf
+Kappel SO
+Gunzgen
+Boningen
+Egerkingen
+Neuendorf
+Härkingen
+Oberbuchsiten
+Niederbuchsiten
+Trimbach
+Winznau
+Obergösgen
+Lostorf
+Stüsslingen
+Rohr b. Olten
+Starrkirch-Wil
+Dulliken
+Däniken SO
+Däniken Postzentrum
+Aarburg
+Oftringen
+Allerheiligenberg
+Hauenstein
+Wisen SO
+Oensingen
+Kestenholz
+Niederbipp
+Wangen an der Aare
+Walliswil b. Wangen
+Deitingen
+Luterbach
+Balsthal
+Balsthal Postauto Thal-Gäu
+Aedermannsdorf
+Herbetswil
+Ramiswil
+Laupersdorf
+Matzendorf
+Welschenrohr
+Gänsbrunnen
+Mümliswil
+Holderbank SO
+Zofingen
+Zofingen Ringier AG
+Strengelbach
+Vordemwald
+Brittnau
+Wikon
+Mühlethal
+Uerkheim
+Bottenwil
+Rothrist
+Murgenthal
+Fulenbach
+Wolfwil
+Glashütten
+Riken AG
+Langenthal
+Schwarzhäusern
+Aarwangen
+Bannwil
+Roggwil BE
+St. Urban
+Untersteckholz
+Melchnau
+Busswil b. Melchnau
+Gondiswil
+Reisiswil
+Bützberg
+Wynau
+Obersteckholz
+Lotzwil
+Rütschelen
+Madiswil
+Leimiswil
+Kleindietwil
+Ursenbach
+Rohrbach
+Walterswil BE
+Oeschenbach
+Auswil
+Rohrbachgraben
+Huttwil
+Eriswil
+Schwarzenbach (Huttwil)
+Wyssachen
+Aarau
+Schönenwerd
+Niedergösgen
+Gretzenbach
+Erlinsbach SO
+Barmelweid
+Rombach
+Biberstein
+Küttigen
+Asp
+Densbüren
+Herznach
+Ueken
+Aarau Rohr
+Buchs AG
+Suhr
+Unterentfelden
+Oberentfelden
+Muhen
+Schöftland
+Hirschthal
+Holziken
+Schlossrued
+Schmiedrued
+Walde AG
+Staffelbach
+Kirchleerau-Moosleerau
+Kirchleerau
+Moosleerau
+Attelwil
+Reitnau
+Rupperswil
+Wildegg
+Auenstein
+Veltheim AG
+Schinznach Dorf
+Oberflachs
+Thalheim AG
+Holderbank AG
+Möriken AG
+Schinznach Bad
+Habsburg
+Scherz
+Brugg AG
+Windisch
+Hausen AG
+Villnachern
+Umiken
+Riniken
+Stilli
+Villigen
+Rüfenach AG
+Remigen
+Mönthal
+Birr-Lupfig
+Birr
+Lupfig
+Mülligen
+Birrhard
+Effingen
+Bözen
+Elfingen
+Zeihen
+Hornussen
+Frick
+Oeschgen
+Gipf-Oberfrick
+Wittnau
+Wölflinswil
+Oberhof
+Eiken
+Turgi
+Siggenthal Station
+Würenlingen
+Endingen
+Unterendingen
+Tegerfelden
+Döttingen
+Klingnau
+Kleindöttingen
+Böttstein
+Leuggern
+Hettenschwil
+Mandach
+Koblenz
+Baden
+Ennetbaden
+Gebenstorf
+Birmenstorf AG
+Nussbaumen AG
+Kirchdorf AG
+Untersiggenthal
+Ehrendingen
+Freienwil
+Schneisingen
+Lengnau AG
+Wettingen
+Neuenhof
+Fislisbach
+Niederrohrdorf
+Künten
+Eggenwil
+Oberrohrdorf
+Remetschwil
+Bellikon
+Hunzenschwil
+Schafisheim
+Othmarsingen
+Brunegg
+Mägenwil
+Mellingen
+Wohlenschwil
+Tägerig
+Nesselnbach
+Niederwil AG
+Fischbach-Göslikon
+Lenzburg
+Ammerswil AG
+Staufen
+Hendschiken
+Dottikon
+Dintikon
+Hägglingen
+Stetten AG
+Wohlen AG
+Anglikon
+Büttikon AG
+Villmergen
+Hilfikon
+Sarmenstorf
+Fahrwangen
+Meisterschwanden
+Tennwil
+Bettwil
+Bremgarten AG
+Zufikon
+Bremgarten AG Kaserne
+Waltenschwil
+Boswil
+Bünzen
+Kallern
+Hermetschwil-Staffeln
+Besenbüren
+Aristau
+Muri AG
+Buttwil
+Merenschwand
+Benzenschwil
+Beinwil (Freiamt)
+Mühlau
+Sins
+Auw
+Aettenschwil
+Abtwil AG
+Oberrüti
+Alikon
+Niederlenz
+Seon
+Egliswil
+Hallwil
+Boniswil
+Seengen
+Birrwil
+Beinwil am See
+Gränichen
+Teufenthal AG
+Dürrenäsch
+Leutwil
+Unterkulm
+Oberkulm
+Gontenschwil
+Zetzwil
+Leimbach AG
+Reinach AG
+Pfeffikon LU
+Burg AG
+Menziken
+Kölliken
+Safenwil
+Walterswil SO
+Luzern
+Kriens
+Obernau
+Eigenthal
+Luzern
+Luzern
+Hellbühl
+Ruswil
+Sigigen
+Buttisholz
+Emmenbrücke
+Grosswangen
+Rothenburg
+Hildisrieden
+Neudorf
+Rain
+Römerswil LU
+Herlisberg
+Ebikon
+Emmen
+Buchrain
+Inwil
+Perlen
+Dierikon
+Root
+Gisikon
+Dietwil
+Adligenswil
+Udligenswil
+Meggen
+Kastanienbaum
+Horw
+Hergiswil NW
+Alpnachstad
+Alpnach Dorf
+Kägiswil
+Sarnen
+Ramersberg
+Melchsee-Frutt
+Wilen (Sarnen)
+Stalden (Sarnen)
+Kerns
+St. Niklausen OW
+Melchtal
+Sachseln
+Flüeli-Ranft
+Giswil
+Bürglen OW
+Lungern
+Brünig
+Hasliberg Hohfluh
+Hasliberg Wasserwendi
+Hasliberg Goldern
+Hasliberg Reuti
+Pilatus Kulm
+Malters
+Schwarzenberg LU
+Schachen LU
+Werthenstein
+Wolhusen
+Steinhuserberg
+Fontannen b. Wolhusen
+Doppleschwand
+Romoos
+Menznau
+Geiss
+Menzberg
+Daiwil
+Willisau
+Rohrmatt
+Hergiswil b. Willisau
+Gettnau
+Ohmstal
+Zell LU
+Fischbach LU
+Grossdietwil
+Altbüron
+Hüswil
+Ufhusen
+Hofstatt
+Luthern
+Entlebuch Businesszentrum
+Entlebuch
+Ebnet
+Rengg
+Finsterwald b. Entlebuch
+Hasle LU
+Bramboden
+Schüpfheim
+Flühli LU
+Sörenberg
+Escholzmatt
+Wiggen
+Marbach LU
+Schangnau
+Sempach Station
+Sempach
+Eich
+Neuenkirch
+Nottwil
+Oberkirch LU
+Sursee
+Buchs LU
+St. Erhard
+Knutwil
+Schenkon
+Beromünster
+Schwarzenbach LU
+Mauensee
+Kottwil
+Ettiswil
+Rickenbach LU
+Gunzwil
+Schlierbach
+Geuensee
+Büron
+Triengen
+Kulmerau
+Wilihof
+Winikon
+Wauwil
+Egolzwil
+Nebikon
+Ebersecken
+Altishofen
+Schötz
+Alberswil
+Dagmersellen
+Uffikon
+Reiden
+Reidermoos
+Langnau b. Reiden
+Richenthal
+Pfaffnau
+Roggliswil
+Eschenbach LU
+Ballwil
+Hohenrain
+Kleinwangen
+Hochdorf
+Urswil
+Baldegg
+Gelfingen
+Hitzkirch
+Retschwil
+Müswangen
+Altwis
+Aesch LU
+Schongau
+Ermensee
+Mosen
+Zug
+Cham
+Edlibach
+Finstersee
+Allenwinden
+Morgarten
+Steinhausen
+Menzingen
+Unterägeri
+Neuägeri
+Oberägeri
+Alosen
+Zugerberg
+Oberwil b. Zug
+Walchwil
+Cham
+Hünenberg
+Hagendorn
+Baar
+Rotkreuz
+Meierskappel
+Neuheim
+Weggis
+Vitznau
+Rigi Kaltbad
+Stansstad
+Obbürgen
+Kehrsiten
+Stans
+Ennetmoos
+Ennetbürgen
+Buochs
+Beckenried
+Emmetten
+Seelisberg
+Büren NW
+Dallenwil
+Niederrickenbach
+Wolfenschiessen
+Oberrickenbach
+Grafenort
+Engelberg
+Merlischachen
+Küssnacht am Rigi
+Greppen
+Immensee
+Goldau
+Rigi Klösterli
+Rigi Staffel
+Rigi Kulm
+Oberarth
+Arth
+Steinerberg
+Sattel
+Rothenthurm
+Steinen
+Seewen SZ
+Lauerz
+Schwyz
+Ried (Muotathal)
+Rickenbach b. Schwyz
+Stoos SZ
+Illgau
+Muotathal
+Bisisthal
+Ibach
+Brunnen
+Rütli
+Gersau
+Morschach
+Sisikon
+Riemenstalden
+Flüelen
+Altdorf UR
+Isenthal
+Seedorf UR
+Bürglen UR
+Spiringen
+Unterschächen
+Bauen
+Schattdorf
+Haldi b. Schattdorf
+Attinghausen
+Erstfeld
+Silenen
+Amsteg
+Bristen
+Intschi
+Gurtnellen
+Wassen UR
+Meien
+Göschenen
+Andermatt
+Realp
+Hospental
+Bellinzona
+Giubiasco
+Monte Carasso
+Sementina
+Gudo
+Cugnasco
+Arbedo
+Gorduno
+Gnosca
+Prosito
+Lodrino
+Camorino
+Castione
+Lumino
+S. Vittore
+Roveredo GR
+Grono
+Preonzo
+Moleno
+Pianezzo
+S. Antonio (Val Morobbia)
+Carena
+Laura
+Castaneda
+Sta. Maria in Calanca
+Verdabbio
+Buseno
+Arvigo
+Braggio
+Selma
+Cauco
+Augio
+Rossa
+Leggia
+S. Bernardino
+Cama
+Lostallo
+Cabbiolo
+Soazza
+Mesocco
+Quartino
+Magadino
+Vira (Gambarogno)
+S. Nazzaro
+Vairano
+Gerra (Gambarogno)
+Ranzo
+Caviano
+Piazzogna
+Indemini
+S. Antonino
+Cadenazzo
+Contone
+Riazzino
+Gordola
+Agarone
+Tenero
+Robasacco
+Locarno
+Muralto
+Monte Brè sopra Locarno
+Golino
+Arcegno
+Contra
+Mergoscia
+Auressio
+Loco
+Berzona
+Mosogno
+Russo
+Vergeletto
+Gresso
+Crana
+Comologno
+Spruga
+Vogorno
+Corippo
+Lavertezzo
+Brione (Verzasca)
+Gerra (Verzasca)
+Frasco
+Sonogno
+Ascona
+Porto Ronco
+Brissago
+Isole di Brissago
+Losone
+Ronco sopra Ascona
+Orselina
+Brione sopra Minusio
+Minusio
+Verdasio
+Rasa
+Palagnedra
+Borgnone
+Camedo
+Moneto
+Tegna
+Verscio
+Cavigliano
+Intragna
+Avegno
+Moghegno
+Coglio
+Lodano
+Giumaglio
+Riveo
+Linescio
+Cerentino
+Bosco/Gurin
+Niva (Vallemaggia)
+Campo (Vallemaggia)
+Cimalmotto
+Cavergno
+S. Carlo (Val Bavona)
+Brontallo
+Menzonio
+Broglio
+Prato-Sornico
+Peccia
+Piano di Peccia
+Fusio
+Gordevio
+Maggia
+Someo
+Cevio
+Bignasco
+Claro
+Osogna
+Cresciano
+Iragna
+Biasca
+Biasca Stazione
+Ludiano
+Corzoneso
+Leontica
+Prugiasco
+Castro
+Ponto Valentino
+Lottigna
+Aquila
+Campo (Blenio)
+Motto (Blenio)
+Malvaglia
+Semione
+Dongio
+Acquarossa
+Dangio
+Torre
+Olivone
+Camperio
+Pollegio
+Bodio TI
+Giornico
+Lavorgo
+Calonico
+Nivo
+Chironico
+Faido
+Molare
+Calpiogna
+Campello
+Carì
+Rodi-Fiesso
+Ambrì
+Piotta
+Quinto
+Varenzo
+Airolo
+Villa Bedretto
+Madrano
+Bedretto
+Personico
+Anzonico
+Sobrio
+Cavagnago
+Mairengo
+Osco
+Rossura
+Chiggiogna
+Prato (Leventina)
+Dalpe
+Rivera
+Bironico
+Camignolo
+Taverne
+Torricella
+Lamone-Cadempino
+Melide
+Bissone
+Maroggia
+Melano
+Arogno
+Capolago
+Riva San Vitale
+Balerna
+Chiasso
+Sagno
+Caneggio
+Bruzella
+Cabbio
+Muggio
+Scudellate
+Pedrinate
+Seseglio
+Vacallo
+Morbio Inferiore
+Serfontana
+Morbio Superiore
+Medeglia
+Isone
+Mezzovico
+Sigirino
+Rovio
+Pugerna
+Mendrisio
+Mendrisio Stazione
+Mendrisio Borgo
+Monte
+Casima
+Corteglia
+Genestrerio
+Ligornetto
+S. Pietro
+Stabio
+Rancate
+Besazio
+Arzo
+Tremona
+Meride
+Serpiano
+Salorino
+Somazzo
+Castel San Pietro
+Coldrerio
+Novazzano
+Lugano
+Massagno
+Lugano Distribuzione
+Lugano
+Carabbia
+Pambio-Noranco
+Grancia
+Barbengo
+Carabietta
+Vico Morcote
+Manno
+Gravesano
+Bedano
+Arosio
+Mugena
+Vezio
+Breno
+Fescoggia
+Comano
+Brè sopra Lugano
+Brusino Arsizio
+Pazzallo
+Carona
+Figino
+Morcote
+Sorengo
+Gentilino
+Montagnola
+Agra
+Breganzona
+Muzzano
+Bioggio
+Bosco Luganese
+Cademario
+Savosa
+Vezia
+Porza
+Tesserete
+Cureglia
+Origlio
+Ponte Capriasca
+Vaglio
+Sala Capriasca
+Bigorio
+Lugaggia
+Insone
+Odogno
+Lopagno
+Roveredo TI
+Bidogno
+Corticiasca
+Scareglia
+Colla
+Bogno
+Cozzo
+Cagiallo
+Oggio
+Signôra
+Cimadera
+Maglio di Colla
+Certara
+Curtina
+Piandera Paese
+Canobbio
+Viganello
+Pregassona
+Davesco-Soragno
+Cadro
+Villa Luganese
+Dino
+Sonvico
+Aldesago
+Castagnola
+Ruvigliana
+Gandria
+Cassina d'Agno
+Neggio
+Vernate
+Iseo
+Aranno
+Cimo
+Bedigliora
+Biogno-Beride
+Castelrotto
+Bombinasco
+Banco
+Astano
+Miglieglia
+Purasca
+Molinazzo di Monteggio
+Ponte Cremenaga
+Sessa
+Termine
+Agno
+Magliaso
+Pura
+Curio
+Novaggio
+Caslano
+Ponte Tresa
+Chur
+Felsberg
+Domat/Ems
+Tamins
+Flims Dorf
+Flims Waldhaus
+Haldenstein
+Maladers
+Laax GR
+Arosa
+Passugg-Araschgen
+Praden
+Tschiertschen
+Malix
+Churwalden
+Parpan
+Valbella
+Lenzerheide/Lai
+Vaz/Obervaz
+Lantsch/Lenz
+Brienz/Brinzauls GR
+Trin
+Trin Mulin
+Fidaz
+Lüen
+Castiel
+St. Peter
+Pagig
+Molinis
+Peist
+Langwies
+Litzirüti
+Versam
+Arezen
+Tenna
+Safien Platz
+Thalkirch
+Valendas
+Carrera
+Castrisch
+Ilanz
+Ruschein
+Ladir
+Schluein
+Falera
+Sagogn
+Sevgein
+Riein
+Pitasch
+Duvin
+Camuns
+Uors (Lumnezia)
+Surcasti
+Tersnaus
+Luven
+Cumbel
+Morissen
+Vella
+Degen
+Vattiz
+Vignogn
+Lumbrein
+Surin
+Vrin
+Flond
+Surcuolm
+Vals
+Obersaxen Affeier
+Obersaxen Meierhof
+Obersaxen Giraniga
+Obersaxen Friggahüs
+Pigniu
+Rueun
+Siat
+Waltensburg/Vuorz
+Andiast
+Tavanasa
+Danis
+Dardin
+Breil/Brigels
+Trun
+Schlans
+Zignau
+Rabius
+Sumvitg
+S. Benedetg
+Disentis/Mustér
+Cavardiras
+Mumpé Medel
+Curaglia
+Platta
+Segnas
+Camischolas
+Rueras
+Sedrun
+Surrein
+Cumpadials
+Untervaz Bahnhof
+Trimmis
+Says
+Untervaz
+Zizers
+Igis
+Malans GR
+Seewis Dorf
+Valzeina
+Grüsch
+Fanas
+Schiers
+Schuders
+Stels
+Mittellunden
+Buchen im Prättigau
+Putz
+Pusserein
+Pragg-Jenaz
+Furna
+Jenaz
+Fideris
+Küblis
+Luzein
+Pany
+Gadenstätt
+Ascharina
+St. Antönien
+Conters im Prättigau
+Saas im Prättigau
+Serneus
+Klosters
+Klosters Dorf
+Davos Dorf
+Davos Wolfgang
+Davos Platz
+Davos Clavadel
+Davos Frauenkirch
+Davos Glaris
+Davos Monstein
+Landquart
+Mastrils
+Maienfeld
+Fläsch
+Jenins
+Bad Ragaz
+Valens
+Vasön
+Vadura
+Vättis
+Pfäfers
+St. Margrethenberg
+Sargans
+Schwendi im Weisstannental
+Weisstannen
+Wangs
+Vilters
+Bonaduz
+Rhäzüns
+Feldis/Veulden
+Rothenbrunnen
+Cazis
+Realta
+Sils im Domleschg
+Scharans
+Fürstenaubruck
+Fürstenau
+Rodels
+Almens
+Paspels
+Trans
+Tumegl/Tomils
+Scheid
+Thusis
+Masein
+Flerden
+Urmein
+Tschappina
+Glaspass
+Summaprada
+Tartar
+Sarn
+Präz
+Dalin
+Mutten
+Rongellen
+Zillis
+Donat
+Farden
+Mathon
+Wergenstein
+Lohn GR
+Sufers
+Splügen
+Medels im Rheinwald
+Nufenen
+Hinterrhein
+Andeer
+Clugin
+Pignia
+Ausserferrera
+Innerferrera
+Campsut-Cröt
+Cresta (Avers)
+Am Bach (Avers)
+Juf
+Tiefencastel
+Mon
+Stierva
+Alvaschein
+Cunter
+Tinizong
+Rona
+Mulegns
+Sur
+Bivio
+Savognin
+Salouf
+Riom
+Parsonz
+Surava
+Alvaneu Bad
+Filisur
+Bergün/Bravuogn
+Stugl/Stuls
+Latsch
+Preda
+Alvaneu Dorf
+Schmitten (Albula)
+Davos Wiesen
+St. Moritz
+Bever
+Samedan
+Pontresina
+Celerina/Schlarigna
+Champfèr
+Silvaplana
+Sils/Segl Maria
+Fex
+Sils/Segl Baselgia
+Maloja
+Plaun da Lej
+La Punt-Chamues-ch
+Madulain
+Zuoz
+S-chanf
+Cinuos-chel
+Brail
+Zernez
+Tschierv
+Fuldera
+Lü
+Valchava
+Sta. Maria Val Müstair
+Müstair
+Susch
+Lavin
+Guarda
+Ardez
+Scuol
+Ftan
+Vulpera
+Tarasp
+Sent
+Crusch
+Ramosch
+Vnà
+Strada
+Tschlin
+Martina
+Samnaun-Compatsch
+Samnaun Dorf
+Casaccia
+Vicosoprano
+Borgonovo
+Stampa
+Promontogno
+Soglio
+Castasegna
+Poschiavo
+Sfazù
+La Rösa
+Brusio
+Viano
+Campocologno
+Ospizio Bernina
+S. Carlo (Poschiavo)
+Alp Grüm
+Li Curt
+Le Prese
+Campascio
+Zürich
+Oberengstringen
+Unterengstringen
+Weiningen ZH
+Regensdorf
+Watt
+Buchs ZH
+Dällikon
+Otelfingen
+Boppelsen
+Dänikon ZH
+Hüttikon
+Würenlos
+Fällanden
+Benglen
+Binz
+Ebmatingen
+Maur
+Zollikerberg
+Zumikon
+Forch
+Hinteregg
+Egg b. Zürich
+Esslingen
+Adliswil
+Langnau am Albis
+Gattikon
+Uetliberg
+Uitikon Waldegg
+Stallikon
+Glattbrugg
+Opfikon
+Rümlang
+Oberglatt ZH
+Niederhasli
+Oberhasli
+Dielsdorf
+Regensberg
+Steinmaur
+Bachs
+Schöfflisdorf
+Niederweningen
+Niederglatt ZH
+Neerach
+Stadel b. Niederglatt
+Windlach
+Bülach
+Höri
+Hochfelden
+Bachenbülach
+Winkel
+Glattfelden
+Eglisau
+Hüntwangen
+Wasterkingen
+Wil ZH
+Rafz
+Schaffhausen
+Trasadingen
+Beggingen
+Hemmental
+Stetten SH
+Lohn SH
+Opfertshofen SH
+Büttenhardt
+Bibern SH
+Hofen SH
+Altdorf SH
+Dörflingen
+Neuhausen am Rheinfall
+Neunkirch
+Gächlingen
+Hallau
+Oberhallau
+Wilchingen
+Osterfingen
+Beringen
+Guntmadingen
+Löhningen
+Siblingen
+Schleitheim
+Merishausen
+Bargen SH
+Thayngen
+Barzheim
+Feuerthalen
+Langwiesen
+Flurlingen
+Schlatt TG
+Basadingen
+Kaltenbach
+Diessenhofen
+Schlattingen
+Etzwilen
+Stein am Rhein
+Wagenhausen
+Hemishofen
+Ramsen
+Buch SH
+Eschenz
+Mammern
+Steckborn
+Berlingen
+Mannenbach-Salenstein
+Ermatingen
+Triboltingen
+Tägerwilen
+Kreuzlingen
+Glattzentrum b. Wallisellen
+Kloten
+Bassersdorf
+Wallisellen
+Dietlikon
+Brüttisellen
+Effretikon
+Lindau
+Illnau
+Agasul
+Nürensdorf
+Kemptthal
+Winterberg ZH
+Brütten
+Ottikon b. Kemptthal
+Kyburg
+Zumikon Yves Rocher SA
+Fehraltorf
+Wildberg
+Madetswil
+Pfäffikon ZH
+Auslikon
+Russikon
+Hittnau
+Hinwil
+Wernetshausen
+Bäretswil
+Adetswil
+Elsau
+Elgg
+Hofstetten ZH
+Aadorf
+Ettenhausen TG
+Guntershausen b. Aadorf
+Eschlikon TG
+Balterswil
+Bichelsee
+Sirnach
+Wiezikon b. Sirnach
+Oberwangen TG
+Dussnang
+Fischingen
+Au TG
+Winterthur
+Aesch (Neftenbach)
+Neftenbach
+Buch am Irchel
+Berg am Irchel
+Gräslikon
+Flaach
+Schlatt b. Winterthur
+Pfungen
+Dättlikon
+Embrach-Embraport
+Embrach
+Oberembrach
+Lufingen
+Rorbas-Freienstein
+Teufen ZH
+Zweidlen
+Weiach
+Kaiserstuhl AG
+Fisibach
+Rekingen AG
+Bad Zurzach
+Rietheim
+Rümikon AG
+Mellikon
+Wislikofen
+Siglistorf
+Baldingen
+Böbikon
+Hettlingen
+Henggart
+Dachsen
+Uhwiesen
+Andelfingen
+Alten
+Kleinandelfingen
+Adlikon b. Andelfingen
+Humlikon
+Dorf
+Volken
+Buchberg
+Rüdlingen
+Marthalen
+Ellikon am Rhein
+Oerlingen
+Rudolfingen
+Trüllikon
+Rheinau
+Benken ZH
+Seuzach
+Reutlingen (Winterthur)
+Dinhard
+Ossingen
+Unterstammheim
+Oberstammheim
+Rutschwil (Dägerlen)
+Thalheim an der Thur
+Altikon
+Truttikon
+Guntalingen
+Waltalingen
+Sennhof (Winterthur)
+Kollbrunn
+Weisslingen
+Neschwil
+Theilingen
+Rikon im Tösstal
+Rämismühle
+Zell ZH
+Turbenthal
+Wila
+Saland
+Bauma
+Steg im Tösstal
+Fischenthal
+Gibswil
+Schmidrüti
+Sternenberg
+Frauenfeld
+Gerlikon
+Pfyn
+Lanzenneunforn
+Hörhausen
+Homburg
+Thundorf
+Lustdorf
+Amlikon-Bissegg
+Häuslenen
+Hagenbuch ZH
+Uesslingen
+Niederneunforn
+Oberneunforn
+Warth
+Buch b. Frauenfeld
+Weiningen TG
+Herdern
+Hüttwilen
+Nussbaumen TG
+Wiesendangen
+Stadel (Winterthur)
+Rickenbach ZH
+Attikon
+Islikon
+Gachnang
+Ellikon an der Thur
+Felben-Wellhausen
+Hüttlingen-Mettendorf
+Müllheim-Wigoltingen
+Bonau
+Müllheim Dorf
+Wigoltingen
+Lipperswil
+Raperswilen
+Fruthwilen
+Märstetten
+Ottoberg
+Hugelshofen
+Dotnacht
+Neuwilen
+Engwilen
+Wäldi
+Weinfelden
+Berg TG
+Siegershausen
+Lengwil-Oberhofen
+Illighausen
+Bürglen TG
+Mauren TG
+Schönholzerswilen
+Neukirch an der Thur
+Amriswil
+Sommeri
+Dozwil
+Hagenwil b. Amriswil
+Schocherswil
+Zihlschlacht
+Sitterdorf
+Sulgen
+Götighofen
+Donzhausen
+Leimbach TG
+Opfershofen TG
+Mattwil
+Happerswil
+Langrickenbach
+Zuben
+Erlen
+Andwil TG
+Kümmertshausen
+Riedt b. Erlen
+Oberaach
+Romanshorn
+Salmsach
+Uttwil
+Kesswil
+Güttingen
+Altnau
+Scherzingen
+Landschlacht
+Bottighofen
+Dübendorf
+Wangen b. Dübendorf
+Schwerzenbach
+Volketswil
+Gutenswil
+Nänikon
+Greifensee
+Aathal-Seegräben
+Bubikon
+Uster
+Bertschikon (Gossau ZH)
+Wermatswil
+Riedikon
+Mönchaltorf
+Oetwil am See
+Wetzikon ZH
+Grüt (Gossau ZH)
+Gossau ZH
+Ottikon (Gossau ZH)
+Grüningen
+Rüti ZH
+Tann
+Wolfhausen
+Hombrechtikon
+Dürnten
+Wald ZH
+Faltigberg
+Laupen ZH
+Goldingen
+Rapperswil SG
+Kempraten
+Rapperswil SG Zustellung
+Jona
+Wagen
+Küsnacht ZH
+Zollikon
+Zollikon Dorf
+Erlenbach ZH
+Herrliberg
+Meilen
+Uetikon am See
+Männedorf
+Stäfa
+Uerikon
+Feldbach
+Bollingen
+Schmerikon
+Benken SG
+Schänis
+Kaltbrunn
+Rufi
+Ernetschwil
+Ricken SG
+Walde SG
+Uznach
+Neuhaus SG
+Eschenbach SG
+Ermenswil
+St. Gallenkappel
+Rüeterswil
+Gommiswald
+Uetliburg SG
+Rieden SG
+Uznach Vögele Versandhaus
+Glarus
+Riedern
+Klöntal
+Urnerboden
+Näfels
+Mollis
+Netstal
+Ennenda
+Mitlödi
+Schwanden GL
+Schwändi b. Schwanden
+Sool
+Engi
+Matt
+Elm
+Nidfurn
+Haslen GL
+Luchsingen
+Hätzingen
+Diesbach GL
+Rüti GL
+Linthal
+Braunwald
+Thalwil
+Kilchberg ZH
+Rüschlikon
+Au ZH
+Richterswil
+Richterswil Burghalden SOB
+Bäch SZ
+Freienbach
+Pfäffikon SZ
+Horgen
+Horgenberg
+Hirzel
+Wädenswil
+Schönenberg ZH
+Hütten
+Wollerau
+Samstagern
+Schindellegi
+Feusisberg
+Bennau
+Einsiedeln
+Trachslau
+Alpthal
+Willerzell
+Egg SZ
+Gross
+Euthal
+Studen SZ
+Unteriberg
+Oberiberg
+Altendorf
+Lachen SZ
+Siebnen
+Galgenen
+Wangen SZ
+Tuggen
+Vorderthal
+Innerthal
+Schübelbach
+Buttikon SZ
+Reichenburg
+Bilten
+Ziegelbrücke
+Niederurnen
+Oberurnen
+Weesen
+Amden
+Mühlehorn
+Obstalden
+Filzbach
+Murg
+Quinten
+Walenstadt
+Walenstadtberg
+Knoblisbühl
+Tscherlach
+Unterterzen
+Quarten
+Oberterzen
+Mols
+Mels
+Mädris-Vermol
+Plons
+Heiligkreuz (Mels)
+Flums
+Berschis
+Flums Hochwiese
+Flumserberg Saxli
+Flumserberg Portels
+Flumserberg Bergheim
+Flumserberg Tannenheim
+Flumserberg Tannenbodenalp
+Urdorf
+Birmensdorf ZH
+Aesch ZH
+Arni-Islisberg
+Bonstetten
+Wettswil
+Hedingen
+Affoltern am Albis
+Zwillikon
+Rifferswil
+Obfelden
+Ottenbach
+Aeugst am Albis
+Aeugstertal
+Hausen am Albis
+Jonen
+Oberlunkhofen
+Unterlunkhofen
+Rottenschwil
+Ebertswil
+Kappel am Albis
+Mettmenstetten
+Maschwanden
+Knonau
+Oberrieden
+Sihlbrugg Station
+Sihlbrugg
+Fahrweid
+Schlieren
+Dietikon
+Geroldswil
+Oetwil an der Limmat
+Killwangen
+Spreitenbach
+Bergdietikon
+Rudolfstetten
+Berikon
+Oberwil-Lieli
+Widen
+St. Gallen
+Abtwil SG
+Engelburg
+Untereggen
+Eggersriet
+Grub AR
+Grub SG
+Speicherschwendi
+Rehetobel
+Speicher
+Trogen
+Wald AR
+Appenzell
+Niederteufen
+Teufen AR
+Haslen AI
+Bühler
+Gais
+Weissbad
+Brülisau
+Lustmühle
+Stein AR
+Hundwil
+Herisau
+Schwellbrunn
+Waldstatt
+Schönengrund
+Urnäsch
+Gonten
+Schachen b. Herisau
+Degersheim
+Hoffeld
+Dicken
+Wolfertswil
+Mogelsberg
+Nassen
+Brunnadern
+Necker
+St. Peterzell
+Bächli (Hemberg)
+Gossau SG
+Niederwil SG
+Andwil SG
+Waldkirch
+Arnegg
+Hauptwil
+Kradolf-Schönenberg
+Heldswil
+Schönenberg an der Thur
+Buhwil
+Bischofszell
+Schweizersholz
+Halden
+Hohentannen
+Wilen (Gottshaus)
+St. Pelagiberg
+Flawil
+Egg (Flawil)
+Oberrindal
+Lütisburg
+Uzwil
+Niederglatt SG
+Oberuzwil
+Bichwil
+Jonschwil
+Niederuzwil
+Oberbüren
+Niederbüren
+Henau
+Algetshausen
+Wittenbach
+Bernhardzell
+Berg SG
+Freidorf TG
+Winden
+Lömmenschwil
+Häggenschwil
+Muolen
+Steinebrunn
+Neukirch (Egnach)
+Arbon
+Frasnacht
+Stachen
+Egnach
+Steinach
+Roggwil TG
+Horn
+Tübach
+Rorschach
+Rorschacherberg
+Mörschwil
+Goldach
+Wienacht-Tobel
+Heiden
+Reute AR
+Oberegg
+Schachen b. Reute
+Staad SG
+Altenrhein
+Rheineck
+Thal
+Lutzenberg
+Wolfhalden
+Walzenhausen
+St. Margrethen SG
+Platz AR
+Au SG
+Heerbrugg
+Balgach
+Marbach SG
+Lüchingen
+Berneck
+Widnau
+Diepoldsau
+Rebstein
+Altstätten SG
+Kriessern
+Hinterforst
+Eichberg
+Montlingen
+Oberriet SG
+Rüthi (Rheintal)
+Lienz
+Salez
+Sennwald
+Frümsen
+Sax
+Haag (Rheintal)
+Buchs SG
+Buchs SG Räfis
+Grabs
+Grabserberg
+Gams
+Sevelen
+Weite
+Trübbach
+Azmoos
+Oberschan
+Nendeln
+Schaanwald
+Gamprin-Bendern
+Schellenberg
+Vaduz
+Ruggell
+Eschen
+Mauren FL
+Schaan
+Triesen
+Balzers
+Triesenberg
+Wil SG
+Braunau
+Stehrenberg
+Friltschen
+Lommis
+Stettfurt
+Weingarten-Kalthäusern
+Rossrüti
+Wuppenau
+Hosenruck
+Mettlen
+Rothenhausen
+Züberwangen
+Zuzwil SG
+Lenggenwil
+Zuckenriet
+Niederhelfenschwil
+Rickenbach b. Wil
+Kirchberg SG
+Gähwil
+Wilen b. Wil
+Schwarzenbach SG
+Münchwilen TG
+St. Margarethen TG
+Wängi
+Tuttwil
+Wittenwil
+Matzingen
+Bronschhofen
+Bettwiesen
+Tägerschen
+Tobel
+Affeltrangen
+Märwil
+Schmidshof
+Oppikon
+Bussnang
+Littenheid
+Lütisburg Station
+Bazenheid
+Müselbach
+Bütschwil
+Mosnang
+Ganterschwil
+Dreien
+Mühlrüti
+Libingen
+Dietfurt
+Lichtensteig
+Oberhelfenschwil
+Krinau
+Wattwil
+Ulisbach
+Hemberg
+Ebnat-Kappel
+Krummenau
+Nesslau
+Ennetbühl
+Stein SG
+Neu St. Johann
+Alt St. Johann
+Unterwasser
+Wildhaus
+Schmitten FR
+Rubigen
+Brig Zustellung
+Zug
+Campione d'Italia
+Büsingen
+Zug
+Zug
+Genève Services Spéciaux
+Chur Postauto GR Reg. Chur
+Lugano 3
+Bern
+Lausanne Charles Veillon SA
+Bruson
+Sundlauenen
+Bern
+Mex VD
+Tentlingen
+Villars-Ste-Croix
+Cheseaux-Noréaz
+Herisau
+Innerberg
+Mies
+Tannay
+Oberdorf NW
+Hermatswil
+Tagelswangen
+Schwanden b. Brienz
+Spiezwiler
+St-Jean VS
+Walliswil b. Niederbipp
+Massagno Caselle
+Luzern
+Vich
+Coinsins
+Gockhausen
+Villigen PSI
+Baar Sonderdienste
+Sulzbach
+Chandolin (Savièse)
+Clavaleyres
+Champoz
+Monible
+Schelten
+Vellerat
+Rebévelier
+Hagneck
+Mörigen
+Schwadernau
+Bollion
+Chandon
+Chapelle (Broye)
+Châtillon FR
+Forel FR
+Frasses
+Les Friques
+Granges-de-Vesin
+Lully FR
+Montbrelloz
+Morens FR
+Praratoud
+Prévondavaux
+Russy
+Seiry
+Sévaz
+Vallon
+Vesin
+Berlens
+Bionnens
+Blessens
+Chapelle (Glâne)
+Chavannes-sous-Orsonnens
+Les Ecasseys
+Esmonts
+Gillarens
+Hennens
+Lieffrens
+Lussy FR
+La Magne
+Montet (Glâne)
+Morlens
+Mossel
+La Neirigue
+Villargiroud
+Châtel-sur-Montsalvens
+Lessoc
+Maules
+Villarbeney
+Villars-sous-Mont
+Autafond
+La Corbaz
+Corjolens
+Cormagens
+Ecuvillens
+Essert FR
+Farvagny-le-Petit
+Ferpicloz
+Grenilles
+Lossy
+Lovens
+Magnedens
+Montévraz
+Oberried FR
+Pierrafortscha
+Ponthaux
+Posat
+Rueyres-St-Laurent
+Senèdes
+Villarsel-le-Gibloux
+Villarsel-sur-Marly
+Zénauva
+Cormérod
+Courtion
+Guschelmuth
+Wallenried
+Oberschrot
+Zumholz
+Besencens
+Fiaugères
+Grattavache
+Pizy
+Mur (Vully) VD
+Oleyres
+Chavannes-le-Veyron
+Mauraz
+Eclagnens
+Goumoens-le-Jux
+Naz
+Grandevent
+Mutrux
+Romairon
+Vaugondry
+Jouxtens-Mézery
+Chigny
+Denges
+Correvon
+Lovatens
+Martherenges
+Montaubion-Chardonney
+Rossenges
+Sarzens
+Arnex-sur-Nyon
+Bogis-Bossey
+Chavannes-des-Bois
+Sergey
+Bussigny-sur-Oron
+Chesalles-sur-Oron
+Les Tavernes
+Les Thioleyres
+Vuibroye
+Cerniaz VD
+Rossens VD
+Seigneux
+Dully
+Tartegnin
+Chamblon
+Démoret
+Essert-sous-Champvent
+Villars-sous-Champvent
+Gossens
+Gressy
+Mézery-près-Donneloye
+Oppens
+Ursins
+Villars-Epeney
+Montalchez
+Engollon
+Damphreux
+Fregiécourt
+Oberweningen
+Schleinikon
+Bertschikon
+Niederried b. Kallnach
+Gutenburg
+Meienried
+Hellsau
+Höchstetten
+Mötschwil
+Oberösch
+Rumendingen
+Rüti b. Lyssach
+Willadingen
+Finsterhennen
+Ballmoos
+Bangerten b. Dieterswil
+Deisswil b. Münchenbuchsee
+Diemerswil
+Münchringen
+Ruppoldsried
+Scheunen
+Wiggiswil
+Zauggenried
+Freimettigen
+Häutligen
+Herbligen
+Mirchel
+Oppligen
+Oberhünigen
+Golaten
+Bühl b. Aarberg
+Epsach
+Merzligen
+Niederstocken
+Englisberg
+Jaberg
+Lohnstorf
+Mühledorf BE
+Noflen BE
+Rümligen
+Forst b. Längenbühl
+Horrenbach
+Schwendibach
+Zwieselberg
+Berken
+Bollodingen
+Ochlenberg
+Wolfisberg
+Hämikon
+Lieli LU
+Sulz LU
+Honau
+Betschwanden
+Leuggelbach
+Agriswil
+Büchslen
+Greng
+Kleinbösingen
+Kleingurmels
+Lurtigen
+Wallenbuch
+Aetigkofen
+Balm b. Messen
+Gächliwil
+Bolken
+Burgäschi
+Halten
+Heinrichswil
+Hüniken
+Oekingen
+Steinhof SO
+Winistorf
+Kammersrohr
+Liedertswil
+Schwende
+Marmorera
+Schnaus
+St. Martin (Lugnez)
+Pratval
+Portein
+Calfreisen
+Uezwil
+Réclère
+Veytaux
+Eppenberg
+Islisberg
+Geltwil
+Wiliberg
+Hefenhofen
+Buchackern
+Engishofen
+Ennetaach
+Willisdorf
+Kefikon TG
+Eschikofen
+Harenwilen
+Mettendorf TG
+Alterswilen
+Altishausen
+Ellighausen
+Lippoldswilen
+Gottlieben
+Schönenbaumgarten
+Herrenhof
+Sonterswil
+Buch b. Märwil
+Zezikon
+Wetzikon TG
+Wallenwil
+Uerschhausen
+Dettighofen
+Rheinklingen
+Andhausen
+Graltshausen
+Birwinken
+Guntershausen b. Berg
+Klarsreuti
+Istighofen
+Engwang
+Illhart
+Ghirone
+Largario
+Marolta
+Cureggia
+Lamone
+Ausserbinn
+Mühlebach (Goms)
+Ritzingen
+Selkingen
+Steinhaus
+Bratsch
+Guttet
+Bister
+Filet
+Goppisberg
+Martisberg
+Steg VS
+Planken
+Kaltbach
+Wilen b. Neunforn
+Malleray
+Crésuz
+Treyfayes
+Fresens
+Lugnez
+Pleujouse
+Progens
+Wöschnau
+Fieschertal
+Cadempino
+Lüterswil
+Arni AG
+Hüttlingen
+Feschel
+Thalwil Fächer
+Werdenberg
+Freienstein
+Rorbas
+Rueyres-Treyfayes
+Arveyes
+Aminona
+Wittwil
+St. Niklausen LU
+Madonna del Piano
+Fajauna
+Miralago
+Nohl
+Dägerlen
+Gaiserwald
+Ebersol
+Baar
+Paradiso
+Avry-sur-Matran
+Barberêche
+Montagny-les-Monts
+Morges 3
+St. Gallen Sonderdienste
+Bellerive VD
+La Vue-des-Alpes
+Ringoldswil
+Thunstetten
+Fribourg
+Yverdon
+Pizolpark (Mels)
+Bursinel
+Nottwil Paraplegikerzentrum
+Bern Radio Schweiz
+Brigerbad
+Pfaffhausen
+Lenzburg Sonderdienste
+Provence
+Châtelat
+Chenaux
+St. Gallen
+St. Gallen Mona Versand
+Vevey Services spéciaux
+Solduno
+Marly Grand Pré
+Thun
+Bürgenstock
+Wilen b. Wollerau
+Avry-Centre FR
+Felsenau AG
+Mannens
+Grandsivaz
+Hauptikon
+Uerzlikon
+Zürich Corona
+Echandens
+Nyon car postal La Côte-Ju
+Yverdon car postal VD-Broye
+Sion car postal VS-Léman
+Brig Postauto Oberwallis
+Zürich Postauto Zürich
+Frauenfeld Postauto TG-SH
+Dättwil AG
+Rütihof
+Adlikon b. Regensdorf
+Rorschach Zustellung
+Buonas
+Risch
+Holzhäusern ZG
+Niedergampel
+Drône (Savièse)
+Morges Distribution
+Rüegsauschachen
+Hasle b. Burgdorf
+Fürigen
+Rigi Scheidegg
+Lüterkofen
+Luchsingen-Hätzingen
+Zürich
+Zürich CS PZ
+Bulle
+Bern
+Basel
+Luzern
+Netstal
+St. Gallen
+Bellinzona centro servici
+Salenstein
+Aawangen
+Lanterswil
+Oberhofen TG
+Hintermoos
+Chavannes-de-Bogis OLS
+Genève ICC OLS
+Sion 4
+Wiesenberg
+Lohn-Ammannsegg
+St. Gallen Künzler AG
+Glattbrugg Zustellung
+Thyon-Les Collons
+Schmiedrued-Walde
+Ebikon
+Engelberg
+Hochdorf
+Kriens
+Stans
+Schwyz
+Kloten Kaserne
+St. Gallen Quelle
+Gebertingen
+Genève
+Payerne Caserne
+Birmensdorf ZH Kaserne
+Bülach Kaserne
+Dübendorf Kaserne
+Frauenfeld Kaserne
+Rorschach
+Zürich Briefzentrum
+Delémont car postal JU-NE
+Solothurn
+Uvrier
+Basel
+Balmberg
+Oberbalmberg
+Luthern Bad
+Baden 1 Zustellung
+Mehlsecken
+Muralto
+Entlebuch Versandzentrum
+Aurigeno
+Gossau SG
+Obermutten
+Lavey-les-Bains
+Gerolfingen
+Kradolf
+Yverdon Caserne
+Colombier NE Caserne
+Romont Caserne
+Emmen Kaserne
+Fribourg Caserne
+Genève 26 Caserne
+Isone Caserma
+Losone Caserma
+Luzern Kaserne
+Lyss Kaserne
+Mels Kaserne
+Rivera Caserma
+Moudon Caserne
+St-Maurice Caserne
+Sion Caserne
+Wangen a. A. Kaserne
+Stans Kaserne
+Airolo Caserma
+Bern 22 Kaserne
+Bière Caserne
+Porrentruy Caserne
+Hurden
+Zürich Reader's Digest
+Bulle 1
+Bulle 2
+Altdorf UR 1
+Altdorf UR 2 Rynächt
+Altdorf UR 2
+La Lécherette
+Zürich Versicherung
+Thielle
+Wavre
+Misery
+Oberstocken
+Les Monts-de-Pully
+Neuchâtel OFS
+Kreuzlingen Ifolor AG
+Basel
+Givisiez Dist Ba
+Sion Base de distribution
+Brig Distributionsbasis
+Thun Dist Ba
+Biel/Bienne Dist Ba
+Schaffhausen Dist Ba
+Wil SG Distributionsbasis
+Cadenazzo Dist Ba
+Carouge GE Distribution
+Chêne-Bourg Distribution
+Gland Distribution
+Grand-Saconnex Distribution
+Petit-Lancy Distribution
+Le Lignon Distribution
+Meyrin Distribution
+Versoix Distribution
+Aigle Distribution
+Bussigny-p-L Distribution
+Crissier Distribution
+Grenchen 1 Zustellung
+Liestal Zustellung
+Laufen Zustellung
+Muttenz 1 Zustellung
+Münchenstein 1 Zustellung
+Oberwil BL Zustellung
+Oensingen Zustellung
+Pratteln 1 Zustellung
+Riehen 1 Zustellung
+Reinach BL Zustellung
+Therwil Zustellung
+Bremgarten AG 1 Zustellung
+Lenzburg Zustellung
+Möhlin Zustellung
+Oftringen 1 Zustellung
+Rheinfelden 1 Zustellung
+Rothrist Zustellung
+Spreitenbach Zustellung
+Schönenwerd Zustellung
+Wettingen 1 Zustellung
+Wohlen AG 1 Zustellung
+Zofingen Zustellung
+Brunnen Zustellung
+Cham Zustellung
+Ebikon Zustellung
+Emmen Zustellung
+Emmenbrücke 1 Zustellung
+Engelberg Zustellung
+Goldau Zustellung
+Hergiswil NW Zustellung
+Kriens 2 Zustellung
+Malters Zustellung
+Luzern Reussbühl Zustellung
+Rotkreuz Zustellung
+Schwyz Zustellung
+Stans Zustellung
+Sursee Zustellung
+Willisau Zustellung
+Monthey 1 Distribution
+Murten Zustellung
+Adliswil 1 Zustellung
+Affoltern am A. Zustellung
+Amriswil Zustellung
+Arbon Zustellung
+Birmensdorf ZH Zustellung
+Bischofszell Zustellung
+Bülach Zustellung
+Dielsdorf Zustellung
+Effretikon Zustellung
+Embrach Zustellung
+Erlenbach ZH Zustellung
+Hombrechtikon Zustellung
+Orbe Distribution
+Kreuzlingen 1 Zustellung
+Küsnacht ZH Zustellung
+Langnau am Albis Zustellung
+Männedorf Zustellung
+Meilen Zustellung
+Renens VD 1 Distribution
+Sierre Distribution
+Pfäffikon ZH Zustellung
+Regensdorf 1 Zustellung
+Visp Zustellung
+Crans-Montana 1 Dist
+Belp Zustellung
+Romanshorn Zustellung
+Rüti ZH Zustellung
+Schlieren Zustellung
+Frutigen Zustellung
+Stäfa Zustellung
+Thalwil Zustellung
+Gümligen Zustellung
+Herzogenbuchsee Zustellung
+Wädenswil Zustellung
+Wald ZH Zustellung
+Huttwil Zustellung
+Wallisellen Zustellung
+Interlaken Zustellung
+Weinfelden Zustellung
+Jegenstorf Zustellung
+Zumikon Zustellung
+Winterthur 5 Zustellung
+Winterthur 6 Zustellung
+Kirchberg BE Zustellung
+Winterthur 8 Zustellung
+Zürich 37 Zustellung
+Langenthal 1 Zustellung
+Zürich 48 Zustellung
+Zürich Nord Zustellung
+Appenzell Zustellung
+Herisau 1 Zustellung
+Mendrisio Distribuzione
+Münchenbuchsee Zustellung
+Münsingen Zustellung
+Urtenen-Schönbühl Zust
+Spiez Zustellung
+Steffisburg 1 Zustellung
+Worb Zustellung
+Zollikofen Zustellung
+Hinwil Zustellung
+Grand-Lancy 1 Distribution
+Kloten Zustellung
+Gossau SG 1 Zustellung
+Le Locle Distribution
+Moutier 1 Distribution
+Allschwil Zustellung
+Arlesheim Zustellung
+Balsthal Zustellung
+Binningen 1 Zustellung
+Birsfelden Zustellung
+Füllinsdorf Zustellung
+Gerlafingen Zustellung
+Brugg AG 1 Zustellung
+Signy-Centre
+Fontnas
+Luzern 31
+Luzern 30 AAL
+Genève 5 Dépôt
+Erlinsbach
+Delémont Dist Ba
+Daillens Dist Ba
+Daillens Centre Colis
+Payerne Distribution
+Bulle 1 Distribution
+Langnau i. E. Zustellung
+Altdorf UR 2 Zustellung
+Davos Zustellung
+Bern 94 UBS
+Zürich
+Signy
+Zürich
+Burgdorf Dist Fil
+Härkingen Paketzentrum
+Härkingen Dist Ba
+Bülach Dist Ba
+Effretikon Dist Ba
+Frauenfeld Paketzentrum
+Frauenfeld Dist Ba
+Hinwil Dist Ba
+Berneck Dist Ba
+Hefenhausen
+Wagerswil
+Buch b. Kümmertshausen
+Oberbussnang
+Courtemautruy
+Le Solliat
+Villars-Bozon
+Allens
+Buchs SG Dist Fil
+Niederurnen Dist Fil
+Landquart Dist Ba
+Sierre Dist Fil
+Bulle Dist Fil
+Gland Dist Fil
+Waldhäusern AG
+Zürich
+Bern 65 SBB
+Epalinges Distribution
+Cheseaux-Laus Distribution
+Niouc
+Liestal Dist Fil
+Produit (Leytron)
+Montagnon (Leytron)
+Dugny (Leytron)
+Auddes-sur-Riddes
+Les Valettes (Bovernier)
+Vens (Sembrancher)
+Chamoille (Sembrancher)
+La Garde (Sembrancher)
+Cries (Vollèges)
+Fontaine Dessus (Liddes)
+Fontaine Dessous (Liddes)
+Dranse (Liddes)
+Chandonne (Liddes)
+Rive Haute (Liddes)
+Fornex (Liddes)
+Les Moulins VS (Liddes)
+Vichères (Liddes)
+Palasuit (Liddes)
+Chez Petit (Liddes)
+Petit Vichères (Liddes)
+Champsec
+Les Vérines (Chamoson)
+Némiaz (Chamoson)
+Grugnay (Chamoson)
+Roumaz (Savièse)
+Granois (Savièse)
+St-Germain (Savièse)
+Ormône (Savièse)
+Mayens-de-la-Zour (Savièse)
+Fortunau (Ayent)
+Luc (Ayent)
+St-Romain (Ayent)
+Saxonne (Ayent)
+Villa (Ayent)
+La Place (Ayent)
+Botyre (Ayent)
+Blignou (Ayent)
+Argnou (Ayent)
+Liez (St-Martin)
+Trogne (St-Martin)
+Suen (St-Martin)
+Champlan (Grimisuat)
+Lanna
+Arvillard (Salins)
+Pravidondaz (Salins)
+Turin (Salins)
+Misériez (Salins)
+Clèbes (Nendaz)
+Brignon (Nendaz)
+La Vernaz (Les Agettes)
+Crête-à-l'Oeil(Les Agettes)
+Bieudron (Nendaz)
+Condémines (Nendaz)
+Saclentse
+Basel Reader's Digest
+Mayens-de-Chamoson
+Cotterd
+Champoussin
+Fenin
+Saules
+Les Crosets
+Lutry Distribution
+Le Mont-sur-Lausanne Dist
+Colombier NE Distribution
+Marin-Epagnier Distribution
+La Neuveville Distribution
+Tavannes Distribution
+Tramelan Distribution
+Malleray-Bévilard Dist
+St-Imier Distribution
+Avenches Distribution
+Moudon Distribution
+Düdingen Zustellung
+Romont FR Distribution
+Villeneuve VD Distribution
+Bex Distribution
+Bernex Distribution
+Vernier Distribution
+Rolle Distribution
+Echallens Distribution
+Schwarzenburg Zustellung
+Laupen BE Zustellung
+Kerzers Zustellung
+Büren an der Aare Zust
+Hasle-Rüegsau Zustellung
+Brienz BE Zustellung
+Meiringen Zustellung
+Sissach Zustellung
+Gelterkinden Zustellung
+Bellach Zustellung
+Derendingen Zustellung
+Aarburg Zustellung
+Hägendorf Zustellung
+Buchs AG Zustellung
+Oberentfelden Zustellung
+Frick Zustellung
+Reinach AG Zustellung
+Gränichen Zustellung
+Muri AG Zustellung
+Hochdorf Zustellung
+Wolhusen Zustellung
+Reiden Zustellung
+Unterägeri Zustellung
+Sarnen 2 Zustellung
+Küssnacht am Rigi Zust
+Berikon 1 Zustellung
+Egg b. Zürich Zustellung
+Stein am Rhein 1 Zustellung
+Uznach Zustellung
+Pfäffikon SZ Zustellung
+Wollerau Zustellung
+Einsiedeln Zustellung
+Siebnen Zustellung
+Glarus Zustellung
+Flawil 1 Zustellung
+Uzwil Zustellung
+Wattwil Zustellung
+Teufen AR Zustellung
+Wittenbach Zustellung
+Heiden Zustellung
+Altstätten SG Zustellung
+Rheineck Zustellung
+Heerbrugg Zustellung
+St. Margrethen SG Zust
+Buchs SG 1 Zustellung
+Domat/Ems Zustellung
+Landquart Zustellung
+Sargans Zustellung
+Bad Ragaz Zustellung
+Mels Zustellung
+Flums Zustellung
+Samedan Zustellung
+Losone Distribuzione
+Vésenaz Distribution
+Monteiller (Savièse)
+St. Gallen Presse-Serv.Güll
+Olten Sonderdienste
+Nierlet-les-Bois
+Zürich 15
+Montreux La Redoute
+Mur (Vully) FR
+Morcles
+Marin-Centre
+Gretschins
+Malans SG
+Frauenfeld ST PP 1
+Frauenfeld CALL
+Härkingen ST PP 1
+Härkingen CALL
+Daillens CALL
+Daillens ST PP 1
+Kriens 1
+Kriens 2 Sternmatt
+Kriens 2
+Port-Valais
+Bellinzona VZ
+Zürich PV
+Grafschaft
+Biel/Bienne 10
+Genève 18
+Hattenhausen
+Bern 90
+Montagny-Chamard
+Fretereules
+Brot-Dessous
+Oberstetten
+Niederstetten
+Gunterswilen
+Basel SBB Cargo AG
+St-Légier/Blonay Dist
+Gündlischwand
+Crissier 2
+Crissier 1
+Schattenhalb
+Les Pontins
+Tatroz
+Zürich
+Villette (Lavaux)
+Basel
+Wirzweli
+La Cibourg
+La Cibourg
+Lamperswil TG
+Root D4
+Montezillon
+Bern 7 Bärenplatz
+Territet
+Crans-Montana 1
+Crans-Montana 2
+Arosio-Mugena
+Diessenhofen Zustellung
+Muriaux
+Les Ecorcheresses
+Chiasso 1 ZF
+Lugano MailSource
+St-Prex Distribution
+Freudwil
+Steinen Zustellung
+Nussbaumen AG Zustellung
+Steffisburg 2 Station Zuste
+Uetendorf Zustellung
+Zweisimmen Zustellung
+Lenk i. S. Zustellung
+Cologny Distribution
+Conthey Distribution
+Sumiswald Zustellung
+Biasca Distribuzione
+Pregassona Distribuzione
+Zermatt Zustellung
+Eison (St.Martin)
+Granges VS Distribution
+Basel 34 Breite
+Basel 35 Bäumlihof
+Châtel-St-Denis Dist
+Jongny Distribution
+Savièse Distribution
+Flims Dorf Zustellung
+Nänikon Zustellung
+Ste-Croix Distribution
+Buchen BE
+Brittern
+Bubendorf Zustellung
+Lausen Zustellung
+Basel SPILOG
+Wängi Zustellung
+Oberriet SG Zustellung
+Degersheim Zustellung
+Schwanden GL Zustellung
+Seuzach Zustellung
+Niederhasli Zustellung
+Cham 1
+Hertenstein AG
+Rieden AG
+Münsterlingen
+Zürich
+Unterrindal
+Ostermundigen Zustellung
+Boudry Dist Ba
+Diepoldsau Zustellung
+Basel 33 Novartis
+Urdorf Dist Ba
+Urdorf Sortierstelle
+Champzabé
+Basel SPI AS1
+Basel SPI AS2
+Ostermundigen Rüti Fächer
+Bern PF Operations Center
+Basel PF Operations Center
+Greich
+Chailly-Montreux Dist
+Thayngen Zustellung
+Zollbrück Zustellung
+Eggiwil Zustellung
+Heimberg Zustellung
+Adelboden Zustellung
+Gstaad Zustellung
+Grindelwald Zustellung
+Birr-Lupfig Zustellung
+Döttingen Zustellung
+Dottikon Zustellung
+Seon Zustellung
+Unterkulm Zustellung
+Rothenburg Zustellung
+Root Zustellung
+Adligenswil Zustellung
+Meggen Zustellung
+Alpnach Zustellung
+Buochs Zustellung
+Ostermundigen Dist Ba
+Basel
+Basel
+Basel
+Basel
+Basel
+Basel
+Zürich Helsana
+Le Sentier Distribution
+Cossonay Distribution
+Basel SPI AS 22
+Basel SPI AS 23
+Basel SPI AS 24
+Basel SPI AS 25
+Basel SPI AS 26
+Schaan Zustellung
+Urdorf RRD
+Menzengrüt
+Oftringen SPN
+Andelfingen Zustellung
+Zürich 64 Zustellung
+Corcelles NE Distribution
+Flamatt Zustellung
+Ruswil Zustellung
+Entlebuch Zustellung
+Schüpfheim Zustellung
+Escholzmatt Zustellung
+Kaltbrunn Zustellung
+Bauma Zustellung
+Sempach Stadt
+Lenzerheide Zustellung
+Bern UBS
+Luzern UBS
+Basel UBS
+Buchs ZH Zustellung
+Turbenthal Zustellung
+Wettswil Zustellung
+Mettmenstetten Zustellung
+Arosa Zustellung
+Münchwilen TG Zustellung
+Schaan Log
+Lätti
+Seewil
+Derendingen Swisscom
+Le Châble VS Distribution
+Chexbres Distribution
+Leysin Distribution
+Sihlwald
+Glattpark (Opfikon)
+Genève 94 UBS
+Palézieux Distribution
+Fenkrieden
+Basel
+St. Gallen
+Wädenswil Dist Ba
+Baden IM
+Bazenheid Zustellung
+Thusis Zustellung
+Ilanz Zustellung
+Fully Distribution
+Coppet Distribution
+Formangueires
+Silvaplana-Surlej
+Klosters Zustellung
+Gundetswil
+Basel SPI GLS Retour
+Steg-Gampel
+Kloster Fahr
+Lausanne Services spéciaux
+Cheseaux Polyval
+Baar 3
+Hünenberg Zustellung
+Baar 3 Dist Ba
+Wabern 2 x Weihnachten
+Genève 73
+Dintikon LCD
+Schlieren DocumentServices
+Eclépens Centre Courrier
+Sion Centre logistique
+Bern DocumentServices
+Ostermundigen (LZB)
+Basel Logistikzentrum
+Härkingen Briefzentrum
+Kriens Logistikzentrum
+Cadenazzo Centro logistico
+Chur Logistikzentrum
+Zürich-Mülligen SPS AG
+Gossau SG Logistikzentrum
+Oensingen Hub SecurePost
+Schaan Betriebszentrum
+La Coudre
+Martigny Groupe Mutuel
+Zürich IBRS local
+Martigny Gare CFF
+Lausanne Sozialberatung
+Fribourg PostFinance Fil.
+Zofingen PostFinance
+Zofingen PostFinance
+Burgdorf Filiale
+Zofingen PostFinance
+Zürich-Mülligen BZI
+Eclépens Scanning-Center
+Härkingen Scanning-Center
+Zürich Mülligen SC
+Zürich BZ Annahme
+Zürich
+Bichelsee-Balterswil
+Luzern Uni PG
+Ricketwil (Winterthur)
+Rheinfelden SPI Logistics A
+Pratteln SPI Logistics
+Hünenberg See
+Härkingen SPS AG
+Zofingen Postfinance UBS
+Burgdorf PostFinance mob
+Zofingen PF UBS Verarb.
+Root Längenbold SH
+Zürich 59 Exchange Office
+Zürich 59 Ausland
+Rickenbach Sulz
+Kefikon ZH
+Grafstal
+Wildensbuch
+Bern Zustellung
+Oberwil (Dägerlen)
+Berg (Dägerlen)
+Bänk (Dägerlen)
+Schaan BZ GKS
+Wittenbach
+Eclépens CC Dépôt
+Riet (Neftenbach)
+Hünikon (Neftenbach)
+Cadenazzo Scanning-Center
+Zürich Voice Publishing
+Zürich Oerlikon DB PickPost
+Schwyz Kantonalbank
+Meienberg
+Kleine Scheidegg
+Eigergletscher
+Fétigny Dist Fil
+Bex Dist Fil
+Bern
+Schaffhausen PF
+Aigle Gare CFF
+Bellinzona Stazione FFS
+Brugg Bahnhof SBB
+Brunnen Bahnhof SBB
+Buchs Bahnhof SBB
+Bülach Bahnhof SBB
+Chiasso Stazione FFS
+Dietikon Bahnhof SBB
+Effretikon Bahnhof SBB
+Landquart Bahnhof SBB
+Lenzburg Bahnhof SBB
+Liestal Bahnhof SBB
+Locarno Stazione FFS
+Nyon Gare CFF
+Oensingen Bahnhof SBB
+Pfäffikon Bahnhof SBB
+Renens Gare CFF
+Rheinfelden Bahnhof SBB
+Rotkreuz Bahnhof SBB
+Rüti Bahnhof SBB
+Solothurn Bahnhof SBB
+Sursee Bahnhof SBB
+Thalwil Bahnhof SBB
+Visp Bahnhof SBB
+Yverdon-les-Bains Gare CFF
+Ziegelbrücke Bahnhof SBB
+Zofingen Bahnhof SBB
+Wädenswil Bahnhof SBB
+Zug Bahnhof SBB
+Lugano Stazione FSS
+Bern Brünnen
+Bern Logistikcenter
+Härkingen BZ Briefklinik
+Appenzell Eggerstanden
+Appenzell Enggenhütten
+Appenzell Meistersrüte
+Appenzell Steinegg
+Appenzell Schlatt
+Wasserauen
+Gontenbad
+Luzern 1 PF
+Jakobsbad
+Büriswilen
+Ostermundigen LZB BHS-AF
+Peiden
+Zürich
+Eclépens SAB
+Riazzino Distribuzione
+Caslano Distribuzione
+Cadenazzo Distribuzione
+Mägenwil Dist Ba
+Mägenwil GKA
+Mägenwil PL Hub SK Blitz
+Mägenwil HUB
+Epagny Distribution
+La Russille
+Effretikon PostAuto AG
+Sonnental
+Genève Carouge PostFinance
+Rheinfelden PostAuto AG
+Zürich BZI DE
+Lausanne Parking d'Ouchy
+Lausanne Parking du Centre
+Romanel-sur-Lausanne Shell
+Develier PostAuto AG
+Basel Shell Dreispitz
+Therwil Shell
+Zürich Tiefenbrunnen SBB
+Zürich West SPS
+Kloten Bahnhof SBB
+Le Noirmont Distribution
+Lausanne Terreaux PF
+Luzern 2 Universität
+Lignon B&V GK
+Lignon B&V GK 2
+Ferenbalm
+Biberen
+Gammen
+Zofingen B&V GK
+Baden B&V GK 2
+Baden B&V GK
+Altendorf B&V GK
+Altendorf B&V GK 2
+Himmelried PostAuto AG
+Chur B&V GK 2
+Chur B&V GK
+Dietlikon Shell
+Rümlang Tankstelle Shell
+Givisiez PickPost
+Le Bémont JU
+Montfaucon
+Montfavergier
+Les Enfers
+St-Brais
+Bern KC PK 4
+Bern KC PK 5
+Kriens KC PG/GK 2
+St. Gallen KC PKGK 5
+Luzern Bahnhof SBB
+Olten Personal
+Zürich Enge PF Filiale
+Dorénaz PostAuto AG Schweiz
+Lausanne PF 331-120
+Lausanne PF 331-140
+Lausanne Arc Jurassien
+Zofingen KC PK/GK 3
+Zürich Kanton Annahme
+Zürich Helsana Annahme
+Zürich CS Annahme
+St. Josefen
+Maseltrangen
+Lausanne CT
+Landiswil
+Urdorf Exchange
+La Tour VS
+La Forclaz VS
+Villa (Evolène)
+Yverdon Conseil et vente
+Martigny PostFinance
+Ostermundigen KATA
+Vogelsang AG
+Jona Buech Gewerbe
+Baden Täfern Gewerbe
+Härkingen BZ FP
+Eclépens CC AP
+Sornard (Nendaz)
+Horgen Bahnhof Oberdorf
+Dietschwil
+La Chx-de-F. Combe-à-l'Ours
+Sünikon
+Rumlikon
+Gündisau
+Busswil TG
+Visp Verkaufssupport
+Härkingen SPS DO
+Zofingen KC PK/GK 4
+Rothenburg DIST BA
+Zofingen KC PK/GK 5
+Ostermundigen Oberdorf
+Eclépens Clinique
+Zürich BZ Brieflklinik
+Seewis-Pardisla
+Seewis-Schmitten
+Zürich Nord VZ
+Hinwil VZ
+Neuhausen Rundbuck
+St. Gallen
+Arlesheim Postlogistics Hub
+Zofingen KC PK 2
+Genève Les Acacias
+Aarau Altstadt
+Martigny PF 331-130
+Lausanne 10
+Lausanne 18
+Vielbringen b. Worb
+Kreuzlingen Ost
+Vevey Orient
+Luzern Altstadt
+Lengwil
+Dettighofen (Lengwil)
+Gruyères Vieille Ville
+Givisiez DB AFP
+Les Posses-sur-Bex
+Cadenazzo CLL AP
+Gossau SG LZB FP
+Sion RZ
+Zürich
+Nassenwil
+Zofingen Abg. St
+Le Séchey
+Donatyre
+Cournillens
+Zürich Asendia
+Bözberg
+Mission
+Olten 4 Hammer
+Daillens PL3
+Fötigny PL3
+Bern PL3
+Pratteln PL3
+Oftringen PL3
+Niederbipp PL3
+Mägenwil PL3i
+Dintikon PL3
+Villmergen PL3
+Cadenazzo PL3
+Pfungen PL3
+Urdorf PL3
+Solothurn
+La Chaux-de-Fonds
+Diolly (Savièse)
+La Muraz (Savièse)
+Kriens Contact Center
+Biessenhofen
