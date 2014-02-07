@@ -18,6 +18,7 @@ First you must build the JAR.
 Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
 
 	ADD JAR yax-hive-udf-1.0-SNAPSHOT.jar;
+	CREATE TEMPORARY FUNCTION findplace as 'ch.yax.hive.udf.FindPlace';
 
 	
 	

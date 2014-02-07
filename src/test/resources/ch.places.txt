@@ -2,6 +2,6 @@
  # ignore this lines
 Basel
 Bern
-Zürich
+Zï¿½rich
  Genf
  Lausanne 

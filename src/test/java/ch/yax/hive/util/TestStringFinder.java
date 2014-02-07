@@ -7,8 +7,6 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import ch.yax.hive.util.StringFinder;
-
 public class TestStringFinder {
 
 	private final static String NOTFOUND = "UNKNOWN";

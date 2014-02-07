@@ -21,7 +21,7 @@ public class TestResourceReader {
 		Assert.assertNotNull(entries);
 		Assert.assertEquals(5, entries.size());
 		Assert.assertArrayEquals(entries.toArray(), new String[] { "Basel",
-				"Bern", "Zürich", "Genf", "Lausanne" });
+				"Bern", "Zï¿½rich", "Genf", "Lausanne" });
 
 	}
 

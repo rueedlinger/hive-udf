@@ -89,7 +89,7 @@ public class TestFindPlace {
 	public void testFindPlaceWithDefaultCountry() {
 
 		FindPlace finder = new FindPlace();
-		Text found = finder.evaluate(new Text("i like zürich city"));
-		Assert.assertEquals("Zürich", found.toString());
+		Text found = finder.evaluate(new Text("i like zï¿½rich city"));
+		Assert.assertEquals("Zï¿½rich", found.toString());
 	}
 }
