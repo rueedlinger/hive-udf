@@ -27,7 +27,7 @@ public class ResourceReader {
 
 	private List<String> init() throws IOException {
 		InputStream in = getClass().getResourceAsStream(resource);
-		InputStreamReader is = new InputStreamReader(in);
+		InputStreamReader is = new InputStreamReader(in, "UTF-8");
 		BufferedReader br = new BufferedReader(is);
 
 		List<String> entries = new LinkedList<String>();
