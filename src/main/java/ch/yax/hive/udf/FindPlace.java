@@ -25,17 +25,9 @@ public class FindPlace extends UDF {
 
 	public Text evaluate(Text country, Text text) throws RuntimeException {
 
-		if (country == null || country.toString().length() == 0) {
-			throw new RuntimeException("country is not set");
-		}
+		checkParam(country);
 
-		// lazy initialization
-		String countryTrim = country.toString().trim().toLowerCase();
-		ResourceReader reader = readers.get(countryTrim);
-		if (reader == null) {
-			reader = new ResourceReader("/" + countryTrim + RESOURCE);
-			readers.put(countryTrim, reader);
-		}
+		ResourceReader reader = getReader(country);
 
 		StringFinder finder = new StringFinder();
 
@@ -46,6 +38,23 @@ public class FindPlace extends UDF {
 			String found = finder.findFirstMatch(text.toString(),
 					reader.getEntries());
 			return new Text(found);
+		}
+	}
+
+	private ResourceReader getReader(Text country) {
+		// lazy initialization
+		String countryTrim = country.toString().trim().toLowerCase();
+		ResourceReader reader = readers.get(countryTrim);
+		if (reader == null) {
+			reader = new ResourceReader("/" + countryTrim + RESOURCE);
+			readers.put(countryTrim, reader);
+		}
+		return reader;
+	}
+
+	private void checkParam(Text country) {
+		if (country == null || country.toString().length() == 0) {
+			throw new RuntimeException("country is not set");
 		}
 	}
 }
