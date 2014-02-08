@@ -141,13 +141,13 @@ public class TestFindPlaceLevensthein {
 	@Test
 	public void testFindPlaceWithDefaultCountryThreshold_2() {
 
-		Text found = finder.evaluate(new Text("i like zich city"),
-				new IntWritable(2));
-		Assert.assertEquals("UNKNOWN", found.toString());
-
-		found = finder.evaluate(new Text("i like zuerich city"),
+		Text found = finder.evaluate(new Text("i like zurich city"),
 				new IntWritable(2));
 		Assert.assertEquals("Zürich", found.toString());
+
+		found = finder.evaluate(new Text("i like Bosel down town"),
+				new IntWritable(2));
+		Assert.assertEquals("Basel", found.toString());
 
 		found = finder.evaluate(new Text("i like zürich's city"),
 				new IntWritable(2));
@@ -185,9 +185,8 @@ public class TestFindPlaceLevensthein {
 	@Test
 	public void testFindPlaceWithSmallTokensWithDefaultLenght() {
 
-		Text found = finder.evaluate(new Text(
-				"xdd xddd x nddo x.... fff dddddddddddddddddddd"),
-				new IntWritable(10));
+		Text found = finder.evaluate(new Text("dd dd x dd x.... fff ddd"),
+				new IntWritable(5));
 		Assert.assertEquals("UNKNOWN", found.toString());
 
 	}
