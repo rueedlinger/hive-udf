@@ -26,11 +26,11 @@ public class StringFinder {
 			return notFound;
 		}
 
-		String findTrim = find.trim().toLowerCase();
-
 		for (String value : values) {
-			String valTrim = value.trim().toLowerCase();
-			if (findTrim.contains(valTrim)) {
+			String findLower = find.trim().toLowerCase();
+			String valueLower = value.trim().toLowerCase();
+
+			if (findLower.contains(valueLower)) {
 				return value.trim();
 			}
 		}

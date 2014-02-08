@@ -38,8 +38,10 @@ public class ResourceReader {
 			if (read == null) {
 				break;
 			} else {
+
 				String value = read.trim();
-				if (!value.startsWith("#")) {
+
+				if (!value.startsWith("#") && value.length() > 0) {
 					entries.add(value);
 				}
 			}

@@ -17,19 +17,21 @@ public class FindPlaceLevensthein extends UDF {
 	private final static Text NOT_FOUND = new Text("UNKNOWN");
 	private Map<String, ResourceReader> readers = new HashMap<String, ResourceReader>();
 
+	private final static IntWritable DEFAULT_MIN_LENGTH = new IntWritable(5);
+
 	public FindPlaceLevensthein() {
 
 	}
 
 	public Text evaluate(Text text, IntWritable threshold)
 			throws RuntimeException {
-		return evaluate(DEFAULT_COUNTRY, text, threshold);
+		return evaluate(DEFAULT_COUNTRY, text, threshold, DEFAULT_MIN_LENGTH);
 	}
 
-	public Text evaluate(Text country, Text text, IntWritable threshold)
-			throws RuntimeException {
+	public Text evaluate(Text country, Text text, IntWritable threshold,
+			IntWritable minLength) throws RuntimeException {
 
-		checkParams(country, threshold);
+		checkParams(country, threshold, minLength);
 
 		ResourceReader reader = getReader(country);
 
@@ -37,18 +39,35 @@ public class FindPlaceLevensthein extends UDF {
 			return NOT_FOUND;
 		}
 
+		int bestDistance = threshold.get() + 1;
+		Text found = NOT_FOUND;
+
+		// try levenshtein
 		String tokens[] = cleanText(text).split(" ");
 		Levenshtein levenshtein = new Levenshtein();
 		for (String value : reader.getEntries()) {
 			for (int i = 0; i < tokens.length; i++) {
+
+				// ignore tokens which are smaller than min length
+				if (tokens[i].length() < minLength.get()) {
+					continue;
+				}
+
 				int distance = levenshtein.distance(value, tokens[i]);
-				if (distance <= threshold.get()) {
-					return new Text(value);
+				if (distance < bestDistance) {
+					if (distance <= threshold.get()) {
+						bestDistance = distance;
+						found = new Text(value);
+					}
+
+					if (bestDistance == 0) {
+						return found;
+					}
 				}
 			}
 		}
 
-		return NOT_FOUND;
+		return found;
 
 	}
 
@@ -63,7 +82,8 @@ public class FindPlaceLevensthein extends UDF {
 		return reader;
 	}
 
-	private void checkParams(Text country, IntWritable threshold) {
+	private void checkParams(Text country, IntWritable threshold,
+			IntWritable minLength) {
 		if (country == null || country.toString().length() == 0) {
 			throw new RuntimeException("country is not set");
 		}
@@ -71,6 +91,11 @@ public class FindPlaceLevensthein extends UDF {
 		if (threshold == null) {
 			throw new RuntimeException("threshold is not set");
 		}
+
+		if (minLength == null) {
+			throw new RuntimeException("minLength is not set");
+		}
+
 	}
 
 	private String cleanText(Text text) {

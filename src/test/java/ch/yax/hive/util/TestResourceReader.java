@@ -7,24 +7,36 @@ import org.junit.Test;
 
 public class TestResourceReader {
 
-	private String resource = "/ch.places.txt";
+	private String resourceFull = "/ch.places.txt";
+	private String resourceSmall = "/test.places.txt";
 
 	@Test
 	public void testInitRead() {
-		new ResourceReader(resource);
+
 	}
 
 	@Test
 	public void testRead() {
-		ResourceReader reader = new ResourceReader(resource);
+		ResourceReader reader = new ResourceReader(resourceFull);
+		List<String> entries = reader.getEntries();
+		Assert.assertNotNull(entries);
+		Assert.assertEquals(5301, entries.size());
+
+	}
+
+	@Test
+	public void testReadContent() {
+		ResourceReader reader = new ResourceReader(resourceSmall);
 		List<String> entries = reader.getEntries();
 		Assert.assertNotNull(entries);
 
 		Assert.assertEquals(5, entries.size());
 
-		Assert.assertArrayEquals(entries.toArray(), new String[] { "Basel",
-				"Bern", "Zürich", "Genf", "Lausanne" });
+		Assert.assertEquals("Basel", entries.get(0));
+		Assert.assertEquals("Bern", entries.get(1));
+		Assert.assertEquals("Zürich", entries.get(2));
+		Assert.assertEquals("Genf", entries.get(3));
+		Assert.assertEquals("Lausanne", entries.get(4));
 
 	}
-
 }
