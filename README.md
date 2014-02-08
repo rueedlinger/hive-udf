@@ -38,7 +38,8 @@ You can now execute the query with our findPlace User-Defined Functions (UDF).
 	SELECT findPlace('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
 	
 	-- should return --> Zürich
-	SELECT findPlaceLevensthein('I like zuerich', 1) FROM DUAL;
+	SELECT findPlaceLevensthein('i like zuerich', 5) FROM DUAL;
+
 
 	
 

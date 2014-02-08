@@ -17,7 +17,7 @@ public class FindPlaceLevensthein extends UDF {
 	private final static Text NOT_FOUND = new Text("UNKNOWN");
 	private Map<String, ResourceReader> readers = new HashMap<String, ResourceReader>();
 
-	private final static IntWritable DEFAULT_MIN_LENGTH = new IntWritable(5);
+	private final static IntWritable DEFAULT_MIN_LENGTH = new IntWritable(4);
 
 	public FindPlaceLevensthein() {
 
