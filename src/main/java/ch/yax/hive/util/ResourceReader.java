@@ -40,7 +40,7 @@ public class ResourceReader {
 			} else {
 				String value = read.trim();
 				if (!value.startsWith("#")) {
-					entries.add(read.trim());
+					entries.add(value);
 				}
 			}
 		}

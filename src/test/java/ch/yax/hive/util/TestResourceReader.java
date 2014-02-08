@@ -19,9 +19,13 @@ public class TestResourceReader {
 		ResourceReader reader = new ResourceReader(resource);
 		List<String> entries = reader.getEntries();
 		Assert.assertNotNull(entries);
+
+		System.out.println(entries);
+
 		Assert.assertEquals(5, entries.size());
+
 		Assert.assertArrayEquals(entries.toArray(), new String[] { "Basel",
-				"Bern", "Z�rich", "Genf", "Lausanne" });
+				"Bern", "Zürich", "Genf", "Lausanne" });
 
 	}
 

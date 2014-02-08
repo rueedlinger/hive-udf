@@ -33,6 +33,10 @@ public class FindPlaceLevensthein extends UDF {
 
 		ResourceReader reader = getReader(country);
 
+		if (text == null) {
+			return NOT_FOUND;
+		}
+
 		String tokens[] = cleanText(text).split(" ");
 		Levenshtein levenshtein = new Levenshtein();
 		for (String value : reader.getEntries()) {
@@ -71,6 +75,6 @@ public class FindPlaceLevensthein extends UDF {
 
 	private String cleanText(Text text) {
 		return text.toString().trim().replaceAll(",", "").replace(".", "")
-				.replace(";", "");
+				.replace(";", "").replace("'", " ");
 	}
 }

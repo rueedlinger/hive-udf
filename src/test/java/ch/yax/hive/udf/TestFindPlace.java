@@ -6,10 +6,12 @@ import org.junit.Test;
 
 public class TestFindPlace {
 
+	private FindPlace finder = new FindPlace();
+
 	@Test
 	public void testFindPlaceWithAllNull() {
 		try {
-			FindPlace finder = new FindPlace();
+
 			finder.evaluate(null, null);
 			Assert.fail("Exception not thorwn");
 
@@ -21,7 +23,7 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithFirstValueNull() {
 		try {
-			FindPlace finder = new FindPlace();
+
 			finder.evaluate(null, new Text("dd"));
 			Assert.fail("Exception not thorwn");
 
@@ -33,10 +35,9 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithCountryNotSupported() {
 		try {
-			FindPlace finder = new FindPlace();
+
 			finder.evaluate(new Text("IT"), new Text("text"));
 			Assert.fail("Exception not thorwn");
-
 		} catch (RuntimeException ex) {
 
 		}
@@ -45,16 +46,13 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithCountrySupported() {
 
-		FindPlace finder = new FindPlace();
 		Text found = finder.evaluate(new Text("CH"), new Text("text"));
 		Assert.assertEquals("UNKNOWN", found.toString());
-
 	}
 
 	@Test
 	public void testFindPlaceWithCountrySupportedAndNullValue() {
 
-		FindPlace finder = new FindPlace();
 		Text found = finder.evaluate(new Text("CH"), null);
 		Assert.assertEquals("UNKNOWN", found.toString());
 	}
@@ -62,15 +60,14 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithCountryLowerCaseSupportedAndNullValue() {
 
-		FindPlace finder = new FindPlace();
 		Text found = finder.evaluate(new Text("CH".toLowerCase()), null);
 		Assert.assertEquals("UNKNOWN", found.toString());
+
 	}
 
 	@Test
 	public void testFindPlaceWithCountryLowerCaseSupportedAndEmptyText() {
 
-		FindPlace finder = new FindPlace();
 		Text found = finder
 				.evaluate(new Text("CH".toLowerCase()), new Text(""));
 		Assert.assertEquals("UNKNOWN", found.toString());
@@ -79,7 +76,6 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithCountryWithPlace() {
 
-		FindPlace finder = new FindPlace();
 		Text found = finder.evaluate(new Text("CH".toLowerCase()), new Text(
 				"i like Bern city"));
 		Assert.assertEquals("Bern", found.toString());
@@ -88,8 +84,7 @@ public class TestFindPlace {
 	@Test
 	public void testFindPlaceWithDefaultCountry() {
 
-		FindPlace finder = new FindPlace();
-		Text found = finder.evaluate(new Text("i like z�rich city"));
-		Assert.assertEquals("Z�rich", found.toString());
+		Text found = finder.evaluate(new Text("i like zürich city"));
+		Assert.assertEquals("Zürich", found.toString());
 	}
 }

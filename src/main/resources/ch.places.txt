@@ -1,25 +1,57 @@
-#
-# municipals switzerland
-#
+ï»¿Lausanne
+Lausanne 1 DÃ©pÃ´t
+Lausanne 2
+Lausanne 3
+Lausanne 6
+Lausanne 7
+Lausanne 8
+Lausanne 12
+Lausanne 14
+Lausanne 16
+Lausanne 17
+Lausanne 19
+Lausanne 20
+Lausanne 21
+Lausanne 22
+Lausanne 23
+Lausanne 24 Vennes
+Lausanne 25
+Lausanne 26
+Lausanne 27
+Lausanne Distribution
+Lausanne Swisscom
+Lausanne
+Lausanne
+Lausanne
+Lausanne
+Lausanne
+Lausanne
 Lausanne
 Prilly
 Pully
 Lausanne
+Lausanne
+Lausanne
+Lausanne Adm cant VD
+Lausanne
+Lausanne
 Renens VD
-Chavannes-près-Renens
+Renens VD 1
+Renens VD 2
+Chavannes-prÃ¨s-Renens
 Crissier
 Ecublens VD
 St-Sulpice VD
 Echandens-Denges
 Lonay
-Préverenges
-Bussigny-près-Lausanne
+PrÃ©verenges
+Bussigny-prÃ¨s-Lausanne
 Romanel-sur-Lausanne
 Cheseaux-sur-Lausanne
-Etagnières
+EtagniÃ¨res
 Bercher
 Echallens
-St-Barthélemy VD
+St-BarthÃ©lemy VD
 Oulens-sous-Echallens
 Bettens
 Villars-le-Terroir
@@ -47,7 +79,7 @@ Froideville
 Thierrens
 Epalinges
 Savigny
-Mézières VD
+MÃ©ziÃ¨res VD
 Belmont-sur-Lausanne
 La Conversion
 Paudex
@@ -75,6 +107,8 @@ Servion
 Essertes
 Auboranges
 Morges
+Morges 1
+Morges 2
 Echichens
 Lussy-sur-Morges
 Lully VD
@@ -93,7 +127,7 @@ Bremblens
 Romanel-sur-Morges
 Aclens
 Gollion
-Vufflens-le-Château
+Vufflens-le-ChÃ¢teau
 Denens
 Bussy-Chardonney
 Yens
@@ -103,9 +137,9 @@ Berolle
 Mollens VD
 Montricher
 Pampigny
-Sévery
+SÃ©very
 Apples
-Bière
+BiÃ¨re
 L'Isle
 St-Prex
 Etoy
@@ -114,7 +148,7 @@ Allaman
 Perroy
 Aubonne
 Bougy-Villars
-Féchy
+FÃ©chy
 Montherod
 Lavigny
 St-Livres
@@ -131,23 +165,80 @@ Gimel
 Dully-Bursinel
 Gland
 Prangins
-Genève
+GenÃ¨ve
+GenÃ¨ve 1
+GenÃ¨ve 2 Cornavin DÃ©pÃ´t
+GenÃ¨ve 3
+GenÃ¨ve 4
+GenÃ¨ve 2 Transit
+GenÃ¨ve 6
+GenÃ¨ve 7
+GenÃ¨ve 8
+GenÃ¨ve 11
+GenÃ¨ve 12
+GenÃ¨ve 13
+GenÃ¨ve 17
+GenÃ¨ve 19
+GenÃ¨ve 20
+GenÃ¨ve 21
+GenÃ¨ve 26
+GenÃ¨ve 28 Balexert
+GenÃ¨ve Centre logistique
+GenÃ¨ve 2 Distribution
+GenÃ¨ve Dist Ba
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve
+GenÃ¨ve 1
+GenÃ¨ve 2
+GenÃ¨ve 3
+GenÃ¨ve 4
+GenÃ¨ve 6
+GenÃ¨ve 7
+GenÃ¨ve 8
+GenÃ¨ve 10
+GenÃ¨ve 11
+GenÃ¨ve 12
+GenÃ¨ve 13
+GenÃ¨ve 17
+GenÃ¨ve 19
+GenÃ¨ve 20
+GenÃ¨ve 21
+GenÃ¨ve 22
+GenÃ¨ve 23
+GenÃ¨ve 26
+GenÃ¨ve 27
+GenÃ¨ve 28
+GenÃ¨ve 2 Swisscom
 Grand-Lancy
+Grand-Lancy 1
 Petit-Lancy
+Petit-Lancy 1
+Petit-Lancy 2
 Onex
 Vernier
+GenÃ¨ve 15 AÃ©roport
+GenÃ¨ve 15 AÃ©roport DÃ©pÃ´t
 Cointrin
 Meyrin
+Meyrin 1
+Meyrin 2
 Le Grand-Saconnex
 Le Lignon
-Aïre
-Châtelaine
+AÃ¯re
+ChÃ¢telaine
 Les Avanchets
-Vésenaz
+VÃ©senaz
 Cologny
-Chêne-Bougeries
-Chêne-Bourg
-Thônex
+ChÃªne-Bougeries
+ChÃªne-Bourg
+ThÃ´nex
 Carouge GE
 Les Acacias
 Plan-les-Ouates
@@ -164,7 +255,7 @@ Presinge
 Choulex
 Collonge-Bellerive
 Corsier GE
-Anières
+AniÃ¨res
 Hermance
 Gy
 Meinier
@@ -175,13 +266,14 @@ Troinex
 La Croix-de-Rozon
 Perly
 Nyon
+Nyon 1 Distribution
 Borex
 La Rippe
 Chavannes-de-Bogis
 Grens
-Chéserex
+ChÃ©serex
 Gingins
-Trélex
+TrÃ©lex
 Givrins
 Genolier
 Le Muids
@@ -209,14 +301,14 @@ Laconnex
 Aire-la-Ville
 Versoix
 Commugny
-Chambésy
+ChambÃ©sy
 Bellevue
 Genthod
 Mies-Tannay
 Coppet
 Founex
-Céligny
-Crans-près-Céligny
+CÃ©ligny
+Crans-prÃ¨s-CÃ©ligny
 Vufflens-la-Ville
 Cossonay-Ville
 Dizy
@@ -231,7 +323,7 @@ Orient
 Les Bioux
 L'Abbaye
 Le Pont
-Les Charbonnières
+Les CharbonniÃ¨res
 Le Lieu
 Le Sentier
 Le Brassus
@@ -243,10 +335,10 @@ Ferreyres
 Moiry VD
 Arnex-sur-Orbe
 Pompaples
-Eclépens
-Bretonnières
+EclÃ©pens
+BretonniÃ¨res
 Croy
-Romainmôtier
+RomainmÃ´tier
 Premier
 Vaulion
 Juriens
@@ -257,15 +349,18 @@ Agiez
 Bofflens
 Montcherand
 L'Abergement
-Les Clées
+Les ClÃ©es
 Lignerolle
 Valeyres-sous-Rances
 Rances
 Chavornay
 Bavois
 Corcelles-sur-Chavornay
-Penthéréaz
+PenthÃ©rÃ©az
 Goumoens-la-Ville
+Yverdon-les-Bains
+Yverdon-les-Bains 1
+Yverdon 2
 Yverdon-les-Bains
 Essertines-sur-Yverdon
 Pailly
@@ -281,7 +376,7 @@ Pomy
 Cronay
 Donneloye
 Prahins
-Chanéaz
+ChanÃ©az
 Valeyres-sous-Ursins
 Orzens
 Rueyres
@@ -294,16 +389,16 @@ Molondin
 Grandson
 Onnens VD
 Concise
-Corcelles-près-Concise
+Corcelles-prÃ¨s-Concise
 Belmont-sur-Yverdon
 Suchy
 Ependes VD
 Essert-Pittet
 Treycovagnes
-Suscévaz
+SuscÃ©vaz
 Mathod
 Valeyres-sous-Montagny
-Montagny-près-Yverdon
+Montagny-prÃ¨s-Yverdon
 Champvent
 Vuiteboeuf
 Baulmes
@@ -312,15 +407,15 @@ La Sagne (Ste-Croix)
 L'Auberson
 Les Rasses
 Bullet
-Le Château-de-Ste-Croix
+Le ChÃ¢teau-de-Ste-Croix
 Yvonand
 Rovray
-Chavannes-le-Chêne
-Chêne-Pâquier
+Chavannes-le-ChÃªne
+ChÃªne-PÃ¢quier
 Cheyres
 Estavayer-le-Lac
 Font
-Châbles FR
+ChÃ¢bles FR
 Montet (Broye)
 Cugy FR
 Bussy FR
@@ -340,30 +435,30 @@ Neyruz-sur-Moudon
 Denezy
 Lucens
 Curtilles
-Granges-près-Marnand
+Granges-prÃ¨s-Marnand
 Villeneuve FR
 Surpierre
 Cheiry
 Payerne
-Fétigny
-Ménières
+FÃ©tigny
+MÃ©niÃ¨res
 Sassel
 Combremont-le-Petit
 Forel-sur-Lucens
 Cremin
-Rueyres-les-Prés
+Rueyres-les-PrÃ©s
 Grandcour
 Gletterens
 Chevroux
 Vers-chez-Perrin
 Trey
-Châtonnaye
-Sédeilles
+ChÃ¢tonnaye
+SÃ©deilles
 Villarzel
 Villars-Bramard
 Dompierre VD
 Combremont-le-Grand
-Corcelles-près-Payerne
+Corcelles-prÃ¨s-Payerne
 Dompierre FR
 Domdidier
 Missy
@@ -381,8 +476,8 @@ Chabrey
 Constantine
 Cudrefin
 Faoug
-Palézieux-Village
-Châtillens
+PalÃ©zieux-Village
+ChÃ¢tillens
 Ecublens FR
 Henniez
 Marnand
@@ -392,12 +487,12 @@ Aran
 Puidoux
 Chexbres
 Forel (Lavaux)
-Palézieux
+PalÃ©zieux
 Granges (Veveyse)
 Bossonnens
 Attalens
 Remaufens
-Châtel-St-Denis
+ChÃ¢tel-St-Denis
 Les Paccots
 Semsales
 La Verrerie
@@ -410,30 +505,30 @@ Gumefens
 Avry-devant-Pont
 Le Bry
 Echarlens
-Corbières
+CorbiÃ¨res
 Hauteville
 Im Fang
 Jaun
-Abländschen
+AblÃ¤ndschen
 Cerniat FR
 Villarvolard
 Botterens
 Morlon
-Moléson-sur-Gruyères
+MolÃ©son-sur-GruyÃ¨res
 Riaz
 Marsens
 La Roche FR
 Pont-la-Ville
-La Tour-de-Trême
+La Tour-de-TrÃªme
 Broc
-Charmey (Gruyère)
-Le Pâquier-Montbarry
+Charmey (GruyÃ¨re)
+Le PÃ¢quier-Montbarry
 Pringy
 Estavannens
 Enney
 Neirivue
 Albeuve
-Gruyères
+GruyÃ¨res
 Epagny
 Grandvillard
 Oron-la-Ville
@@ -448,34 +543,41 @@ Chavannes-les-Forts
 Prez-vers-Siviriez
 Romont FR
 Billens
-Prévonloup
+PrÃ©vonloup
 Brenles
 Chesalles-sur-Moudon
 Orsonnens
 Villarsiviriaux
 Villarlod
 Vuisternens-en-Ogoz
-Mézières FR
+MÃ©ziÃ¨res FR
 Villariaz
-Estévenens
-Grangettes-près-Romont
-Le Châtelard-près-Romont
+EstÃ©venens
+Grangettes-prÃ¨s-Romont
+Le ChÃ¢telard-prÃ¨s-Romont
 Sommentier
 Romanens
 Massonnens
 Vuisternens-devant-Romont
-Sâles (Gruyère)
+SÃ¢les (GruyÃ¨re)
 Ecoteaux
 Maracon
-Oron-le-Châtel
+Oron-le-ChÃ¢tel
 St-Martin FR
-Le Crêt-près-Semsales
+Le CrÃªt-prÃ¨s-Semsales
 La Joux FR
 Bouloz
 Porsel
 Pont (Veveyse)
 Fribourg
+Fribourg 1
+Fribourg
+Fribourg
+Fribourg
+Fribourg
+Fribourg
 Granges-Paccot
+Fribourg 1 Distribution
 Fribourg
 Corminboeuf
 Misery-Courtion
@@ -487,11 +589,11 @@ Schwarzsee
 Bonnefontaine
 Corpataux-Magnedens
 Rossens FR
-Brünisried
+BrÃ¼nisried
 Ependes FR
 Arconciel
 Treyvaux
-Chésopelloz
+ChÃ©sopelloz
 Tafers
 St. Antoni
 Heitenried
@@ -504,31 +606,33 @@ Marly
 Le Mouret
 Posieux
 Farvagny
-Prez-vers-Noréaz
+Prez-vers-NorÃ©az
 Corserey
 Torny-le-Grand
 Middes
 Neyruz FR
 Cottens FR
-Chénens
+ChÃ©nens
 Lentigny
 Autigny
 Estavayer-le-Gibloux
 Villarimboud
-Villars-sur-Glâne
+Villars-sur-GlÃ¢ne
+Villars-sur-GlÃ¢ne 1
+Villars-sur-GlÃ¢ne 2
 Matran
-Rosé
+RosÃ©
 Onnens FR
-Noréaz
+NorÃ©az
 Villaz-St-Pierre
 Givisiez
 Grolley
-Léchelles
+LÃ©chelles
 Cousset
 Montagny-la-Ville
 Courlevon
 Courgevaux
-Münchenwiler
+MÃ¼nchenwiler
 Salvenach
 Jeuss
 Cordast
@@ -540,16 +644,18 @@ Pensier
 Courtepin
 Cressier FR
 Sugiez
-Môtier (Vully)
+MÃ´tier (Vully)
 Vevey
-Le Mont-Pèlerin
+Vevey 1
+Vevey 1 Distribution
+Le Mont-PÃ¨lerin
 Les Monts-de-Corsier
 Fenil-sur-Corsier
 Corseaux
 Chardonne
 Corsier-sur-Vevey
 Jongny
-St-Légier-La Chiésaz
+St-LÃ©gier-La ChiÃ©saz
 Blonay
 Rivaz
 St-Saphorin (Lavaux)
@@ -558,7 +664,10 @@ Clarens
 Chailly-Montreux
 Brent
 Montreux
+Montreux 1
+Montreux 2
 Territet-Veytaux
+Montreux 1 Distribution
 Chernex
 Glion
 Caux
@@ -571,8 +680,8 @@ L'Etivaz
 Chamby
 Les Avants
 Montbovon
-Rossinière
-Château-d'Oex
+RossiniÃ¨re
+ChÃ¢teau-d'Oex
 Rougemont
 Villeneuve VD
 Rennaz
@@ -587,30 +696,32 @@ Corbeyrier
 La Comballaz
 Les Mosses
 La Forclaz VD
-Huémoz
+HuÃ©moz
 Panex
-Le Sépey
+Le SÃ©pey
 Vers-l'Eglise
 Les Diablerets
 Ollon VD
 Collombey
 Monthey
-Choëx
+Monthey 1
+Monthey 2
+ChoÃ«x
 Les Giettes
 Troistorrents
 Val-d'Illiez
-Champéry
+ChampÃ©ry
 Morgins
 Bex
 Fenalet-sur-Bex
-Frenières-sur-Bex
+FreniÃ¨res-sur-Bex
 Les Plans-sur-Bex
 Gryon
 Villars-sur-Ollon
-Chesières
+ChesiÃ¨res
 St-Maurice
 Mex VS
-Vérossaz
+VÃ©rossaz
 Massongex
 Vionnaz
 Les Evouettes
@@ -624,33 +735,35 @@ St-Gingolph
 Evionnaz
 Collonges
 Vernayaz
-Dorénaz
+DorÃ©naz
 Charrat
 Saxon
 Riddes
 Leytron
 Ovronnaz
 Saillon
-Isérables
+IsÃ©rables
 La Tzoumaz
 Chamoson
 St-Pierre-de-Clages
 Ardon
 Martigny
+Martigny 1
+Martigny 2
 Martigny-Croix
-Le Trétien
-Le Châtelard VS
+Le TrÃ©tien
+Le ChÃ¢telard VS
 Chemin
 Trient
 Ravoire
 Salvan
 Les Granges (Salvan)
-Les Marécottes
+Les MarÃ©cottes
 Finhaut
 Fully
 Bovernier
-Versegères
-Vollèges
+VersegÃ¨res
+VollÃ¨ges
 Levron
 Lourtier
 Fionnay
@@ -660,27 +773,32 @@ Bourg-St-Pierre
 Praz-de-Fort
 La Fouly VS
 Sembrancher
-Le Châble VS
+Le ChÃ¢ble VS
 Verbier
-Orsières
+OrsiÃ¨res
 Champex-Lac
 Sion
-St-Séverin
+Sion 1
+Sion 1 Distribution
+Sion
+Sion 2
+Sion 3
+St-SÃ©verin
 Erde
 Aven
 Daillon
 Grimisuat
 Arbaz
-Vernamiège
+VernamiÃ¨ge
 Nax
 Mase
 St-Martin VS
 Vex
 Euseigne
-Les Haudères
+Les HaudÃ¨res
 Arolla
 La Sage
-Hérémence
+HÃ©rÃ©mence
 Les Collons
 Salins
 Les Agettes
@@ -694,19 +812,30 @@ Basse-Nendaz
 Haute-Nendaz
 Aproz (Nendaz)
 Pont-de-la-Morge (Sion)
-Vétroz
+VÃ©troz
 Conthey
-Savièse
+SaviÃ¨se
 Ayent
-Signèse (Ayent)
+SignÃ¨se (Ayent)
 Bramois
-Evolène
-Anzère
+EvolÃ¨ne
+AnzÃ¨re
 Thyon
-Neuchâtel
+NeuchÃ¢tel
+NeuchÃ¢tel 1 DÃ©pÃ´t
+NeuchÃ¢tel 2
+NeuchÃ¢tel 4
+NeuchÃ¢tel 7
+NeuchÃ¢tel
+NeuchÃ¢tel 9
+NeuchÃ¢tel 1
+NeuchÃ¢tel 2
+NeuchÃ¢tel 2 Distribution
+NeuchÃ¢tel 3
+NeuchÃ¢tel 6
 Auvernier
 Colombier NE
-Bôle
+BÃ´le
 Areuse
 Cortaillod
 Boudry
@@ -717,17 +846,17 @@ Chez-le-Bart
 Vaumarcus
 Peseux
 Corcelles NE
-Cormondrèche
+CormondrÃ¨che
 Valangin
 Boudevilliers
 Fontaines NE
 Fontainemelon
 Cernier
-Chézard-St-Martin
-Les Vieux-Prés
+ChÃ©zard-St-Martin
+Les Vieux-PrÃ©s
 Dombresson
 Villiers
-Le Pâquier NE
+Le PÃ¢quier NE
 Vilars NE
 Savagnier
 Chaumont
@@ -742,16 +871,16 @@ Brot-Plamboz
 Noiraigue
 Travers
 Couvet
-Môtiers NE
+MÃ´tiers NE
 Boveresse
 Fleurier
 Buttes
-La Côte-aux-Fées
+La CÃ´te-aux-FÃ©es
 St-Sulpice NE
-La Brévine
-Les Verrières
+La BrÃ©vine
+Les VerriÃ¨res
 Le Brouillet
-Les Taillères
+Les TaillÃ¨res
 Les Bayards
 Champ-du-Moulin
 Les Sagnettes
@@ -764,41 +893,63 @@ Les Geneveys-sur-Coffrane
 Coffrane
 Les Hauts-Geneveys
 La Chaux-de-Fonds
+La Chaux-de-Fonds 1
+La Chaux-de-Fonds
+La Chaux-de-Fonds
+La Chaux-de-Fonds
+La Chaux-de-Fonds 1 Dist
+La Chaux-de-Fonds
+La Chaux-de-Fonds
 Petit-Martel
 Les Emibois
 La Sagne NE
 Les Ponts-de-Martel
-Le Crêt-du-Locle
+Le CrÃªt-du-Locle
 Les Planchettes
 La Cibourg
-La Ferrière
+La FerriÃ¨re
 Les Bois
 Le Locle
-La Châtagne
+La ChÃ¢tagne
 La Chaux-du-Milieu
-Le Prévoux
-Le Cerneux-Péquignot
+Le PrÃ©voux
+Le Cerneux-PÃ©quignot
 Les Brenets
 Biel/Bienne
-Tüscherz-Alfermée
+Biel/Bienne 1
+Biel/Bienne 3
+Biel/Bienne 4
+Biel/Bienne 6
+Biel/Bienne 7
+Biel/Bienne 8
+Biel/Bienne 1 Zustellung
+Biel/Bienne 1 Annahme
+Biel/Bienne
+Biel/Bienne
+Biel/Bienne
+Biel/Bienne
+Biel/Bienne
+TÃ¼scherz-AlfermÃ©e
 Twann
 Ligerz
-Prêles
+PrÃªles
 Lamboing
 Diesse
 Nods
 La Neuveville
-Lignières
+LigniÃ¨res
 Le Landeron
 Magglingen/Macolin
 Evilard
 Orvin
-Les Prés-d'Orvin
+Les PrÃ©s-d'Orvin
 Frinvillier
 Plagne
 Vauffelin
 Romont BE
 Grenchen
+Grenchen 1
+Grenchen 2
 Pieterlen
 Lengnau BE
 Bettlach
@@ -806,7 +957,7 @@ Selzach
 Orpund
 Safnern
 Meinisberg
-Brügg BE
+BrÃ¼gg BE
 Scheuren
 Studen BE
 Aegerten
@@ -816,15 +967,15 @@ Ipsach
 Bellmund
 Jens
 Sutz
-Täuffelen
-Lüscherz
+TÃ¤uffelen
+LÃ¼scherz
 Siselen BE
-Brüttelen
-Péry
+BrÃ¼ttelen
+PÃ©ry
 La Heutte
 Sonceboz-Sombeval
-Corgémont
-Cortébert
+CorgÃ©mont
+CortÃ©bert
 Courtelary
 Montagne-de-Courtelary
 St-Imier
@@ -837,10 +988,10 @@ Montagne-de-Sonvilier
 Renan BE
 Tavannes
 Le Fuet
-Le Prédame
+Le PrÃ©dame
 Fornet-Dessous
 Fornet-Dessus
-Châtelat-Monible
+ChÃ¢telat-Monible
 Sornetan
 Bellelay
 Les Genevez JU
@@ -853,7 +1004,7 @@ Les Breuleux
 Le Cerneux-Veusil
 La Chaux-des-Breuleux
 Le Noirmont
-Saignelégier
+SaignelÃ©gier
 Les Pommerats
 Goumois
 Reconvilier
@@ -861,8 +1012,8 @@ Saicourt
 Saules BE
 Loveresse
 Pontenet
-Malleray-Bévilard
-Bévilard
+Malleray-BÃ©vilard
+BÃ©vilard
 Sorvilier
 Court
 Moutier
@@ -872,15 +1023,18 @@ Eschert
 Belprahon
 Seehof
 Grandval
-Crémines
+CrÃ©mines
 Corcelles BE
 Roches BE
 Rebeuvelier
 Courrendlin
-Delémont
+DelÃ©mont
+DelÃ©mont 1
+DelÃ©mont 2
+DelÃ©mont 1 Distribution
 Develier
 Bourrignon
-Soyhières
+SoyhiÃ¨res
 Mettembert
 Pleigne
 Lucelle
@@ -896,12 +1050,12 @@ Mervelier
 Montsevelier
 Vermes
 Rossemaison
-Châtillon JU
-Courtételle
+ChÃ¢tillon JU
+CourtÃ©telle
 Courfaivre
 Bassecourt
 Glovelier
-Boécourt
+BoÃ©court
 Montavon
 Undervelier
 Soulce
@@ -916,6 +1070,9 @@ Seleute
 Ocourt
 Courgenay
 Porrentruy
+Porrentruy 1
+Porrentruy 2
+Porrentruy 1 Distribution
 Fontenais
 Villars-sur-Fontenais
 Bressaucourt
@@ -928,20 +1085,52 @@ Damvant
 Bure
 Fahy
 Courchavon
-Courtemaîche
+CourtemaÃ®che
 Montignez
 Buix
 Boncourt
 Coeuve
-Beurnevésin
+BeurnevÃ©sin
 Alle
 Vendlincourt
 Bonfol
-Miécourt
+MiÃ©court
 Charmoille
 Cornol
-Fregiécourt-Pleujouse
+FregiÃ©court-Pleujouse
 Asuel
+Bern
+Bern 1 Schanzenpost
+Bern 5
+Bern 6
+Bern 8
+Bern 9
+Bern 13
+Bern 14
+Bern 15
+Bern 21
+Bern 22
+Bern 23
+Bern 25
+Bern 31
+Bern Postauto BE-FB-SO
+Bern
+Bern Postfinance
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
+Bern
 Bern
 Spiegel b. Bern
 Hinterkappelen
@@ -953,14 +1142,14 @@ Herrenschwanden
 Kirchlindach
 Ortschwaben
 Uettligen
-Säriswil
+SÃ¤riswil
 Meikirch
 Wahlendorf
 Bremgarten b. Bern
 Worblaufen
 Zollikofen
-Münchenbuchsee
-Schüpfen
+MÃ¼nchenbuchsee
+SchÃ¼pfen
 Ittigen
 Bolligen
 Bolligen Dorf
@@ -968,26 +1157,27 @@ Stettlen
 Boll
 Utzigen
 Ostermundigen
-Gümligen
+Ostermundigen 1
+GÃ¼mligen
 Muri b. Bern
-Rüfenacht BE
+RÃ¼fenacht BE
 Worb
 Enggistein
 Richigen
 Schlosswil
 Trimstein
 Wabern
-Oberbütschel
+OberbÃ¼tschel
 Zimmerwald
 Niedermuhlern
-Rüeggisberg
+RÃ¼eggisberg
 Hinterfultigen
 Oberbalm
 Liebefeld
-Köniz
-Schliern b. Köniz
-Rüti b. Riggisberg
-Münsingen
+KÃ¶niz
+Schliern b. KÃ¶niz
+RÃ¼ti b. Riggisberg
+MÃ¼nsingen
 Allmendingen b. Bern
 Wichtrach
 Gerzensee
@@ -999,7 +1189,7 @@ Belp
 Belpberg
 Toffen
 Kaufdorf
-Mühlethurnen
+MÃ¼hlethurnen
 Kirchenthurnen
 Riggisberg
 Burgistein
@@ -1009,44 +1199,44 @@ Gurzelen
 Uetendorf
 Gasel
 Niederscherli
-Mittelhäusern
-Lanzenhäusern
+MittelhÃ¤usern
+LanzenhÃ¤usern
 Schwarzenburg
 Mamishaus
-Rüschegg Gambach
-Rüschegg Heubach
+RÃ¼schegg Gambach
+RÃ¼schegg Heubach
 Helgisried-Rohrbach
 Riffenmatt
 Milken
 Guggisberg
-Riedstätt
+RiedstÃ¤tt
 Niederwangen b. Bern
 Oberwangen b. Bern
-Thörishaus
+ThÃ¶rishaus
 Flamatt
 Neuenegg
 Laupen BE
-Bösingen
+BÃ¶singen
 Kriechenwil
 Ueberstorf
 Albligen
-Wünnewil
-Düdingen
+WÃ¼nnewil
+DÃ¼dingen
 Gelterfingen
 Frauenkappelen
-Mühleberg
-Rosshäusern
-Gümmenen
+MÃ¼hleberg
+RosshÃ¤usern
+GÃ¼mmenen
 Rizenbach
 Wileroltigen
-Gurbrü
+GurbrÃ¼
 Kerzers
 Ried b. Kerzers
 Gempenach
 Ulmiz
 Liebistorf
 Gurmels
-Müntschemier
+MÃ¼ntschemier
 Treiten
 Ins
 Tschugg
@@ -1055,7 +1245,7 @@ Erlach
 Gampelen
 Lyss
 Lyss Zustellung
-Wengi b. Büren
+Wengi b. BÃ¼ren
 Worben
 Schnottwil
 Messen
@@ -1064,8 +1254,8 @@ Dieterswil
 Grossaffoltern
 Ammerzwil BE
 Suberg
-Büetigen
-Diessbach b. Büren
+BÃ¼etigen
+Diessbach b. BÃ¼ren
 Wiler b. Seedorf
 Seedorf BE
 Lobsigen
@@ -1078,28 +1268,28 @@ Murten
 Meyriez
 Bargen BE
 Kallnach
-Fräschels
+FrÃ¤schels
 Galmiz
 Muntelier
 Busswil BE
 Dotzigen
-Büren an der Aare
-Rüti b. Büren
+BÃ¼ren an der Aare
+RÃ¼ti b. BÃ¼ren
 Arch
 Leuzigen
-Oberwil b. Büren
+Oberwil b. BÃ¼ren
 Moosseedorf
 Jegenstorf
 Grafenried
 Fraubrunnen
-Büren zum Hof
+BÃ¼ren zum Hof
 Schalunen
-Bätterkinden
-Kräiligen
-Schönbühl Einkaufszentrum
-Urtenen-Schönbühl
+BÃ¤tterkinden
+KrÃ¤iligen
+SchÃ¶nbÃ¼hl Einkaufszentrum
+Urtenen-SchÃ¶nbÃ¼hl
 Mattstetten
-Bäriswil BE
+BÃ¤riswil BE
 Hindelbank
 Hettiswil b. Hindelbank
 Krauchthal
@@ -1109,69 +1299,73 @@ Etzelkofen
 Brunnenthal
 Kernenried
 Limpach
-Mülchi
+MÃ¼lchi
 Herzogenbuchsee
-Höchstetten-Hellsau
+HÃ¶chstetten-Hellsau
 Aeschi SO
 Graben
 Wanzwil
 Heimenhausen
-Röthenbach Herzogenbuchsee
+RÃ¶thenbach Herzogenbuchsee
 Wangenried
-Niederönz
-Oberönz
+NiederÃ¶nz
+OberÃ¶nz
 Seeberg
 Grasswil
 Bettenhausen
-Thörigen
+ThÃ¶rigen
 Bleienbach
+Burgdorf
+Burgdorf 1
+Burgdorf Zustellung
+Burgdorf
 Burgdorf
 Heimiswil
 Kaltacker
 Oberburg
-Hasle-Rüegsau
+Hasle-RÃ¼egsau
 Affoltern im Emmental
-Rüegsau
-Rüegsbach
+RÃ¼egsau
+RÃ¼egsbach
 Biembach im Emmental
 Lyssach
 Kirchberg BE
-Rüdtligen
-Alchenflüh
+RÃ¼dtligen
+AlchenflÃ¼h
 Ersigen
-Niederösch
+NiederÃ¶sch
 Koppigen
 Aefligen
 Utzenstorf
 Wiler b. Utzenstorf
-Lützelflüh-Goldbach
+LÃ¼tzelflÃ¼h-Goldbach
 Schwanden im Emmental
 Obergoldbach
 Ramsei
-Zollbrück
-Rüderswil
+ZollbrÃ¼ck
+RÃ¼derswil
 Lauperswil
-Ranflüh
-Grünenmatt
+RanflÃ¼h
+GrÃ¼nenmatt
 Heimisbach
 Sumiswald
-Grünen
+GrÃ¼nen
 Trachselwald
 Wasen im Emmental
 Weier im Emmental
-Häusernmoos im Emmental
-Schmidigen-Mühleweg
-Dürrenroth
+HÃ¤usernmoos im Emmental
+Schmidigen-MÃ¼hleweg
+DÃ¼rrenroth
 Wynigen
 Alchenstorf
-Rüedisbach
+RÃ¼edisbach
 Riedtwil
 Hermiswil
 Oschwand
-Tägertschi
+TÃ¤gertschi
 Gysenstein
-Niederhünigen
-Grosshöchstetten
+NiederhÃ¼nigen
+GrosshÃ¶chstetten
 Biglen
 Arni BE
 Konolfingen
@@ -1184,30 +1378,38 @@ Linden
 Bleiken b. Oberdiessbach
 Brenzikofen
 Oberthal
-Zäziwil
+ZÃ¤ziwil
 Bowil
 Signau
-Schüpbach
+SchÃ¼pbach
 Aeschau
 Eggiwil
-Röthenbach im Emmental
+RÃ¶thenbach im Emmental
 Emmenmatt
 Langnau im Emmental
 Oberfrittenbach
-Bärau
+BÃ¤rau
 Gohl
 Trubschachen
 Trub
 Fankhaus (Trub)
 Thun
+Thun 2 Zustellung
+Thun
+Thun
+Thun
+Thun
+Thun
+Thun
+Thun
 Fahrni b. Thun
-Süderen
+SÃ¼deren
 Eriz
 Innereriz
 Homberg b. Thun
 Uebeschi
-Höfen b. Thun
-Längenbühl
+HÃ¶fen b. Thun
+LÃ¤ngenbÃ¼hl
 Steffisburg
 Steffisburg
 Unterlangenegg
@@ -1216,7 +1418,7 @@ Schwarzenegg
 Teuffenthal b. Thun
 Goldiwil (Thun)
 Heiligenschwendi
-Hünibach
+HÃ¼nibach
 Heimberg
 Amsoldingen
 Thierachern
@@ -1240,9 +1442,9 @@ Aeschiried
 Krattigen
 Faulensee
 Leissigen
-Därligen
+DÃ¤rligen
 Emdthal
-Mülenen
+MÃ¼lenen
 Reichenbach im Kandertal
 Frutigen
 Wengi b. Frutigen
@@ -1258,11 +1460,11 @@ Wimmis
 Oey
 Diemtigen
 Horboden
-Zwischenflüh
+ZwischenflÃ¼h
 Schwenden im Diemtigtal
 Latterbach
 Erlenbach im Simmental
-Därstetten
+DÃ¤rstetten
 Weissenburg
 Oberwil im Simmental
 Boltigen
@@ -1272,8 +1474,8 @@ St. Stephan
 Matten (St. Stephan)
 Lenk im Simmental
 Oeschseite
-Saanenmöser
-Schönried
+SaanenmÃ¶ser
+SchÃ¶nried
 Gstaad
 Turbach
 Lauenen b. Gstaad
@@ -1288,20 +1490,20 @@ Jungfraujoch
 Beatenberg
 Habkern
 Goldswil b. Interlaken
-Bönigen b. Interlaken
+BÃ¶nigen b. Interlaken
 Iseltwald
 Wilderswil
 Saxeten
 Gsteigwiler
-Zweilütschinen
-Lütschental
+ZweilÃ¼tschinen
+LÃ¼tschental
 Burglauenen
 Grindelwald
 Lauterbrunnen
 Isenfluh
 Wengen
 Stechelberg
-Mürren
+MÃ¼rren
 Gimmelwald
 Ringgenberg BE
 Niederried b. Interlaken
@@ -1338,22 +1540,22 @@ Glis
 Goppenstein
 Ferden
 Kippel
-Wiler (Lötschen)
-Blatten (Lötschen)
+Wiler (LÃ¶tschen)
+Blatten (LÃ¶tschen)
 Naters
 Saas-Almagell
 Saas-Fee
 Zermatt
-Törbel
+TÃ¶rbel
 Embd
 Herbriggen
 Randa
-Täsch
+TÃ¤sch
 Stalden VS
 Kalpetran
 St. Niklaus VS
 Gasenried
-Grächen
+GrÃ¤chen
 Visp
 St. German
 Staldenried
@@ -1364,9 +1566,9 @@ Eyholz
 Lalden
 Visperterminen
 Zeneggen
-Bürchen
+BÃ¼rchen
 Eischoll
-Unterbäch VS
+UnterbÃ¤ch VS
 Ergisch
 Unterems
 Gruben
@@ -1376,11 +1578,11 @@ Albinen
 Guttet-Feschel
 Erschmatt
 Varen
-Noës
+NoÃ«s
 Flanthey
 Lens
 Icogne
-Grône
+GrÃ´ne
 Raron
 Niedergesteln
 Gampel
@@ -1391,15 +1593,15 @@ Inden
 Leukerbad
 Salgesch
 Granges VS
-St-Léonard
+St-LÃ©onard
 Sierre
-Corin-de-la-Crête
+Corin-de-la-CrÃªte
 Loc
 Chermignon
 Chermignon-d'en-Bas
 Ollon VS
-Miège
-Venthône
+MiÃ¨ge
+VenthÃ´ne
 Mollens VS
 Randogne
 Vissoie
@@ -1414,7 +1616,7 @@ Crans-Montana
 Muraz (Sierre)
 Chippis
 Chalais
-Réchy
+RÃ©chy
 Veyras
 Bitsch
 Grengiols
@@ -1428,15 +1630,15 @@ Reckingen VS
 Geschinen
 Obergesteln
 Oberwald
-Ried-Mörel
+Ried-MÃ¶rel
 Riederalp
 Betten
 Bettmeralp
 Ernen
 Binn
-Mörel
+MÃ¶rel
 Fiesch
-Münster VS
+MÃ¼nster VS
 Ulrichen
 Basel
 Basel 2 Zustellung
@@ -1463,7 +1665,7 @@ Basel
 Basel
 Basel
 Basel
-Basel Universitätsspital
+Basel UniversitÃ¤tsspital
 Basel
 Basel
 Basel
@@ -1477,28 +1679,40 @@ Basel
 Basel
 Bruderholz
 Binningen
+Binningen 1
+Binningen 2
 Bottmingen
 Oberwil BL
 Biel-Benken BL
 Therwil
 Ettingen
 Witterswil
-Bättwil-Flüh
-Bättwil
-Flüh
+BÃ¤ttwil-FlÃ¼h
+BÃ¤ttwil
+FlÃ¼h
 Hofstetten SO
 Mariastein
 Metzerlen
 Burg im Leimental
 Rodersdorf
 Allschwil
-Schönenbuch
+Allschwil 1
+Allschwil Dorf
+Allschwil Lindenplatz
+SchÃ¶nenbuch
 Riehen
+Riehen 1
+Riehen 2
 Bettingen
 Birsfelden
 Muttenz
+Muttenz 1
+Muttenz Lutzert
 Pratteln
-Münchenstein
+Pratteln 1
+MÃ¼nchenstein
+MÃ¼nchenstein 1
+MÃ¼nchenstein 3
 Dornach
 Arlesheim
 Gempen
@@ -1506,6 +1720,8 @@ Hochwald
 Aesch BL
 Pfeffingen
 Reinach BL
+Reinach BL 1
+Reinach BL 2
 Duggingen
 Grellingen
 Seewen SO
@@ -1514,12 +1730,12 @@ Nunningen
 Zwingen
 Brislach
 Breitenbach
-Büsserach
+BÃ¼sserach
 Erschwil
 Laufen
 Dittingen
-Röschenz
-Kleinlützel
+RÃ¶schenz
+KleinlÃ¼tzel
 Himmelried
 Blauen
 Nenzlingen
@@ -1529,18 +1745,20 @@ Meltingen
 Zullwil
 Wahlen b. Laufen
 Grindel
-Bärschwil
-Bärschwil Dorf
+BÃ¤rschwil
+BÃ¤rschwil Dorf
 Liesberg
 Liesberg Dorf
 Augst BL
 Kaiseraugst
-Kaiseraugst Liebrüti
+Kaiseraugst LiebrÃ¼ti
 Giebenach
 Olsberg
 Rheinfelden
+Rheinfelden 1
+Rheinfelden 2
 Magden
-Möhlin
+MÃ¶hlin
 Zeiningen
 Zuzgen
 Hellikon
@@ -1550,7 +1768,7 @@ Wallbach
 Obermumpf
 Schupfart
 Stein AG
-Münchwilen AG
+MÃ¼nchwilen AG
 Sisseln AG
 Laufenburg
 Kaisten
@@ -1571,8 +1789,8 @@ Liestal
 Liestal Kaserne
 Seltisberg
 Nuglar
-Büren SO
-Füllinsdorf
+BÃ¼ren SO
+FÃ¼llinsdorf
 Lausen
 Bubendorf
 Ziefen
@@ -1587,19 +1805,19 @@ Lauwil
 Bennwil
 Lampenberg
 Ramlinsburg
-Hölstein
+HÃ¶lstein
 Niederdorf
 Oberdorf BL
 Waldenburg
 Langenbruck
-Thürnen
+ThÃ¼rnen
 Diepflingen
 Wittinsburg
-Rümlingen
-Häfelfingen
+RÃ¼mlingen
+HÃ¤felfingen
 Buckten
-Känerkinden
-Läufelfingen
+KÃ¤nerkinden
+LÃ¤ufelfingen
 Sissach
 Wintersingen
 Itingen
@@ -1609,7 +1827,7 @@ Tenniken
 Diegten
 Eptingen
 Gelterkinden
-Böckten
+BÃ¶ckten
 Hemmiken
 Anwil
 Rickenbach BL
@@ -1623,10 +1841,16 @@ Wenslingen
 Oltingen
 Zeglingen
 Kilchberg BL
-Rünenberg
+RÃ¼nenberg
+Solothurn
+Solothurn 1
+Solothurn 1 Zustellung
+Solothurn
+Solothurn 1 Annahme
+Solothurn
 Solothurn
 Weissenstein b. Solothurn
-Balm b. Günsberg
+Balm b. GÃ¼nsberg
 Niederwil SO
 Hubersdorf
 Rumisberg
@@ -1637,8 +1861,8 @@ Bellach
 Langendorf
 Lommiswil
 Oberdorf SO
-Rüttenen
-Günsberg
+RÃ¼ttenen
+GÃ¼nsberg
 Zuchwil
 Feldbrunnen
 Riedholz
@@ -1656,13 +1880,13 @@ Obergerlafingen
 Zielebach
 Recherswil
 Kriegstetten
-Küttigkofen
+KÃ¼ttigkofen
 Kyburg-Buchegg
-Brügglen
-Mühledorf SO
+BrÃ¼gglen
+MÃ¼hledorf SO
 Gossliwil
 Bibern SO
-Lüterkofen-Ichertswil
+LÃ¼terkofen-Ichertswil
 Ichertswil
 Tscheppach
 Hessigkofen
@@ -1671,31 +1895,37 @@ Aetingen
 Unterramsern
 Oberramsern
 Nennigkofen
-Lüsslingen
+LÃ¼sslingen
+Olten
+Olten 1
+Olten 2 Zustellung
+Olten 1 FÃ¤cher
 Olten
 Wangen b. Olten
 Rickenbach SO
-Hägendorf
+HÃ¤gendorf
 Kappel SO
 Gunzgen
 Boningen
 Egerkingen
 Neuendorf
-Härkingen
+HÃ¤rkingen
 Oberbuchsiten
 Niederbuchsiten
 Trimbach
 Winznau
-Obergösgen
+ObergÃ¶sgen
 Lostorf
-Stüsslingen
+StÃ¼sslingen
 Rohr b. Olten
 Starrkirch-Wil
 Dulliken
-Däniken SO
-Däniken Postzentrum
+DÃ¤niken SO
+DÃ¤niken Postzentrum
 Aarburg
 Oftringen
+Oftringen 1
+Oftringen 2
 Allerheiligenberg
 Hauenstein
 Wisen SO
@@ -1707,15 +1937,15 @@ Walliswil b. Wangen
 Deitingen
 Luterbach
 Balsthal
-Balsthal Postauto Thal-Gäu
+Balsthal Postauto Thal-GÃ¤u
 Aedermannsdorf
 Herbetswil
 Ramiswil
 Laupersdorf
 Matzendorf
 Welschenrohr
-Gänsbrunnen
-Mümliswil
+GÃ¤nsbrunnen
+MÃ¼mliswil
 Holderbank SO
 Zofingen
 Zofingen Ringier AG
@@ -1723,17 +1953,20 @@ Strengelbach
 Vordemwald
 Brittnau
 Wikon
-Mühlethal
+MÃ¼hlethal
 Uerkheim
 Bottenwil
 Rothrist
 Murgenthal
 Fulenbach
 Wolfwil
-Glashütten
+GlashÃ¼tten
 Riken AG
 Langenthal
-Schwarzhäusern
+Langenthal 1
+Langenthal
+Langenthal
+SchwarzhÃ¤usern
 Aarwangen
 Bannwil
 Roggwil BE
@@ -1743,11 +1976,11 @@ Melchnau
 Busswil b. Melchnau
 Gondiswil
 Reisiswil
-Bützberg
+BÃ¼tzberg
 Wynau
 Obersteckholz
 Lotzwil
-Rütschelen
+RÃ¼tschelen
 Madiswil
 Leimiswil
 Kleindietwil
@@ -1762,16 +1995,22 @@ Eriswil
 Schwarzenbach (Huttwil)
 Wyssachen
 Aarau
-Schönenwerd
-Niedergösgen
+Aarau 1
+Aarau 1 Zustellung
+Aarau Postauto Aargau
+Aarau Kaserne
+Aarau 1 FÃ¤cher
+Aarau
+SchÃ¶nenwerd
+NiedergÃ¶sgen
 Gretzenbach
 Erlinsbach SO
 Barmelweid
 Rombach
 Biberstein
-Küttigen
+KÃ¼ttigen
 Asp
-Densbüren
+DensbÃ¼ren
 Herznach
 Ueken
 Aarau Rohr
@@ -1780,7 +2019,7 @@ Suhr
 Unterentfelden
 Oberentfelden
 Muhen
-Schöftland
+SchÃ¶ftland
 Hirschthal
 Holziken
 Schlossrued
@@ -1800,28 +2039,32 @@ Schinznach Dorf
 Oberflachs
 Thalheim AG
 Holderbank AG
-Möriken AG
+MÃ¶riken AG
 Schinznach Bad
 Habsburg
 Scherz
 Brugg AG
+Brugg AG 1
 Windisch
+Brugg AG 3
+Brugg AG Kaserne
+Brugg AG
 Hausen AG
 Villnachern
 Umiken
 Riniken
 Stilli
 Villigen
-Rüfenach AG
+RÃ¼fenach AG
 Remigen
-Mönthal
+MÃ¶nthal
 Birr-Lupfig
 Birr
 Lupfig
-Mülligen
+MÃ¼lligen
 Birrhard
 Effingen
-Bözen
+BÃ¶zen
 Elfingen
 Zeihen
 Hornussen
@@ -1829,25 +2072,32 @@ Frick
 Oeschgen
 Gipf-Oberfrick
 Wittnau
-Wölflinswil
+WÃ¶lflinswil
 Oberhof
 Eiken
 Turgi
 Siggenthal Station
-Würenlingen
+WÃ¼renlingen
 Endingen
 Unterendingen
 Tegerfelden
-Döttingen
+DÃ¶ttingen
 Klingnau
-Kleindöttingen
-Böttstein
+KleindÃ¶ttingen
+BÃ¶ttstein
 Leuggern
 Hettenschwil
 Mandach
 Koblenz
 Baden
+Baden 1
 Ennetbaden
+Baden 1 Postautodienst
+Baden
+Baden
+Baden
+Baden
+Baden
 Gebenstorf
 Birmenstorf AG
 Nussbaumen AG
@@ -1858,10 +2108,14 @@ Freienwil
 Schneisingen
 Lengnau AG
 Wettingen
+Wettingen 1
+Wettingen 2
+Wettingen 3
+Wettingen Sonderdienste
 Neuenhof
 Fislisbach
 Niederrohrdorf
-Künten
+KÃ¼nten
 Eggenwil
 Oberrohrdorf
 Remetschwil
@@ -1870,24 +2124,28 @@ Hunzenschwil
 Schafisheim
 Othmarsingen
 Brunegg
-Mägenwil
+MÃ¤genwil
 Mellingen
 Wohlenschwil
-Tägerig
+TÃ¤gerig
 Nesselnbach
 Niederwil AG
-Fischbach-Göslikon
+Fischbach-GÃ¶slikon
 Lenzburg
+Lenzburg 1
+Lenzburg 2
 Ammerswil AG
 Staufen
 Hendschiken
 Dottikon
 Dintikon
-Hägglingen
+HÃ¤gglingen
 Stetten AG
 Wohlen AG
+Wohlen AG 1
+Wohlen AG 2
 Anglikon
-Büttikon AG
+BÃ¼ttikon AG
 Villmergen
 Hilfikon
 Sarmenstorf
@@ -1900,22 +2158,22 @@ Zufikon
 Bremgarten AG Kaserne
 Waltenschwil
 Boswil
-Bünzen
+BÃ¼nzen
 Kallern
 Hermetschwil-Staffeln
-Besenbüren
+BesenbÃ¼ren
 Aristau
 Muri AG
 Buttwil
 Merenschwand
 Benzenschwil
 Beinwil (Freiamt)
-Mühlau
+MÃ¼hlau
 Sins
 Auw
 Aettenschwil
 Abtwil AG
-Oberrüti
+OberrÃ¼ti
 Alikon
 Niederlenz
 Seon
@@ -1925,9 +2183,9 @@ Boniswil
 Seengen
 Birrwil
 Beinwil am See
-Gränichen
+GrÃ¤nichen
 Teufenthal AG
-Dürrenäsch
+DÃ¼rrenÃ¤sch
 Leutwil
 Unterkulm
 Oberkulm
@@ -1938,26 +2196,44 @@ Reinach AG
 Pfeffikon LU
 Burg AG
 Menziken
-Kölliken
+KÃ¶lliken
 Safenwil
 Walterswil SO
+Luzern
+Luzern 1 Annahme
+Luzern 4
+Luzern 6
+Luzern 7
+Luzern 10
+Luzern 11
+Luzern 14
+Luzern 15
+Luzern 16
+Luzern Zustellung
+Luzern
+Luzern
+Luzern
+Luzern
 Luzern
 Kriens
 Obernau
 Eigenthal
 Luzern
 Luzern
-Hellbühl
+HellbÃ¼hl
 Ruswil
 Sigigen
 Buttisholz
-Emmenbrücke
+EmmenbrÃ¼cke
+EmmenbrÃ¼cke 1
+EmmenbrÃ¼cke 2
+EmmenbrÃ¼cke 3
 Grosswangen
 Rothenburg
 Hildisrieden
 Neudorf
 Rain
-Römerswil LU
+RÃ¶merswil LU
 Herlisberg
 Ebikon
 Emmen
@@ -1976,7 +2252,7 @@ Horw
 Hergiswil NW
 Alpnachstad
 Alpnach Dorf
-Kägiswil
+KÃ¤giswil
 Sarnen
 Ramersberg
 Melchsee-Frutt
@@ -1986,11 +2262,11 @@ Kerns
 St. Niklausen OW
 Melchtal
 Sachseln
-Flüeli-Ranft
+FlÃ¼eli-Ranft
 Giswil
-Bürglen OW
+BÃ¼rglen OW
 Lungern
-Brünig
+BrÃ¼nig
 Hasliberg Hohfluh
 Hasliberg Wasserwendi
 Hasliberg Goldern
@@ -2017,8 +2293,8 @@ Ohmstal
 Zell LU
 Fischbach LU
 Grossdietwil
-Altbüron
-Hüswil
+AltbÃ¼ron
+HÃ¼swil
 Ufhusen
 Hofstatt
 Luthern
@@ -2029,9 +2305,9 @@ Rengg
 Finsterwald b. Entlebuch
 Hasle LU
 Bramboden
-Schüpfheim
-Flühli LU
-Sörenberg
+SchÃ¼pfheim
+FlÃ¼hli LU
+SÃ¶renberg
 Escholzmatt
 Wiggen
 Marbach LU
@@ -2047,7 +2323,7 @@ Buchs LU
 St. Erhard
 Knutwil
 Schenkon
-Beromünster
+BeromÃ¼nster
 Schwarzenbach LU
 Mauensee
 Kottwil
@@ -2056,7 +2332,7 @@ Rickenbach LU
 Gunzwil
 Schlierbach
 Geuensee
-Büron
+BÃ¼ron
 Triengen
 Kulmerau
 Wilihof
@@ -2066,7 +2342,7 @@ Egolzwil
 Nebikon
 Ebersecken
 Altishofen
-Schötz
+SchÃ¶tz
 Alberswil
 Dagmersellen
 Uffikon
@@ -2086,29 +2362,32 @@ Baldegg
 Gelfingen
 Hitzkirch
 Retschwil
-Müswangen
+MÃ¼swangen
 Altwis
 Aesch LU
 Schongau
 Ermensee
 Mosen
 Zug
-Cham
+Zug 1
+Cham 2
+Zug
+Zug Sonderdienste
 Edlibach
 Finstersee
 Allenwinden
 Morgarten
 Steinhausen
 Menzingen
-Unterägeri
-Neuägeri
-Oberägeri
+UnterÃ¤geri
+NeuÃ¤geri
+OberÃ¤geri
 Alosen
 Zugerberg
 Oberwil b. Zug
 Walchwil
 Cham
-Hünenberg
+HÃ¼nenberg
 Hagendorn
 Baar
 Rotkreuz
@@ -2118,16 +2397,16 @@ Weggis
 Vitznau
 Rigi Kaltbad
 Stansstad
-Obbürgen
+ObbÃ¼rgen
 Kehrsiten
 Stans
 Ennetmoos
-Ennetbürgen
+EnnetbÃ¼rgen
 Buochs
 Beckenried
 Emmetten
 Seelisberg
-Büren NW
+BÃ¼ren NW
 Dallenwil
 Niederrickenbach
 Wolfenschiessen
@@ -2135,11 +2414,11 @@ Oberrickenbach
 Grafenort
 Engelberg
 Merlischachen
-Küssnacht am Rigi
+KÃ¼ssnacht am Rigi
 Greppen
 Immensee
 Goldau
-Rigi Klösterli
+Rigi KlÃ¶sterli
 Rigi Staffel
 Rigi Kulm
 Oberarth
@@ -2159,18 +2438,18 @@ Muotathal
 Bisisthal
 Ibach
 Brunnen
-Rütli
+RÃ¼tli
 Gersau
 Morschach
 Sisikon
 Riemenstalden
-Flüelen
+FlÃ¼elen
 Altdorf UR
 Isenthal
 Seedorf UR
-Bürglen UR
+BÃ¼rglen UR
 Spiringen
-Unterschächen
+UnterschÃ¤chen
 Bauen
 Schattdorf
 Haldi b. Schattdorf
@@ -2183,11 +2462,19 @@ Intschi
 Gurtnellen
 Wassen UR
 Meien
-Göschenen
+GÃ¶schenen
 Andermatt
 Realp
 Hospental
 Bellinzona
+Bellinzona 1
+Bellinzona 2
+Bellinzona 5
+Bellinzona
+Bellinzona Distribuzione
+Bellinzona Caserma
+Bellinzona
+Bellinzona 6 Autopostale TI
 Giubiasco
 Monte Carasso
 Sementina
@@ -2246,8 +2533,14 @@ Agarone
 Tenero
 Robasacco
 Locarno
+Locarno 1
 Muralto
-Monte Brè sopra Locarno
+Locarno 3 Stazione Autopost
+Locarno
+Locarno Distribuzione
+Locarno
+Locarno
+Monte BrÃ¨ sopra Locarno
 Golino
 Arcegno
 Contra
@@ -2349,9 +2642,9 @@ Faido
 Molare
 Calpiogna
 Campello
-Carì
+CarÃ¬
 Rodi-Fiesso
-Ambrì
+AmbrÃ¬
 Piotta
 Quinto
 Varenzo
@@ -2384,6 +2677,8 @@ Capolago
 Riva San Vitale
 Balerna
 Chiasso
+Chiasso 1
+Chiasso 3
 Sagno
 Caneggio
 Bruzella
@@ -2424,9 +2719,15 @@ Castel San Pietro
 Coldrerio
 Novazzano
 Lugano
+Lugano 1
 Massagno
 Lugano Distribuzione
 Lugano
+Lugano 2 Paradiso Caselle
+Lugano
+Lugano 4 Molino Nuovo Casel
+Lugano 5 Serv Autopostali
+Lugano 6 Cassarate Caselle
 Carabbia
 Pambio-Noranco
 Grancia
@@ -2442,7 +2743,7 @@ Vezio
 Breno
 Fescoggia
 Comano
-Brè sopra Lugano
+BrÃ¨ sopra Lugano
 Brusino Arsizio
 Pazzallo
 Carona
@@ -2480,7 +2781,7 @@ Bogno
 Cozzo
 Cagiallo
 Oggio
-Signôra
+SignÃ´ra
 Cimadera
 Maglio di Colla
 Certara
@@ -2524,6 +2825,14 @@ Novaggio
 Caslano
 Ponte Tresa
 Chur
+Chur 1 Annahme
+Chur 1 Zustellung
+Chur Kaserne
+Chur
+Chur
+Chur
+Chur
+Chur
 Felsberg
 Domat/Ems
 Tamins
@@ -2532,6 +2841,8 @@ Flims Waldhaus
 Haldenstein
 Maladers
 Laax GR
+Laax GR 1
+Laax GR 2
 Arosa
 Passugg-Araschgen
 Praden
@@ -2547,14 +2858,14 @@ Brienz/Brinzauls GR
 Trin
 Trin Mulin
 Fidaz
-Lüen
+LÃ¼en
 Castiel
 St. Peter
 Pagig
 Molinis
 Peist
 Langwies
-Litzirüti
+LitzirÃ¼ti
 Versam
 Arezen
 Tenna
@@ -2593,7 +2904,7 @@ Vals
 Obersaxen Affeier
 Obersaxen Meierhof
 Obersaxen Giraniga
-Obersaxen Friggahüs
+Obersaxen FriggahÃ¼s
 Pigniu
 Rueun
 Siat
@@ -2609,9 +2920,9 @@ Zignau
 Rabius
 Sumvitg
 S. Benedetg
-Disentis/Mustér
+Disentis/MustÃ©r
 Cavardiras
-Mumpé Medel
+MumpÃ© Medel
 Curaglia
 Platta
 Segnas
@@ -2629,33 +2940,34 @@ Igis
 Malans GR
 Seewis Dorf
 Valzeina
-Grüsch
+GrÃ¼sch
 Fanas
 Schiers
 Schuders
 Stels
 Mittellunden
-Buchen im Prättigau
+Buchen im PrÃ¤ttigau
 Putz
 Pusserein
 Pragg-Jenaz
 Furna
 Jenaz
 Fideris
-Küblis
+KÃ¼blis
 Luzein
 Pany
-Gadenstätt
+GadenstÃ¤tt
 Ascharina
-St. Antönien
-Conters im Prättigau
-Saas im Prättigau
+St. AntÃ¶nien
+Conters im PrÃ¤ttigau
+Saas im PrÃ¤ttigau
 Serneus
 Klosters
 Klosters Dorf
 Davos Dorf
 Davos Wolfgang
 Davos Platz
+Davos Platz 1
 Davos Clavadel
 Davos Frauenkirch
 Davos Glaris
@@ -2663,14 +2975,14 @@ Davos Monstein
 Landquart
 Mastrils
 Maienfeld
-Fläsch
+FlÃ¤sch
 Jenins
 Bad Ragaz
 Valens
-Vasön
+VasÃ¶n
 Vadura
-Vättis
-Pfäfers
+VÃ¤ttis
+PfÃ¤fers
 St. Margrethenberg
 Sargans
 Schwendi im Weisstannental
@@ -2678,15 +2990,15 @@ Weisstannen
 Wangs
 Vilters
 Bonaduz
-Rhäzüns
+RhÃ¤zÃ¼ns
 Feldis/Veulden
 Rothenbrunnen
 Cazis
 Realta
 Sils im Domleschg
 Scharans
-Fürstenaubruck
-Fürstenau
+FÃ¼rstenaubruck
+FÃ¼rstenau
 Rodels
 Almens
 Paspels
@@ -2702,7 +3014,7 @@ Glaspass
 Summaprada
 Tartar
 Sarn
-Präz
+PrÃ¤z
 Dalin
 Mutten
 Rongellen
@@ -2713,7 +3025,7 @@ Mathon
 Wergenstein
 Lohn GR
 Sufers
-Splügen
+SplÃ¼gen
 Medels im Rheinwald
 Nufenen
 Hinterrhein
@@ -2722,7 +3034,7 @@ Clugin
 Pignia
 Ausserferrera
 Innerferrera
-Campsut-Cröt
+Campsut-CrÃ¶t
 Cresta (Avers)
 Am Bach (Avers)
 Juf
@@ -2743,7 +3055,7 @@ Parsonz
 Surava
 Alvaneu Bad
 Filisur
-Bergün/Bravuogn
+BergÃ¼n/Bravuogn
 Stugl/Stuls
 Latsch
 Preda
@@ -2751,11 +3063,13 @@ Alvaneu Dorf
 Schmitten (Albula)
 Davos Wiesen
 St. Moritz
+St. Moritz 1
+St. Moritz 3
 Bever
 Samedan
 Pontresina
 Celerina/Schlarigna
-Champfèr
+ChampfÃ¨r
 Silvaplana
 Sils/Segl Maria
 Fex
@@ -2771,10 +3085,10 @@ Brail
 Zernez
 Tschierv
 Fuldera
-Lü
+LÃ¼
 Valchava
-Sta. Maria Val Müstair
-Müstair
+Sta. Maria Val MÃ¼stair
+MÃ¼stair
 Susch
 Lavin
 Guarda
@@ -2786,7 +3100,7 @@ Tarasp
 Sent
 Crusch
 Ramosch
-Vnà
+VnÃ 
 Strada
 Tschlin
 Martina
@@ -2800,31 +3114,87 @@ Promontogno
 Soglio
 Castasegna
 Poschiavo
-Sfazù
-La Rösa
+SfazÃ¹
+La RÃ¶sa
 Brusio
 Viano
 Campocologno
 Ospizio Bernina
 S. Carlo (Poschiavo)
-Alp Grüm
+Alp GrÃ¼m
 Li Curt
 Le Prese
 Campascio
-Zürich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich BZ FP
+ZÃ¼rich MÃ¼lligen PL
+ZÃ¼rich 1
+ZÃ¼rich 16 Zustellung
+ZÃ¼rich 80
+ZÃ¼rich 1 Sihlpost
+ZÃ¼rich 1
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich 32 Zustellung
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich Dist Ba
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich
+ZÃ¼rich ETH-Zentrum
+ZÃ¼rich ETH-HÃ¶nggerberg
+ZÃ¼rich Sonderdienste
 Oberengstringen
 Unterengstringen
 Weiningen ZH
 Regensdorf
 Watt
 Buchs ZH
-Dällikon
+DÃ¤llikon
 Otelfingen
 Boppelsen
-Dänikon ZH
-Hüttikon
-Würenlos
-Fällanden
+DÃ¤nikon ZH
+HÃ¼ttikon
+WÃ¼renlos
+FÃ¤llanden
 Benglen
 Binz
 Ebmatingen
@@ -2833,9 +3203,11 @@ Zollikerberg
 Zumikon
 Forch
 Hinteregg
-Egg b. Zürich
+Egg b. ZÃ¼rich
 Esslingen
 Adliswil
+Adliswil 1
+Adliswil 2 Sood
 Langnau am Albis
 Gattikon
 Uetliberg
@@ -2843,7 +3215,7 @@ Uitikon Waldegg
 Stallikon
 Glattbrugg
 Opfikon
-Rümlang
+RÃ¼mlang
 Oberglatt ZH
 Niederhasli
 Oberhasli
@@ -2851,23 +3223,32 @@ Dielsdorf
 Regensberg
 Steinmaur
 Bachs
-Schöfflisdorf
+SchÃ¶fflisdorf
 Niederweningen
 Niederglatt ZH
 Neerach
 Stadel b. Niederglatt
 Windlach
-Bülach
-Höri
+BÃ¼lach
+HÃ¶ri
 Hochfelden
-Bachenbülach
+BachenbÃ¼lach
 Winkel
 Glattfelden
 Eglisau
-Hüntwangen
+HÃ¼ntwangen
 Wasterkingen
 Wil ZH
 Rafz
+Schaffhausen
+Schaffhausen 1
+Schaffhausen 1 Zust
+Schaffhausen
+Schaffhausen
+Schaffhausen
+Schaffhausen
+Schaffhausen
+Schaffhausen
 Schaffhausen
 Trasadingen
 Beggingen
@@ -2875,21 +3256,22 @@ Hemmental
 Stetten SH
 Lohn SH
 Opfertshofen SH
-Büttenhardt
+BÃ¼ttenhardt
 Bibern SH
 Hofen SH
 Altdorf SH
-Dörflingen
+DÃ¶rflingen
 Neuhausen am Rheinfall
+Neuhausen am Rheinfall 1
 Neunkirch
-Gächlingen
+GÃ¤chlingen
 Hallau
 Oberhallau
 Wilchingen
 Osterfingen
 Beringen
 Guntmadingen
-Löhningen
+LÃ¶hningen
 Siblingen
 Schleitheim
 Merishausen
@@ -2917,35 +3299,38 @@ Berlingen
 Mannenbach-Salenstein
 Ermatingen
 Triboltingen
-Tägerwilen
+TÃ¤gerwilen
 Kreuzlingen
+Kreuzlingen 1
+Kreuzlingen 2
+Kreuzlingen 3
 Glattzentrum b. Wallisellen
 Kloten
 Bassersdorf
 Wallisellen
 Dietlikon
-Brüttisellen
+BrÃ¼ttisellen
 Effretikon
 Lindau
 Illnau
 Agasul
-Nürensdorf
+NÃ¼rensdorf
 Kemptthal
 Winterberg ZH
-Brütten
+BrÃ¼tten
 Ottikon b. Kemptthal
 Kyburg
 Zumikon Yves Rocher SA
 Fehraltorf
 Wildberg
 Madetswil
-Pfäffikon ZH
+PfÃ¤ffikon ZH
 Auslikon
 Russikon
 Hittnau
 Hinwil
 Wernetshausen
-Bäretswil
+BÃ¤retswil
 Adetswil
 Elsau
 Elgg
@@ -2963,15 +3348,27 @@ Dussnang
 Fischingen
 Au TG
 Winterthur
+Winterthur 1 Annahme
+Winterthur 1 Zustellung
+Winterthur Kaserne
+Winterthur
+Winterthur
+Winterthur
+Winterthur
+Winterthur
+Winterthur
+Winterthur
+Winterthur
+Winterthur
 Aesch (Neftenbach)
 Neftenbach
 Buch am Irchel
 Berg am Irchel
-Gräslikon
+GrÃ¤slikon
 Flaach
 Schlatt b. Winterthur
 Pfungen
-Dättlikon
+DÃ¤ttlikon
 Embrach-Embraport
 Embrach
 Oberembrach
@@ -2985,12 +3382,12 @@ Fisibach
 Rekingen AG
 Bad Zurzach
 Rietheim
-Rümikon AG
+RÃ¼mikon AG
 Mellikon
 Wislikofen
 Siglistorf
 Baldingen
-Böbikon
+BÃ¶bikon
 Hettlingen
 Henggart
 Dachsen
@@ -3003,12 +3400,12 @@ Humlikon
 Dorf
 Volken
 Buchberg
-Rüdlingen
+RÃ¼dlingen
 Marthalen
 Ellikon am Rhein
 Oerlingen
 Rudolfingen
-Trüllikon
+TrÃ¼llikon
 Rheinau
 Benken ZH
 Seuzach
@@ -3017,7 +3414,7 @@ Dinhard
 Ossingen
 Unterstammheim
 Oberstammheim
-Rutschwil (Dägerlen)
+Rutschwil (DÃ¤gerlen)
 Thalheim an der Thur
 Altikon
 Truttikon
@@ -3028,28 +3425,33 @@ Kollbrunn
 Weisslingen
 Neschwil
 Theilingen
-Rikon im Tösstal
-Rämismühle
+Rikon im TÃ¶sstal
+RÃ¤mismÃ¼hle
 Zell ZH
 Turbenthal
 Wila
 Saland
 Bauma
-Steg im Tösstal
+Steg im TÃ¶sstal
 Fischenthal
 Gibswil
-Schmidrüti
+SchmidrÃ¼ti
 Sternenberg
 Frauenfeld
+Frauenfeld 1
 Gerlikon
+Frauenfeld 1 Zustellung
+Frauenfeld
+Frauenfeld
+Frauenfeld
 Pfyn
 Lanzenneunforn
-Hörhausen
+HÃ¶rhausen
 Homburg
 Thundorf
 Lustdorf
 Amlikon-Bissegg
-Häuslenen
+HÃ¤uslenen
 Hagenbuch ZH
 Uesslingen
 Niederneunforn
@@ -3058,7 +3460,7 @@ Warth
 Buch b. Frauenfeld
 Weiningen TG
 Herdern
-Hüttwilen
+HÃ¼ttwilen
 Nussbaumen TG
 Wiesendangen
 Stadel (Winterthur)
@@ -3068,29 +3470,29 @@ Islikon
 Gachnang
 Ellikon an der Thur
 Felben-Wellhausen
-Hüttlingen-Mettendorf
-Müllheim-Wigoltingen
+HÃ¼ttlingen-Mettendorf
+MÃ¼llheim-Wigoltingen
 Bonau
-Müllheim Dorf
+MÃ¼llheim Dorf
 Wigoltingen
 Lipperswil
 Raperswilen
 Fruthwilen
-Märstetten
+MÃ¤rstetten
 Ottoberg
 Hugelshofen
 Dotnacht
 Neuwilen
 Engwilen
-Wäldi
+WÃ¤ldi
 Weinfelden
 Berg TG
 Siegershausen
 Lengwil-Oberhofen
 Illighausen
-Bürglen TG
+BÃ¼rglen TG
 Mauren TG
-Schönholzerswilen
+SchÃ¶nholzerswilen
 Neukirch an der Thur
 Amriswil
 Sommeri
@@ -3100,7 +3502,7 @@ Schocherswil
 Zihlschlacht
 Sitterdorf
 Sulgen
-Götighofen
+GÃ¶tighofen
 Donzhausen
 Leimbach TG
 Opfershofen TG
@@ -3110,43 +3512,52 @@ Langrickenbach
 Zuben
 Erlen
 Andwil TG
-Kümmertshausen
+KÃ¼mmertshausen
 Riedt b. Erlen
 Oberaach
 Romanshorn
 Salmsach
 Uttwil
 Kesswil
-Güttingen
+GÃ¼ttingen
 Altnau
 Scherzingen
 Landschlacht
 Bottighofen
-Dübendorf
-Wangen b. Dübendorf
+DÃ¼bendorf
+DÃ¼bendorf 1
+DÃ¼bendorf 2
+Wangen b. DÃ¼bendorf
 Schwerzenbach
 Volketswil
 Gutenswil
-Nänikon
+NÃ¤nikon
 Greifensee
-Aathal-Seegräben
+Aathal-SeegrÃ¤ben
 Bubikon
 Uster
+Uster 1
+Uster 2
+Uster 3
 Bertschikon (Gossau ZH)
 Wermatswil
 Riedikon
-Mönchaltorf
+MÃ¶nchaltorf
 Oetwil am See
 Wetzikon ZH
-Grüt (Gossau ZH)
+Wetzikon ZH 1
+Wetzikon ZH 4
+Wetzikon ZH
+Wetzikon ZH
+GrÃ¼t (Gossau ZH)
 Gossau ZH
 Ottikon (Gossau ZH)
-Grüningen
-Rüti ZH
+GrÃ¼ningen
+RÃ¼ti ZH
 Tann
 Wolfhausen
 Hombrechtikon
-Dürnten
+DÃ¼rnten
 Wald ZH
 Faltigberg
 Laupen ZH
@@ -3156,21 +3567,21 @@ Kempraten
 Rapperswil SG Zustellung
 Jona
 Wagen
-Küsnacht ZH
+KÃ¼snacht ZH
 Zollikon
 Zollikon Dorf
 Erlenbach ZH
 Herrliberg
 Meilen
 Uetikon am See
-Männedorf
-Stäfa
+MÃ¤nnedorf
+StÃ¤fa
 Uerikon
 Feldbach
 Bollingen
 Schmerikon
 Benken SG
-Schänis
+SchÃ¤nis
 Kaltbrunn
 Rufi
 Ernetschwil
@@ -3181,22 +3592,22 @@ Neuhaus SG
 Eschenbach SG
 Ermenswil
 St. Gallenkappel
-Rüeterswil
+RÃ¼eterswil
 Gommiswald
 Uetliburg SG
 Rieden SG
-Uznach Vögele Versandhaus
+Uznach VÃ¶gele Versandhaus
 Glarus
 Riedern
-Klöntal
+KlÃ¶ntal
 Urnerboden
-Näfels
+NÃ¤fels
 Mollis
 Netstal
 Ennenda
-Mitlödi
+MitlÃ¶di
 Schwanden GL
-Schwändi b. Schwanden
+SchwÃ¤ndi b. Schwanden
 Sool
 Engi
 Matt
@@ -3204,26 +3615,28 @@ Elm
 Nidfurn
 Haslen GL
 Luchsingen
-Hätzingen
+HÃ¤tzingen
 Diesbach GL
-Rüti GL
+RÃ¼ti GL
 Linthal
 Braunwald
 Thalwil
 Kilchberg ZH
-Rüschlikon
+RÃ¼schlikon
 Au ZH
 Richterswil
 Richterswil Burghalden SOB
-Bäch SZ
+BÃ¤ch SZ
 Freienbach
-Pfäffikon SZ
+PfÃ¤ffikon SZ
+Horgen
+Horgen 1
 Horgen
 Horgenberg
 Hirzel
-Wädenswil
-Schönenberg ZH
-Hütten
+WÃ¤denswil
+SchÃ¶nenberg ZH
+HÃ¼tten
 Wollerau
 Samstagern
 Schindellegi
@@ -3247,30 +3660,30 @@ Wangen SZ
 Tuggen
 Vorderthal
 Innerthal
-Schübelbach
+SchÃ¼belbach
 Buttikon SZ
 Reichenburg
 Bilten
-Ziegelbrücke
+ZiegelbrÃ¼cke
 Niederurnen
 Oberurnen
 Weesen
 Amden
-Mühlehorn
+MÃ¼hlehorn
 Obstalden
 Filzbach
 Murg
 Quinten
 Walenstadt
 Walenstadtberg
-Knoblisbühl
+KnoblisbÃ¼hl
 Tscherlach
 Unterterzen
 Quarten
 Oberterzen
 Mols
 Mels
-Mädris-Vermol
+MÃ¤dris-Vermol
 Plons
 Heiligkreuz (Mels)
 Flums
@@ -3311,6 +3724,8 @@ Sihlbrugg
 Fahrweid
 Schlieren
 Dietikon
+Dietikon 1
+Dietikon 2
 Geroldswil
 Oetwil an der Limmat
 Killwangen
@@ -3320,6 +3735,21 @@ Rudolfstetten
 Berikon
 Oberwil-Lieli
 Widen
+St. Gallen
+St. Gallen 1 Annahme
+St. Gallen Dist Ba
+St. Gallen Kaserne
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
+St. Gallen
 St. Gallen
 Abtwil SG
 Engelburg
@@ -3336,18 +3766,20 @@ Appenzell
 Niederteufen
 Teufen AR
 Haslen AI
-Bühler
+BÃ¼hler
 Gais
 Weissbad
-Brülisau
-Lustmühle
+BrÃ¼lisau
+LustmÃ¼hle
 Stein AR
 Hundwil
 Herisau
+Herisau 1
+Herisau
 Schwellbrunn
 Waldstatt
-Schönengrund
-Urnäsch
+SchÃ¶nengrund
+UrnÃ¤sch
 Gonten
 Schachen b. Herisau
 Degersheim
@@ -3359,16 +3791,18 @@ Nassen
 Brunnadern
 Necker
 St. Peterzell
-Bächli (Hemberg)
+BÃ¤chli (Hemberg)
 Gossau SG
+Gossau SG 1
+Gossau SG 2
 Niederwil SG
 Andwil SG
 Waldkirch
 Arnegg
 Hauptwil
-Kradolf-Schönenberg
+Kradolf-SchÃ¶nenberg
 Heldswil
-Schönenberg an der Thur
+SchÃ¶nenberg an der Thur
 Buhwil
 Bischofszell
 Schweizersholz
@@ -3377,17 +3811,19 @@ Hohentannen
 Wilen (Gottshaus)
 St. Pelagiberg
 Flawil
+Flawil 1
+Flawil 2 Botsberg
 Egg (Flawil)
 Oberrindal
-Lütisburg
+LÃ¼tisburg
 Uzwil
 Niederglatt SG
 Oberuzwil
 Bichwil
 Jonschwil
 Niederuzwil
-Oberbüren
-Niederbüren
+OberbÃ¼ren
+NiederbÃ¼ren
 Henau
 Algetshausen
 Wittenbach
@@ -3395,8 +3831,8 @@ Bernhardzell
 Berg SG
 Freidorf TG
 Winden
-Lömmenschwil
-Häggenschwil
+LÃ¶mmenschwil
+HÃ¤ggenschwil
 Muolen
 Steinebrunn
 Neukirch (Egnach)
@@ -3407,10 +3843,10 @@ Egnach
 Steinach
 Roggwil TG
 Horn
-Tübach
+TÃ¼bach
 Rorschach
 Rorschacherberg
-Mörschwil
+MÃ¶rschwil
 Goldach
 Wienacht-Tobel
 Heiden
@@ -3430,32 +3866,33 @@ Au SG
 Heerbrugg
 Balgach
 Marbach SG
-Lüchingen
+LÃ¼chingen
 Berneck
 Widnau
 Diepoldsau
 Rebstein
-Altstätten SG
+AltstÃ¤tten SG
 Kriessern
 Hinterforst
 Eichberg
 Montlingen
 Oberriet SG
-Rüthi (Rheintal)
+RÃ¼thi (Rheintal)
 Lienz
 Salez
 Sennwald
-Frümsen
+FrÃ¼msen
 Sax
 Haag (Rheintal)
 Buchs SG
-Buchs SG Räfis
+Buchs SG 1
+Buchs SG RÃ¤fis
 Grabs
 Grabserberg
 Gams
 Sevelen
 Weite
-Trübbach
+TrÃ¼bbach
 Azmoos
 Oberschan
 Nendeln
@@ -3471,51 +3908,54 @@ Triesen
 Balzers
 Triesenberg
 Wil SG
+Wil SG 1
+Wil SG 2
+Wil SG 1 Zustellung
 Braunau
 Stehrenberg
 Friltschen
 Lommis
 Stettfurt
-Weingarten-Kalthäusern
-Rossrüti
+Weingarten-KalthÃ¤usern
+RossrÃ¼ti
 Wuppenau
 Hosenruck
 Mettlen
 Rothenhausen
-Züberwangen
+ZÃ¼berwangen
 Zuzwil SG
 Lenggenwil
 Zuckenriet
 Niederhelfenschwil
 Rickenbach b. Wil
 Kirchberg SG
-Gähwil
+GÃ¤hwil
 Wilen b. Wil
 Schwarzenbach SG
-Münchwilen TG
+MÃ¼nchwilen TG
 St. Margarethen TG
-Wängi
+WÃ¤ngi
 Tuttwil
 Wittenwil
 Matzingen
 Bronschhofen
 Bettwiesen
-Tägerschen
+TÃ¤gerschen
 Tobel
 Affeltrangen
-Märwil
+MÃ¤rwil
 Schmidshof
 Oppikon
 Bussnang
 Littenheid
-Lütisburg Station
+LÃ¼tisburg Station
 Bazenheid
-Müselbach
-Bütschwil
+MÃ¼selbach
+BÃ¼tschwil
 Mosnang
 Ganterschwil
 Dreien
-Mühlrüti
+MÃ¼hlrÃ¼ti
 Libingen
 Dietfurt
 Lichtensteig
@@ -3527,7 +3967,7 @@ Hemberg
 Ebnat-Kappel
 Krummenau
 Nesslau
-Ennetbühl
+EnnetbÃ¼hl
 Stein SG
 Neu St. Johann
 Alt St. Johann
@@ -3538,10 +3978,12 @@ Rubigen
 Brig Zustellung
 Zug
 Campione d'Italia
-Büsingen
+BÃ¼singen
+Bern 3 Nationalrat
+Bern 3 StÃ¤nderat
 Zug
 Zug
-Genève Services Spéciaux
+GenÃ¨ve Services SpÃ©ciaux
 Chur Postauto GR Reg. Chur
 Lugano 3
 Bern
@@ -3552,11 +3994,13 @@ Bern
 Mex VD
 Tentlingen
 Villars-Ste-Croix
-Cheseaux-Noréaz
+Cheseaux-NorÃ©az
 Herisau
+La Chaux-de-Fonds 1 DÃ©pÃ´t
 Innerberg
 Mies
 Tannay
+Martigny 1 Distribution
 Oberdorf NW
 Hermatswil
 Tagelswangen
@@ -3569,23 +4013,24 @@ Luzern
 Vich
 Coinsins
 Gockhausen
+Fribourg 1 DÃ©pÃ´t
 Villigen PSI
 Baar Sonderdienste
 Sulzbach
-Chandolin (Savièse)
+Chandolin (SaviÃ¨se)
 Clavaleyres
 Champoz
 Monible
 Schelten
 Vellerat
-Rebévelier
+RebÃ©velier
 Hagneck
-Mörigen
+MÃ¶rigen
 Schwadernau
 Bollion
 Chandon
 Chapelle (Broye)
-Châtillon FR
+ChÃ¢tillon FR
 Forel FR
 Frasses
 Les Friques
@@ -3594,16 +4039,16 @@ Lully FR
 Montbrelloz
 Morens FR
 Praratoud
-Prévondavaux
+PrÃ©vondavaux
 Russy
 Seiry
-Sévaz
+SÃ©vaz
 Vallon
 Vesin
 Berlens
 Bionnens
 Blessens
-Chapelle (Glâne)
+Chapelle (GlÃ¢ne)
 Chavannes-sous-Orsonnens
 Les Ecasseys
 Esmonts
@@ -3612,12 +4057,12 @@ Hennens
 Lieffrens
 Lussy FR
 La Magne
-Montet (Glâne)
+Montet (GlÃ¢ne)
 Morlens
 Mossel
 La Neirigue
 Villargiroud
-Châtel-sur-Montsalvens
+ChÃ¢tel-sur-Montsalvens
 Lessoc
 Maules
 Villarbeney
@@ -3634,24 +4079,24 @@ Grenilles
 Lossy
 Lovens
 Magnedens
-Montévraz
+MontÃ©vraz
 Oberried FR
 Pierrafortscha
 Ponthaux
 Posat
 Rueyres-St-Laurent
-Senèdes
+SenÃ¨des
 Villarsel-le-Gibloux
 Villarsel-sur-Marly
-Zénauva
-Cormérod
+ZÃ©nauva
+CormÃ©rod
 Courtion
 Guschelmuth
 Wallenried
 Oberschrot
 Zumholz
 Besencens
-Fiaugères
+FiaugÃ¨res
 Grattavache
 Pizy
 Mur (Vully) VD
@@ -3665,7 +4110,7 @@ Grandevent
 Mutrux
 Romairon
 Vaugondry
-Jouxtens-Mézery
+Jouxtens-MÃ©zery
 Chigny
 Denges
 Correvon
@@ -3689,19 +4134,19 @@ Seigneux
 Dully
 Tartegnin
 Chamblon
-Démoret
+DÃ©moret
 Essert-sous-Champvent
 Villars-sous-Champvent
 Gossens
 Gressy
-Mézery-près-Donneloye
+MÃ©zery-prÃ¨s-Donneloye
 Oppens
 Ursins
 Villars-Epeney
 Montalchez
 Engollon
 Damphreux
-Fregiécourt
+FregiÃ©court
 Oberweningen
 Schleinikon
 Bertschikon
@@ -3709,40 +4154,40 @@ Niederried b. Kallnach
 Gutenburg
 Meienried
 Hellsau
-Höchstetten
-Mötschwil
-Oberösch
+HÃ¶chstetten
+MÃ¶tschwil
+OberÃ¶sch
 Rumendingen
-Rüti b. Lyssach
+RÃ¼ti b. Lyssach
 Willadingen
 Finsterhennen
 Ballmoos
 Bangerten b. Dieterswil
-Deisswil b. Münchenbuchsee
+Deisswil b. MÃ¼nchenbuchsee
 Diemerswil
-Münchringen
+MÃ¼nchringen
 Ruppoldsried
 Scheunen
 Wiggiswil
 Zauggenried
 Freimettigen
-Häutligen
+HÃ¤utligen
 Herbligen
 Mirchel
 Oppligen
-Oberhünigen
+OberhÃ¼nigen
 Golaten
-Bühl b. Aarberg
+BÃ¼hl b. Aarberg
 Epsach
 Merzligen
 Niederstocken
 Englisberg
 Jaberg
 Lohnstorf
-Mühledorf BE
+MÃ¼hledorf BE
 Noflen BE
-Rümligen
-Forst b. Längenbühl
+RÃ¼mligen
+Forst b. LÃ¤ngenbÃ¼hl
 Horrenbach
 Schwendibach
 Zwieselberg
@@ -3750,27 +4195,27 @@ Berken
 Bollodingen
 Ochlenberg
 Wolfisberg
-Hämikon
+HÃ¤mikon
 Lieli LU
 Sulz LU
 Honau
 Betschwanden
 Leuggelbach
 Agriswil
-Büchslen
+BÃ¼chslen
 Greng
-Kleinbösingen
+KleinbÃ¶singen
 Kleingurmels
 Lurtigen
 Wallenbuch
 Aetigkofen
 Balm b. Messen
-Gächliwil
+GÃ¤chliwil
 Bolken
-Burgäschi
+BurgÃ¤schi
 Halten
 Heinrichswil
-Hüniken
+HÃ¼niken
 Oekingen
 Steinhof SO
 Winistorf
@@ -3784,7 +4229,7 @@ Pratval
 Portein
 Calfreisen
 Uezwil
-Réclère
+RÃ©clÃ¨re
 Veytaux
 Eppenberg
 Islisberg
@@ -3804,10 +4249,10 @@ Altishausen
 Ellighausen
 Lippoldswilen
 Gottlieben
-Schönenbaumgarten
+SchÃ¶nenbaumgarten
 Herrenhof
 Sonterswil
-Buch b. Märwil
+Buch b. MÃ¤rwil
 Zezikon
 Wetzikon TG
 Wallenwil
@@ -3828,7 +4273,7 @@ Marolta
 Cureggia
 Lamone
 Ausserbinn
-Mühlebach (Goms)
+MÃ¼hlebach (Goms)
 Ritzingen
 Selkingen
 Steinhaus
@@ -3843,20 +4288,20 @@ Planken
 Kaltbach
 Wilen b. Neunforn
 Malleray
-Crésuz
+CrÃ©suz
 Treyfayes
 Fresens
 Lugnez
 Pleujouse
 Progens
-Wöschnau
+WÃ¶schnau
 Fieschertal
 Cadempino
-Lüterswil
+LÃ¼terswil
 Arni AG
-Hüttlingen
+HÃ¼ttlingen
 Feschel
-Thalwil Fächer
+Thalwil FÃ¤cher
 Werdenberg
 Freienstein
 Rorbas
@@ -3869,13 +4314,13 @@ Madonna del Piano
 Fajauna
 Miralago
 Nohl
-Dägerlen
+DÃ¤gerlen
 Gaiserwald
 Ebersol
 Baar
 Paradiso
 Avry-sur-Matran
-Barberêche
+BarberÃªche
 Montagny-les-Monts
 Morges 3
 St. Gallen Sonderdienste
@@ -3893,48 +4338,51 @@ Brigerbad
 Pfaffhausen
 Lenzburg Sonderdienste
 Provence
-Châtelat
+ChÃ¢telat
 Chenaux
 St. Gallen
 St. Gallen Mona Versand
-Vevey Services spéciaux
+Vevey Services spÃ©ciaux
 Solduno
-Marly Grand Pré
+Marly Grand PrÃ©
 Thun
-Bürgenstock
+Marly 1
+BÃ¼rgenstock
 Wilen b. Wollerau
 Avry-Centre FR
 Felsenau AG
 Mannens
 Grandsivaz
+GenÃ¨ve 14
 Hauptikon
 Uerzlikon
-Zürich Corona
+ZÃ¼rich Corona
 Echandens
-Nyon car postal La Côte-Ju
+Nyon car postal La CÃ´te-Ju
 Yverdon car postal VD-Broye
-Sion car postal VS-Léman
+Sion car postal VS-LÃ©man
 Brig Postauto Oberwallis
-Zürich Postauto Zürich
+ZÃ¼rich Postauto ZÃ¼rich
 Frauenfeld Postauto TG-SH
-Dättwil AG
-Rütihof
+DÃ¤ttwil AG
+RÃ¼tihof
 Adlikon b. Regensdorf
 Rorschach Zustellung
 Buonas
 Risch
-Holzhäusern ZG
+HolzhÃ¤usern ZG
 Niedergampel
-Drône (Savièse)
+DrÃ´ne (SaviÃ¨se)
 Morges Distribution
-Rüegsauschachen
+Yverdon 1 Distribution
+RÃ¼egsauschachen
 Hasle b. Burgdorf
-Fürigen
+FÃ¼rigen
 Rigi Scheidegg
-Lüterkofen
-Luchsingen-Hätzingen
-Zürich
-Zürich CS PZ
+LÃ¼terkofen
+Luchsingen-HÃ¤tzingen
+ZÃ¼rich
+ZÃ¼rich CS PZ
 Bulle
 Bern
 Basel
@@ -3947,35 +4395,63 @@ Aawangen
 Lanterswil
 Oberhofen TG
 Hintermoos
+GenÃ¨ve 71 CS CP
 Chavannes-de-Bogis OLS
-Genève ICC OLS
+GenÃ¨ve ICC OLS
 Sion 4
 Wiesenberg
+Bern 71 CS PZ
 Lohn-Ammannsegg
-St. Gallen Künzler AG
+St. Gallen KÃ¼nzler AG
 Glattbrugg Zustellung
 Thyon-Les Collons
+Berikon 2 Dorf
+Berikon 1
 Schmiedrued-Walde
 Ebikon
+EmmenbrÃ¼cke 1
 Engelberg
 Hochdorf
 Kriens
+Sarnen 1
 Stans
 Schwyz
 Kloten Kaserne
 St. Gallen Quelle
 Gebertingen
-Genève
+Lugano 7
+Lugano 7 Loreto Caselle
+GenÃ¨ve
+Buchs SG 1
+Buchs SG 3
+Nyon 2
+Nyon 1
 Payerne Caserne
 Birmensdorf ZH Kaserne
-Bülach Kaserne
-Dübendorf Kaserne
+BÃ¼lach Kaserne
+DÃ¼bendorf Kaserne
 Frauenfeld Kaserne
 Rorschach
-Zürich Briefzentrum
-Delémont car postal JU-NE
+Wil SG 1
+Bern 77 SBV
+Bremgarten AG 2
+Bremgarten AG 1
+ZÃ¼rich Briefzentrum
+DelÃ©mont car postal JU-NE
+GenÃ¨ve 70
 Solothurn
+Sarnen 2
+Sarnen 2 BÃ¼ntenpark
+Sarnen 1
 Uvrier
+GenÃ¨ve 5
+GenÃ¨ve 84 Votations
+St. Gallen 14 Zustellung
+Interlaken Postauto BE Ober
+Basel Postauto Nordwestschw
+Luzern Postauto Zentralschw
+Uznach Postauto Linth-SZ-GL
+St. Gallen Postauto SG-Azel
 Basel
 Balmberg
 Oberbalmberg
@@ -3986,16 +4462,26 @@ Muralto
 Entlebuch Versandzentrum
 Aurigeno
 Gossau SG
+Lugano 2
+Locarno 4 Solduno
+Frauenfeld Kant. Verwaltung
+Bern Swisscom
+Lugano 8
+Lugano 4
+Lugano 6
 Obermutten
 Lavey-les-Bains
 Gerolfingen
+Bern 60 UPD
+Stein am Rhein 1
+Stein am Rhein 2 Stadt
 Kradolf
 Yverdon Caserne
 Colombier NE Caserne
 Romont Caserne
 Emmen Kaserne
 Fribourg Caserne
-Genève 26 Caserne
+GenÃ¨ve 26 Caserne
 Isone Caserma
 Losone Caserma
 Luzern Kaserne
@@ -4009,23 +4495,23 @@ Wangen a. A. Kaserne
 Stans Kaserne
 Airolo Caserma
 Bern 22 Kaserne
-Bière Caserne
+BiÃ¨re Caserne
 Porrentruy Caserne
 Hurden
-Zürich Reader's Digest
+ZÃ¼rich Reader's Digest
 Bulle 1
 Bulle 2
 Altdorf UR 1
-Altdorf UR 2 Rynächt
+Altdorf UR 2 RynÃ¤cht
 Altdorf UR 2
-La Lécherette
-Zürich Versicherung
+La LÃ©cherette
+ZÃ¼rich Versicherung
 Thielle
 Wavre
 Misery
 Oberstocken
 Les Monts-de-Pully
-Neuchâtel OFS
+NeuchÃ¢tel OFS
 Kreuzlingen Ifolor AG
 Basel
 Givisiez Dist Ba
@@ -4037,7 +4523,7 @@ Schaffhausen Dist Ba
 Wil SG Distributionsbasis
 Cadenazzo Dist Ba
 Carouge GE Distribution
-Chêne-Bourg Distribution
+ChÃªne-Bourg Distribution
 Gland Distribution
 Grand-Saconnex Distribution
 Petit-Lancy Distribution
@@ -4051,7 +4537,7 @@ Grenchen 1 Zustellung
 Liestal Zustellung
 Laufen Zustellung
 Muttenz 1 Zustellung
-Münchenstein 1 Zustellung
+MÃ¼nchenstein 1 Zustellung
 Oberwil BL Zustellung
 Oensingen Zustellung
 Pratteln 1 Zustellung
@@ -4060,12 +4546,12 @@ Reinach BL Zustellung
 Therwil Zustellung
 Bremgarten AG 1 Zustellung
 Lenzburg Zustellung
-Möhlin Zustellung
+MÃ¶hlin Zustellung
 Oftringen 1 Zustellung
 Rheinfelden 1 Zustellung
 Rothrist Zustellung
 Spreitenbach Zustellung
-Schönenwerd Zustellung
+SchÃ¶nenwerd Zustellung
 Wettingen 1 Zustellung
 Wohlen AG 1 Zustellung
 Zofingen Zustellung
@@ -4073,13 +4559,13 @@ Brunnen Zustellung
 Cham Zustellung
 Ebikon Zustellung
 Emmen Zustellung
-Emmenbrücke 1 Zustellung
+EmmenbrÃ¼cke 1 Zustellung
 Engelberg Zustellung
 Goldau Zustellung
 Hergiswil NW Zustellung
 Kriens 2 Zustellung
 Malters Zustellung
-Luzern Reussbühl Zustellung
+Luzern ReussbÃ¼hl Zustellung
 Rotkreuz Zustellung
 Schwyz Zustellung
 Stans Zustellung
@@ -4093,7 +4579,7 @@ Amriswil Zustellung
 Arbon Zustellung
 Birmensdorf ZH Zustellung
 Bischofszell Zustellung
-Bülach Zustellung
+BÃ¼lach Zustellung
 Dielsdorf Zustellung
 Effretikon Zustellung
 Embrach Zustellung
@@ -4101,26 +4587,26 @@ Erlenbach ZH Zustellung
 Hombrechtikon Zustellung
 Orbe Distribution
 Kreuzlingen 1 Zustellung
-Küsnacht ZH Zustellung
+KÃ¼snacht ZH Zustellung
 Langnau am Albis Zustellung
-Männedorf Zustellung
+MÃ¤nnedorf Zustellung
 Meilen Zustellung
 Renens VD 1 Distribution
 Sierre Distribution
-Pfäffikon ZH Zustellung
+PfÃ¤ffikon ZH Zustellung
 Regensdorf 1 Zustellung
 Visp Zustellung
 Crans-Montana 1 Dist
 Belp Zustellung
 Romanshorn Zustellung
-Rüti ZH Zustellung
+RÃ¼ti ZH Zustellung
 Schlieren Zustellung
 Frutigen Zustellung
-Stäfa Zustellung
+StÃ¤fa Zustellung
 Thalwil Zustellung
-Gümligen Zustellung
+GÃ¼mligen Zustellung
 Herzogenbuchsee Zustellung
-Wädenswil Zustellung
+WÃ¤denswil Zustellung
 Wald ZH Zustellung
 Huttwil Zustellung
 Wallisellen Zustellung
@@ -4132,16 +4618,16 @@ Winterthur 5 Zustellung
 Winterthur 6 Zustellung
 Kirchberg BE Zustellung
 Winterthur 8 Zustellung
-Zürich 37 Zustellung
+ZÃ¼rich 37 Zustellung
 Langenthal 1 Zustellung
-Zürich 48 Zustellung
-Zürich Nord Zustellung
+ZÃ¼rich 48 Zustellung
+ZÃ¼rich Nord Zustellung
 Appenzell Zustellung
 Herisau 1 Zustellung
 Mendrisio Distribuzione
-Münchenbuchsee Zustellung
-Münsingen Zustellung
-Urtenen-Schönbühl Zust
+MÃ¼nchenbuchsee Zustellung
+MÃ¼nsingen Zustellung
+Urtenen-SchÃ¶nbÃ¼hl Zust
 Spiez Zustellung
 Steffisburg 1 Zustellung
 Worb Zustellung
@@ -4157,16 +4643,16 @@ Arlesheim Zustellung
 Balsthal Zustellung
 Binningen 1 Zustellung
 Birsfelden Zustellung
-Füllinsdorf Zustellung
+FÃ¼llinsdorf Zustellung
 Gerlafingen Zustellung
 Brugg AG 1 Zustellung
 Signy-Centre
 Fontnas
 Luzern 31
 Luzern 30 AAL
-Genève 5 Dépôt
+GenÃ¨ve 5 DÃ©pÃ´t
 Erlinsbach
-Delémont Dist Ba
+DelÃ©mont Dist Ba
 Daillens Dist Ba
 Daillens Centre Colis
 Payerne Distribution
@@ -4175,13 +4661,13 @@ Langnau i. E. Zustellung
 Altdorf UR 2 Zustellung
 Davos Zustellung
 Bern 94 UBS
-Zürich
+ZÃ¼rich
 Signy
-Zürich
+ZÃ¼rich
 Burgdorf Dist Fil
-Härkingen Paketzentrum
-Härkingen Dist Ba
-Bülach Dist Ba
+HÃ¤rkingen Paketzentrum
+HÃ¤rkingen Dist Ba
+BÃ¼lach Dist Ba
 Effretikon Dist Ba
 Frauenfeld Paketzentrum
 Frauenfeld Dist Ba
@@ -4189,7 +4675,7 @@ Hinwil Dist Ba
 Berneck Dist Ba
 Hefenhausen
 Wagerswil
-Buch b. Kümmertshausen
+Buch b. KÃ¼mmertshausen
 Oberbussnang
 Courtemautruy
 Le Solliat
@@ -4201,8 +4687,8 @@ Landquart Dist Ba
 Sierre Dist Fil
 Bulle Dist Fil
 Gland Dist Fil
-Waldhäusern AG
-Zürich
+WaldhÃ¤usern AG
+ZÃ¼rich
 Bern 65 SBB
 Epalinges Distribution
 Cheseaux-Laus Distribution
@@ -4216,7 +4702,7 @@ Les Valettes (Bovernier)
 Vens (Sembrancher)
 Chamoille (Sembrancher)
 La Garde (Sembrancher)
-Cries (Vollèges)
+Cries (VollÃ¨ges)
 Fontaine Dessus (Liddes)
 Fontaine Dessous (Liddes)
 Dranse (Liddes)
@@ -4224,19 +4710,19 @@ Chandonne (Liddes)
 Rive Haute (Liddes)
 Fornex (Liddes)
 Les Moulins VS (Liddes)
-Vichères (Liddes)
+VichÃ¨res (Liddes)
 Palasuit (Liddes)
 Chez Petit (Liddes)
-Petit Vichères (Liddes)
+Petit VichÃ¨res (Liddes)
 Champsec
-Les Vérines (Chamoson)
-Némiaz (Chamoson)
+Les VÃ©rines (Chamoson)
+NÃ©miaz (Chamoson)
 Grugnay (Chamoson)
-Roumaz (Savièse)
-Granois (Savièse)
-St-Germain (Savièse)
-Ormône (Savièse)
-Mayens-de-la-Zour (Savièse)
+Roumaz (SaviÃ¨se)
+Granois (SaviÃ¨se)
+St-Germain (SaviÃ¨se)
+OrmÃ´ne (SaviÃ¨se)
+Mayens-de-la-Zour (SaviÃ¨se)
 Fortunau (Ayent)
 Luc (Ayent)
 St-Romain (Ayent)
@@ -4254,13 +4740,13 @@ Lanna
 Arvillard (Salins)
 Pravidondaz (Salins)
 Turin (Salins)
-Misériez (Salins)
-Clèbes (Nendaz)
+MisÃ©riez (Salins)
+ClÃ¨bes (Nendaz)
 Brignon (Nendaz)
 La Vernaz (Les Agettes)
-Crête-à-l'Oeil(Les Agettes)
+CrÃªte-Ã -l'Oeil(Les Agettes)
 Bieudron (Nendaz)
-Condémines (Nendaz)
+CondÃ©mines (Nendaz)
 Saclentse
 Basel Reader's Digest
 Mayens-de-Chamoson
@@ -4276,11 +4762,11 @@ Marin-Epagnier Distribution
 La Neuveville Distribution
 Tavannes Distribution
 Tramelan Distribution
-Malleray-Bévilard Dist
+Malleray-BÃ©vilard Dist
 St-Imier Distribution
 Avenches Distribution
 Moudon Distribution
-Düdingen Zustellung
+DÃ¼dingen Zustellung
 Romont FR Distribution
 Villeneuve VD Distribution
 Bex Distribution
@@ -4291,8 +4777,8 @@ Echallens Distribution
 Schwarzenburg Zustellung
 Laupen BE Zustellung
 Kerzers Zustellung
-Büren an der Aare Zust
-Hasle-Rüegsau Zustellung
+BÃ¼ren an der Aare Zust
+Hasle-RÃ¼egsau Zustellung
 Brienz BE Zustellung
 Meiringen Zustellung
 Sissach Zustellung
@@ -4300,24 +4786,24 @@ Gelterkinden Zustellung
 Bellach Zustellung
 Derendingen Zustellung
 Aarburg Zustellung
-Hägendorf Zustellung
+HÃ¤gendorf Zustellung
 Buchs AG Zustellung
 Oberentfelden Zustellung
 Frick Zustellung
 Reinach AG Zustellung
-Gränichen Zustellung
+GrÃ¤nichen Zustellung
 Muri AG Zustellung
 Hochdorf Zustellung
 Wolhusen Zustellung
 Reiden Zustellung
-Unterägeri Zustellung
+UnterÃ¤geri Zustellung
 Sarnen 2 Zustellung
-Küssnacht am Rigi Zust
+KÃ¼ssnacht am Rigi Zust
 Berikon 1 Zustellung
-Egg b. Zürich Zustellung
+Egg b. ZÃ¼rich Zustellung
 Stein am Rhein 1 Zustellung
 Uznach Zustellung
-Pfäffikon SZ Zustellung
+PfÃ¤ffikon SZ Zustellung
 Wollerau Zustellung
 Einsiedeln Zustellung
 Siebnen Zustellung
@@ -4328,7 +4814,7 @@ Wattwil Zustellung
 Teufen AR Zustellung
 Wittenbach Zustellung
 Heiden Zustellung
-Altstätten SG Zustellung
+AltstÃ¤tten SG Zustellung
 Rheineck Zustellung
 Heerbrugg Zustellung
 St. Margrethen SG Zust
@@ -4341,12 +4827,12 @@ Mels Zustellung
 Flums Zustellung
 Samedan Zustellung
 Losone Distribuzione
-Vésenaz Distribution
-Monteiller (Savièse)
-St. Gallen Presse-Serv.Güll
+VÃ©senaz Distribution
+Monteiller (SaviÃ¨se)
+St. Gallen Presse-Serv.GÃ¼ll
 Olten Sonderdienste
 Nierlet-les-Bois
-Zürich 15
+ZÃ¼rich 15
 Montreux La Redoute
 Mur (Vully) FR
 Morcles
@@ -4355,8 +4841,8 @@ Gretschins
 Malans SG
 Frauenfeld ST PP 1
 Frauenfeld CALL
-Härkingen ST PP 1
-Härkingen CALL
+HÃ¤rkingen ST PP 1
+HÃ¤rkingen CALL
 Daillens CALL
 Daillens ST PP 1
 Kriens 1
@@ -4364,10 +4850,10 @@ Kriens 2 Sternmatt
 Kriens 2
 Port-Valais
 Bellinzona VZ
-Zürich PV
+ZÃ¼rich PV
 Grafschaft
 Biel/Bienne 10
-Genève 18
+GenÃ¨ve 18
 Hattenhausen
 Bern 90
 Montagny-Chamard
@@ -4377,14 +4863,14 @@ Oberstetten
 Niederstetten
 Gunterswilen
 Basel SBB Cargo AG
-St-Légier/Blonay Dist
-Gündlischwand
+St-LÃ©gier/Blonay Dist
+GÃ¼ndlischwand
 Crissier 2
 Crissier 1
 Schattenhalb
 Les Pontins
 Tatroz
-Zürich
+ZÃ¼rich
 Villette (Lavaux)
 Basel
 Wirzweli
@@ -4393,7 +4879,7 @@ La Cibourg
 Lamperswil TG
 Root D4
 Montezillon
-Bern 7 Bärenplatz
+Bern 7 BÃ¤renplatz
 Territet
 Crans-Montana 1
 Crans-Montana 2
@@ -4420,19 +4906,19 @@ Zermatt Zustellung
 Eison (St.Martin)
 Granges VS Distribution
 Basel 34 Breite
-Basel 35 Bäumlihof
-Châtel-St-Denis Dist
+Basel 35 BÃ¤umlihof
+ChÃ¢tel-St-Denis Dist
 Jongny Distribution
-Savièse Distribution
+SaviÃ¨se Distribution
 Flims Dorf Zustellung
-Nänikon Zustellung
+NÃ¤nikon Zustellung
 Ste-Croix Distribution
 Buchen BE
 Brittern
 Bubendorf Zustellung
 Lausen Zustellung
 Basel SPILOG
-Wängi Zustellung
+WÃ¤ngi Zustellung
 Oberriet SG Zustellung
 Degersheim Zustellung
 Schwanden GL Zustellung
@@ -4441,8 +4927,8 @@ Niederhasli Zustellung
 Cham 1
 Hertenstein AG
 Rieden AG
-Münsterlingen
-Zürich
+MÃ¼nsterlingen
+ZÃ¼rich
 Unterrindal
 Ostermundigen Zustellung
 Boudry Dist Ba
@@ -4450,23 +4936,23 @@ Diepoldsau Zustellung
 Basel 33 Novartis
 Urdorf Dist Ba
 Urdorf Sortierstelle
-Champzabé
+ChampzabÃ©
 Basel SPI AS1
 Basel SPI AS2
-Ostermundigen Rüti Fächer
+Ostermundigen RÃ¼ti FÃ¤cher
 Bern PF Operations Center
 Basel PF Operations Center
 Greich
 Chailly-Montreux Dist
 Thayngen Zustellung
-Zollbrück Zustellung
+ZollbrÃ¼ck Zustellung
 Eggiwil Zustellung
 Heimberg Zustellung
 Adelboden Zustellung
 Gstaad Zustellung
 Grindelwald Zustellung
 Birr-Lupfig Zustellung
-Döttingen Zustellung
+DÃ¶ttingen Zustellung
 Dottikon Zustellung
 Seon Zustellung
 Unterkulm Zustellung
@@ -4483,7 +4969,7 @@ Basel
 Basel
 Basel
 Basel
-Zürich Helsana
+ZÃ¼rich Helsana
 Le Sentier Distribution
 Cossonay Distribution
 Basel SPI AS 22
@@ -4493,15 +4979,15 @@ Basel SPI AS 25
 Basel SPI AS 26
 Schaan Zustellung
 Urdorf RRD
-Menzengrüt
+MenzengrÃ¼t
 Oftringen SPN
 Andelfingen Zustellung
-Zürich 64 Zustellung
+ZÃ¼rich 64 Zustellung
 Corcelles NE Distribution
 Flamatt Zustellung
 Ruswil Zustellung
 Entlebuch Zustellung
-Schüpfheim Zustellung
+SchÃ¼pfheim Zustellung
 Escholzmatt Zustellung
 Kaltbrunn Zustellung
 Bauma Zustellung
@@ -4515,22 +5001,22 @@ Turbenthal Zustellung
 Wettswil Zustellung
 Mettmenstetten Zustellung
 Arosa Zustellung
-Münchwilen TG Zustellung
+MÃ¼nchwilen TG Zustellung
 Schaan Log
-Lätti
+LÃ¤tti
 Seewil
 Derendingen Swisscom
-Le Châble VS Distribution
+Le ChÃ¢ble VS Distribution
 Chexbres Distribution
 Leysin Distribution
 Sihlwald
 Glattpark (Opfikon)
-Genève 94 UBS
-Palézieux Distribution
+GenÃ¨ve 94 UBS
+PalÃ©zieux Distribution
 Fenkrieden
 Basel
 St. Gallen
-Wädenswil Dist Ba
+WÃ¤denswil Dist Ba
 Baden IM
 Bazenheid Zustellung
 Thusis Zustellung
@@ -4544,31 +5030,31 @@ Gundetswil
 Basel SPI GLS Retour
 Steg-Gampel
 Kloster Fahr
-Lausanne Services spéciaux
+Lausanne Services spÃ©ciaux
 Cheseaux Polyval
 Baar 3
-Hünenberg Zustellung
+HÃ¼nenberg Zustellung
 Baar 3 Dist Ba
 Wabern 2 x Weihnachten
-Genève 73
+GenÃ¨ve 73
 Dintikon LCD
 Schlieren DocumentServices
-Eclépens Centre Courrier
+EclÃ©pens Centre Courrier
 Sion Centre logistique
 Bern DocumentServices
 Ostermundigen (LZB)
 Basel Logistikzentrum
-Härkingen Briefzentrum
+HÃ¤rkingen Briefzentrum
 Kriens Logistikzentrum
 Cadenazzo Centro logistico
 Chur Logistikzentrum
-Zürich-Mülligen SPS AG
+ZÃ¼rich-MÃ¼lligen SPS AG
 Gossau SG Logistikzentrum
 Oensingen Hub SecurePost
 Schaan Betriebszentrum
 La Coudre
 Martigny Groupe Mutuel
-Zürich IBRS local
+ZÃ¼rich IBRS local
 Martigny Gare CFF
 Lausanne Sozialberatung
 Fribourg PostFinance Fil.
@@ -4576,46 +5062,46 @@ Zofingen PostFinance
 Zofingen PostFinance
 Burgdorf Filiale
 Zofingen PostFinance
-Zürich-Mülligen BZI
-Eclépens Scanning-Center
-Härkingen Scanning-Center
-Zürich Mülligen SC
-Zürich BZ Annahme
-Zürich
+ZÃ¼rich-MÃ¼lligen BZI
+EclÃ©pens Scanning-Center
+HÃ¤rkingen Scanning-Center
+ZÃ¼rich MÃ¼lligen SC
+ZÃ¼rich BZ Annahme
+ZÃ¼rich
 Bichelsee-Balterswil
 Luzern Uni PG
 Ricketwil (Winterthur)
 Rheinfelden SPI Logistics A
 Pratteln SPI Logistics
-Hünenberg See
-Härkingen SPS AG
+HÃ¼nenberg See
+HÃ¤rkingen SPS AG
 Zofingen Postfinance UBS
 Burgdorf PostFinance mob
 Zofingen PF UBS Verarb.
-Root Längenbold SH
-Zürich 59 Exchange Office
-Zürich 59 Ausland
+Root LÃ¤ngenbold SH
+ZÃ¼rich 59 Exchange Office
+ZÃ¼rich 59 Ausland
 Rickenbach Sulz
 Kefikon ZH
 Grafstal
 Wildensbuch
 Bern Zustellung
-Oberwil (Dägerlen)
-Berg (Dägerlen)
-Bänk (Dägerlen)
+Oberwil (DÃ¤gerlen)
+Berg (DÃ¤gerlen)
+BÃ¤nk (DÃ¤gerlen)
 Schaan BZ GKS
 Wittenbach
-Eclépens CC Dépôt
+EclÃ©pens CC DÃ©pÃ´t
 Riet (Neftenbach)
-Hünikon (Neftenbach)
+HÃ¼nikon (Neftenbach)
 Cadenazzo Scanning-Center
-Zürich Voice Publishing
-Zürich Oerlikon DB PickPost
+ZÃ¼rich Voice Publishing
+ZÃ¼rich Oerlikon DB PickPost
 Schwyz Kantonalbank
 Meienberg
 Kleine Scheidegg
 Eigergletscher
-Fétigny Dist Fil
+FÃ©tigny Dist Fil
 Bex Dist Fil
 Bern
 Schaffhausen PF
@@ -4624,7 +5110,7 @@ Bellinzona Stazione FFS
 Brugg Bahnhof SBB
 Brunnen Bahnhof SBB
 Buchs Bahnhof SBB
-Bülach Bahnhof SBB
+BÃ¼lach Bahnhof SBB
 Chiasso Stazione FFS
 Dietikon Bahnhof SBB
 Effretikon Bahnhof SBB
@@ -4634,64 +5120,64 @@ Liestal Bahnhof SBB
 Locarno Stazione FFS
 Nyon Gare CFF
 Oensingen Bahnhof SBB
-Pfäffikon Bahnhof SBB
+PfÃ¤ffikon Bahnhof SBB
 Renens Gare CFF
 Rheinfelden Bahnhof SBB
 Rotkreuz Bahnhof SBB
-Rüti Bahnhof SBB
+RÃ¼ti Bahnhof SBB
 Solothurn Bahnhof SBB
 Sursee Bahnhof SBB
 Thalwil Bahnhof SBB
 Visp Bahnhof SBB
 Yverdon-les-Bains Gare CFF
-Ziegelbrücke Bahnhof SBB
+ZiegelbrÃ¼cke Bahnhof SBB
 Zofingen Bahnhof SBB
-Wädenswil Bahnhof SBB
+WÃ¤denswil Bahnhof SBB
 Zug Bahnhof SBB
 Lugano Stazione FSS
-Bern Brünnen
+Bern BrÃ¼nnen
 Bern Logistikcenter
-Härkingen BZ Briefklinik
+HÃ¤rkingen BZ Briefklinik
 Appenzell Eggerstanden
-Appenzell Enggenhütten
-Appenzell Meistersrüte
+Appenzell EnggenhÃ¼tten
+Appenzell MeistersrÃ¼te
 Appenzell Steinegg
 Appenzell Schlatt
 Wasserauen
 Gontenbad
 Luzern 1 PF
 Jakobsbad
-Büriswilen
+BÃ¼riswilen
 Ostermundigen LZB BHS-AF
 Peiden
-Zürich
-Eclépens SAB
+ZÃ¼rich
+EclÃ©pens SAB
 Riazzino Distribuzione
 Caslano Distribuzione
 Cadenazzo Distribuzione
-Mägenwil Dist Ba
-Mägenwil GKA
-Mägenwil PL Hub SK Blitz
-Mägenwil HUB
+MÃ¤genwil Dist Ba
+MÃ¤genwil GKA
+MÃ¤genwil PL Hub SK Blitz
+MÃ¤genwil HUB
 Epagny Distribution
 La Russille
 Effretikon PostAuto AG
 Sonnental
-Genève Carouge PostFinance
+GenÃ¨ve Carouge PostFinance
 Rheinfelden PostAuto AG
-Zürich BZI DE
+ZÃ¼rich BZI DE
 Lausanne Parking d'Ouchy
 Lausanne Parking du Centre
 Romanel-sur-Lausanne Shell
 Develier PostAuto AG
 Basel Shell Dreispitz
 Therwil Shell
-Zürich Tiefenbrunnen SBB
-Zürich West SPS
+ZÃ¼rich Tiefenbrunnen SBB
+ZÃ¼rich West SPS
 Kloten Bahnhof SBB
 Le Noirmont Distribution
 Lausanne Terreaux PF
-Luzern 2 Universität
+Luzern 2 UniversitÃ¤t
 Lignon B&V GK
 Lignon B&V GK 2
 Ferenbalm
@@ -4706,9 +5192,9 @@ Himmelried PostAuto AG
 Chur B&V GK 2
 Chur B&V GK
 Dietlikon Shell
-Rümlang Tankstelle Shell
+RÃ¼mlang Tankstelle Shell
 Givisiez PickPost
-Le Bémont JU
+Le BÃ©mont JU
 Montfaucon
 Montfavergier
 Les Enfers
@@ -4719,15 +5205,15 @@ Kriens KC PG/GK 2
 St. Gallen KC PKGK 5
 Luzern Bahnhof SBB
 Olten Personal
-Zürich Enge PF Filiale
-Dorénaz PostAuto AG Schweiz
+ZÃ¼rich Enge PF Filiale
+DorÃ©naz PostAuto AG Schweiz
 Lausanne PF 331-120
 Lausanne PF 331-140
 Lausanne Arc Jurassien
 Zofingen KC PK/GK 3
-Zürich Kanton Annahme
-Zürich Helsana Annahme
-Zürich CS Annahme
+ZÃ¼rich Kanton Annahme
+ZÃ¼rich Helsana Annahme
+ZÃ¼rich CS Annahme
 St. Josefen
 Maseltrangen
 Lausanne CT
@@ -4735,40 +5221,40 @@ Landiswil
 Urdorf Exchange
 La Tour VS
 La Forclaz VS
-Villa (Evolène)
+Villa (EvolÃ¨ne)
 Yverdon Conseil et vente
 Martigny PostFinance
 Ostermundigen KATA
 Vogelsang AG
 Jona Buech Gewerbe
-Baden Täfern Gewerbe
-Härkingen BZ FP
-Eclépens CC AP
+Baden TÃ¤fern Gewerbe
+HÃ¤rkingen BZ FP
+EclÃ©pens CC AP
 Sornard (Nendaz)
 Horgen Bahnhof Oberdorf
 Dietschwil
-La Chx-de-F. Combe-à-l'Ours
-Sünikon
+La Chx-de-F. Combe-Ã -l'Ours
+SÃ¼nikon
 Rumlikon
-Gündisau
+GÃ¼ndisau
 Busswil TG
 Visp Verkaufssupport
-Härkingen SPS DO
+HÃ¤rkingen SPS DO
 Zofingen KC PK/GK 4
 Rothenburg DIST BA
 Zofingen KC PK/GK 5
 Ostermundigen Oberdorf
-Eclépens Clinique
-Zürich BZ Brieflklinik
+EclÃ©pens Clinique
+ZÃ¼rich BZ Brieflklinik
 Seewis-Pardisla
 Seewis-Schmitten
-Zürich Nord VZ
+ZÃ¼rich Nord VZ
 Hinwil VZ
 Neuhausen Rundbuck
 St. Gallen
 Arlesheim Postlogistics Hub
 Zofingen KC PK 2
-Genève Les Acacias
+GenÃ¨ve Les Acacias
 Aarau Altstadt
 Martigny PF 331-130
 Lausanne 10
@@ -4779,29 +5265,29 @@ Vevey Orient
 Luzern Altstadt
 Lengwil
 Dettighofen (Lengwil)
-Gruyères Vieille Ville
+GruyÃ¨res Vieille Ville
 Givisiez DB AFP
 Les Posses-sur-Bex
 Cadenazzo CLL AP
 Gossau SG LZB FP
 Sion RZ
-Zürich
+ZÃ¼rich
 Nassenwil
 Zofingen Abg. St
-Le Séchey
+Le SÃ©chey
 Donatyre
 Cournillens
-Zürich Asendia
-Bözberg
+ZÃ¼rich Asendia
+BÃ¶zberg
 Mission
 Olten 4 Hammer
 Daillens PL3
-Fötigny PL3
+FÃ¶tigny PL3
 Bern PL3
 Pratteln PL3
 Oftringen PL3
 Niederbipp PL3
-Mägenwil PL3i
+MÃ¤genwil PL3i
 Dintikon PL3
 Villmergen PL3
 Cadenazzo PL3
@@ -4809,7 +5295,7 @@ Pfungen PL3
 Urdorf PL3
 Solothurn
 La Chaux-de-Fonds
-Diolly (Savièse)
-La Muraz (Savièse)
+Diolly (SaviÃ¨se)
+La Muraz (SaviÃ¨se)
 Kriens Contact Center
 Biessenhofen

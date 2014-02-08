@@ -1,7 +1,7 @@
-# this is a comment
- # ignore this lines
+﻿# this is a comment
+# ignore this lines
 Basel
 Bern
-Z�rich
+Zürich
  Genf
  Lausanne 
