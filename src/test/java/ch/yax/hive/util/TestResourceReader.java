@@ -20,8 +20,6 @@ public class TestResourceReader {
 		List<String> entries = reader.getEntries();
 		Assert.assertNotNull(entries);
 
-		System.out.println(entries);
-
 		Assert.assertEquals(5, entries.size());
 
 		Assert.assertArrayEquals(entries.toArray(), new String[] { "Basel",

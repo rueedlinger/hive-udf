@@ -131,4 +131,13 @@ public class TestFindPlaceLevensthein {
 		Assert.assertEquals("Zürich", found.toString());
 	}
 
+	@Test
+	public void testFindPlaceWithDefaultCountryThreshold_10_returnFirstMatch() {
+
+		Text found = finder.evaluate(new Text("this text makes no sense...."),
+				new IntWritable(10));
+		Assert.assertEquals("Basel", found.toString());
+
+	}
+
 }
