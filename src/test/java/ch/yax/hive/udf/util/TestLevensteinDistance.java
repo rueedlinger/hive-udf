@@ -1,4 +1,4 @@
-package ch.yax.hive.util;
+package ch.yax.hive.udf.util;
 
 import org.apache.lucene.search.spell.LevensteinDistance;
 import org.apache.lucene.search.spell.StringDistance;

@@ -1,4 +1,4 @@
-package ch.yax.hive.util;
+package ch.yax.hive.udf.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,6 +6,8 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import ch.yax.hive.udf.util.StringFinder;
 
 public class TestStringFinder {
 

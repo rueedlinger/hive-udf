@@ -1,9 +1,11 @@
-package ch.yax.hive.util;
+package ch.yax.hive.udf.util;
 
 import java.util.List;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import ch.yax.hive.udf.util.ResourceReader;
 
 public class TestResourceReader {
 
