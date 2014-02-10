@@ -1,11 +1,12 @@
-Hive User-Defined Functions (UDFs)
+Hive UDF (Lucene Search Sepll Wrapper)
 ========
-This project contains Apache Hive User-Defined Functions.
-+ findPlace(text) - UDF which finds places (municipals) in Switzerland from a given text. At the moment there are only municipals supported from Switzerland.
+This project contains Apache Hive User-Defined Wrapper Functions for the Apache Lucene Search Spell API. 
+
+This projects provides to main functions
++distance - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
++spell - based on a text based dictionary.
 
 
-
-	
 
 ### Hive configuration
 
@@ -17,28 +18,26 @@ First you must build the JAR.
 Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
 
 	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT.jar;
-	CREATE TEMPORARY FUNCTION findPlace as 'ch.yax.hive.udf.FindPlace';
-	CREATE TEMPORARY FUNCTION findPlaceLevensthein as 'ch.yax.hive.udf.FindPlaceLevensthein';
-
+	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.Distance';
+	CREATE TEMPORARY FUNCTION spell as 'ch.yax.hive.udf.Spell';
+	
+	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
 
 	CREATE TABLE DUAL (dummy STRING);
 	
 	LOAD DATA LOCAL INPATH '/home/dwh/dual.txt' OVERWRITE INTO TABLE DUAL;
 
-You can now execute the query with our findPlace User-Defined Functions (UDF).
+You can now execute the query with our spell User-Defined Functions (UDF).
 
 	-- should return --> UNKNOWN";
-	SELECT findPlace('some text') FROM DUAL; 
+	SELECT spell('some text') FROM DUAL; 
 
-	-- should return --> UNKNOWN";
-	SELECT findPlace('CH', 'some text') FROM DUAL;
-	
 	-- should return --> Bern
-	SELECT findPlace('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
+	SELECT spell('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
 	
 	-- should return --> Zürich
-	SELECT findPlaceLevensthein('i like zuerich', 5) FROM DUAL;
+	SELECT spell('i like zuerich') FROM DUAL;
 
 
 	
