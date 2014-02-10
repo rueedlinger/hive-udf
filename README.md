@@ -1,4 +1,4 @@
-Hive UDF (Lucene Search Sepll Wrapper)
+Hive UDF (Lucene Search Spell Wrapper)
 ========
 This project contains Apache Hive User-Defined Wrapper Functions for the Apache Lucene Search Spell API. 
 
