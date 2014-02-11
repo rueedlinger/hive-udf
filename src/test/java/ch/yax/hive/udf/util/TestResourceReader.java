@@ -8,7 +8,7 @@ import org.junit.Test;
 public class TestResourceReader {
 
 	private String resourceFull = "/ch.places.txt";
-	private String resourceSmall = "/test.places.txt";
+	private String resourceSmall = "/ch.places.small.txt";
 
 	@Test
 	public void testInitRead() {
@@ -30,13 +30,13 @@ public class TestResourceReader {
 		List<String> entries = reader.getEntries();
 		Assert.assertNotNull(entries);
 
-		Assert.assertEquals(5, entries.size());
+		Assert.assertEquals(2363, entries.size());
 
-		Assert.assertEquals("Basel", entries.get(0));
-		Assert.assertEquals("Bern", entries.get(1));
-		Assert.assertEquals("Zürich", entries.get(2));
-		Assert.assertEquals("Genf", entries.get(3));
-		Assert.assertEquals("Lausanne", entries.get(4));
+		Assert.assertEquals("Aeugst am Albis", entries.get(0));
+		Assert.assertEquals("Affoltern am Albis", entries.get(1));
+		Assert.assertEquals("Bonstetten", entries.get(2));
+		Assert.assertEquals("Hausen am Albis", entries.get(3));
+		Assert.assertEquals("Hedingen", entries.get(4));
 
 	}
 }
