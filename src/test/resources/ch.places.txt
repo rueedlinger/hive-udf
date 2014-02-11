@@ -1,45 +1,9 @@
 #comment
  # ignore this lines
 Lausanne
-Lausanne 1 Dépôt
-Lausanne 2
-Lausanne 3
-Lausanne 6
-Lausanne 7
-Lausanne 8
-Lausanne 12
-Lausanne 14
-Lausanne 16
-Lausanne 17
-Lausanne 19
-Lausanne 20
-Lausanne 21
-Lausanne 22
-Lausanne 23
-Lausanne 24 Vennes
-Lausanne 25
-Lausanne 26
-Lausanne 27
-Lausanne Distribution
-Lausanne Swisscom
-Lausanne
-Lausanne
-Lausanne
-Lausanne
-Lausanne
-Lausanne
-Lausanne
 Prilly
 Pully
-Lausanne
-Lausanne
-Lausanne
-Lausanne Adm cant VD
-Lausanne
-Lausanne
 Renens VD
-Renens VD 1
-Renens VD 2
 Chavannes-près-Renens
 Crissier
 Ecublens VD
@@ -109,8 +73,6 @@ Servion
 Essertes
 Auboranges
 Morges
-Morges 1
-Morges 2
 Echichens
 Lussy-sur-Morges
 Lully VD
@@ -168,69 +130,10 @@ Dully-Bursinel
 Gland
 Prangins
 Genève
-Genève 1
-Genève 2 Cornavin Dépôt
-Genève 3
-Genève 4
-Genève 2 Transit
-Genève 6
-Genève 7
-Genève 8
-Genève 11
-Genève 12
-Genève 13
-Genève 17
-Genève 19
-Genève 20
-Genève 21
-Genève 26
-Genève 28 Balexert
-Genève Centre logistique
-Genève 2 Distribution
-Genève Dist Ba
-Genève
-Genève
-Genève
-Genève
-Genève
-Genève
-Genève
-Genève
-Genève
-Genève 1
-Genève 2
-Genève 3
-Genève 4
-Genève 6
-Genève 7
-Genève 8
-Genève 10
-Genève 11
-Genève 12
-Genève 13
-Genève 17
-Genève 19
-Genève 20
-Genève 21
-Genève 22
-Genève 23
-Genève 26
-Genève 27
-Genève 28
-Genève 2 Swisscom
-Grand-Lancy
-Grand-Lancy 1
-Petit-Lancy
-Petit-Lancy 1
-Petit-Lancy 2
 Onex
 Vernier
-Genève 15 Aéroport
-Genève 15 Aéroport Dépôt
 Cointrin
 Meyrin
-Meyrin 1
-Meyrin 2
 Le Grand-Saconnex
 Le Lignon
 Aïre
@@ -268,7 +171,6 @@ Troinex
 La Croix-de-Rozon
 Perly
 Nyon
-Nyon 1 Distribution
 Borex
 La Rippe
 Chavannes-de-Bogis
@@ -361,8 +263,6 @@ Corcelles-sur-Chavornay
 Penthéréaz
 Goumoens-la-Ville
 Yverdon-les-Bains
-Yverdon-les-Bains 1
-Yverdon 2
 Yverdon-les-Bains
 Essertines-sur-Yverdon
 Pailly
@@ -572,15 +472,7 @@ Bouloz
 Porsel
 Pont (Veveyse)
 Fribourg
-Fribourg 1
-Fribourg
-Fribourg
-Fribourg
-Fribourg
-Fribourg
 Granges-Paccot
-Fribourg 1 Distribution
-Fribourg
 Corminboeuf
 Misery-Courtion
 Giffers
@@ -620,8 +512,6 @@ Autigny
 Estavayer-le-Gibloux
 Villarimboud
 Villars-sur-Glâne
-Villars-sur-Glâne 1
-Villars-sur-Glâne 2
 Matran
 Rosé
 Onnens FR
@@ -648,8 +538,6 @@ Cressier FR
 Sugiez
 Môtier (Vully)
 Vevey
-Vevey 1
-Vevey 1 Distribution
 Le Mont-Pèlerin
 Les Monts-de-Corsier
 Fenil-sur-Corsier
@@ -666,10 +554,7 @@ Clarens
 Chailly-Montreux
 Brent
 Montreux
-Montreux 1
-Montreux 2
 Territet-Veytaux
-Montreux 1 Distribution
 Chernex
 Glion
 Caux
@@ -706,8 +591,6 @@ Les Diablerets
 Ollon VD
 Collombey
 Monthey
-Monthey 1
-Monthey 2
 Choëx
 Les Giettes
 Troistorrents
@@ -750,8 +633,6 @@ Chamoson
 St-Pierre-de-Clages
 Ardon
 Martigny
-Martigny 1
-Martigny 2
 Martigny-Croix
 Le Trétien
 Le Châtelard VS
@@ -780,11 +661,6 @@ Verbier
 Orsières
 Champex-Lac
 Sion
-Sion 1
-Sion 1 Distribution
-Sion
-Sion 2
-Sion 3
 St-Séverin
 Erde
 Aven
@@ -824,17 +700,6 @@ Evolène
 Anzère
 Thyon
 Neuchâtel
-Neuchâtel 1 Dépôt
-Neuchâtel 2
-Neuchâtel 4
-Neuchâtel 7
-Neuchâtel
-Neuchâtel 9
-Neuchâtel 1
-Neuchâtel 2
-Neuchâtel 2 Distribution
-Neuchâtel 3
-Neuchâtel 6
 Auvernier
 Colombier NE
 Bôle
@@ -895,13 +760,6 @@ Les Geneveys-sur-Coffrane
 Coffrane
 Les Hauts-Geneveys
 La Chaux-de-Fonds
-La Chaux-de-Fonds 1
-La Chaux-de-Fonds
-La Chaux-de-Fonds
-La Chaux-de-Fonds
-La Chaux-de-Fonds 1 Dist
-La Chaux-de-Fonds
-La Chaux-de-Fonds
 Petit-Martel
 Les Emibois
 La Sagne NE
@@ -917,19 +775,6 @@ La Chaux-du-Milieu
 Le Prévoux
 Le Cerneux-Péquignot
 Les Brenets
-Biel/Bienne
-Biel/Bienne 1
-Biel/Bienne 3
-Biel/Bienne 4
-Biel/Bienne 6
-Biel/Bienne 7
-Biel/Bienne 8
-Biel/Bienne 1 Zustellung
-Biel/Bienne 1 Annahme
-Biel/Bienne
-Biel/Bienne
-Biel/Bienne
-Biel/Bienne
 Biel/Bienne
 Tüscherz-Alfermée
 Twann
@@ -950,8 +795,6 @@ Plagne
 Vauffelin
 Romont BE
 Grenchen
-Grenchen 1
-Grenchen 2
 Pieterlen
 Lengnau BE
 Bettlach
@@ -1031,9 +874,6 @@ Roches BE
 Rebeuvelier
 Courrendlin
 Delémont
-Delémont 1
-Delémont 2
-Delémont 1 Distribution
 Develier
 Bourrignon
 Soyhières
@@ -1072,9 +912,6 @@ Seleute
 Ocourt
 Courgenay
 Porrentruy
-Porrentruy 1
-Porrentruy 2
-Porrentruy 1 Distribution
 Fontenais
 Villars-sur-Fontenais
 Bressaucourt
@@ -1102,38 +939,6 @@ Cornol
 Fregiécourt-Pleujouse
 Asuel
 Bern
-Bern 1 Schanzenpost
-Bern 5
-Bern 6
-Bern 8
-Bern 9
-Bern 13
-Bern 14
-Bern 15
-Bern 21
-Bern 22
-Bern 23
-Bern 25
-Bern 31
-Bern Postauto BE-FB-SO
-Bern
-Bern Postfinance
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
-Bern
 Spiegel b. Bern
 Hinterkappelen
 Wohlen b. Bern
@@ -1159,7 +964,6 @@ Stettlen
 Boll
 Utzigen
 Ostermundigen
-Ostermundigen 1
 Gümligen
 Muri b. Bern
 Rüfenacht BE
@@ -1318,10 +1122,6 @@ Bettenhausen
 Thörigen
 Bleienbach
 Burgdorf
-Burgdorf 1
-Burgdorf Zustellung
-Burgdorf
-Burgdorf
 Heimiswil
 Kaltacker
 Oberburg
@@ -1395,14 +1195,6 @@ Gohl
 Trubschachen
 Trub
 Fankhaus (Trub)
-Thun
-Thun 2 Zustellung
-Thun
-Thun
-Thun
-Thun
-Thun
-Thun
 Thun
 Fahrni b. Thun
 Süderen
@@ -1643,42 +1435,6 @@ Fiesch
 Münster VS
 Ulrichen
 Basel
-Basel 2 Zustellung
-Basel Dist Ba
-Basel
-Basel 2 Annahme
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel Universitätsspital
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
 Bruderholz
 Binningen
 Binningen 1
@@ -1698,23 +1454,14 @@ Metzerlen
 Burg im Leimental
 Rodersdorf
 Allschwil
-Allschwil 1
-Allschwil Dorf
-Allschwil Lindenplatz
 Schönenbuch
 Riehen
-Riehen 1
-Riehen 2
 Bettingen
 Birsfelden
 Muttenz
-Muttenz 1
 Muttenz Lutzert
 Pratteln
-Pratteln 1
 Münchenstein
-Münchenstein 1
-Münchenstein 3
 Dornach
 Arlesheim
 Gempen
@@ -1722,8 +1469,6 @@ Hochwald
 Aesch BL
 Pfeffingen
 Reinach BL
-Reinach BL 1
-Reinach BL 2
 Duggingen
 Grellingen
 Seewen SO
@@ -1757,8 +1502,6 @@ Kaiseraugst Liebrüti
 Giebenach
 Olsberg
 Rheinfelden
-Rheinfelden 1
-Rheinfelden 2
 Magden
 Möhlin
 Zeiningen
@@ -1845,12 +1588,6 @@ Zeglingen
 Kilchberg BL
 Rünenberg
 Solothurn
-Solothurn 1
-Solothurn 1 Zustellung
-Solothurn
-Solothurn 1 Annahme
-Solothurn
-Solothurn
 Weissenstein b. Solothurn
 Balm b. Günsberg
 Niederwil SO
@@ -1899,10 +1636,6 @@ Oberramsern
 Nennigkofen
 Lüsslingen
 Olten
-Olten 1
-Olten 2 Zustellung
-Olten 1 Fächer
-Olten
 Wangen b. Olten
 Rickenbach SO
 Hägendorf
@@ -1926,8 +1659,6 @@ Däniken SO
 Däniken Postzentrum
 Aarburg
 Oftringen
-Oftringen 1
-Oftringen 2
 Allerheiligenberg
 Hauenstein
 Wisen SO
@@ -1965,9 +1696,6 @@ Wolfwil
 Glashütten
 Riken AG
 Langenthal
-Langenthal 1
-Langenthal
-Langenthal
 Schwarzhäusern
 Aarwangen
 Bannwil
@@ -1996,12 +1724,6 @@ Huttwil
 Eriswil
 Schwarzenbach (Huttwil)
 Wyssachen
-Aarau
-Aarau 1
-Aarau 1 Zustellung
-Aarau Postauto Aargau
-Aarau Kaserne
-Aarau 1 Fächer
 Aarau
 Schönenwerd
 Niedergösgen
@@ -2046,11 +1768,7 @@ Schinznach Bad
 Habsburg
 Scherz
 Brugg AG
-Brugg AG 1
 Windisch
-Brugg AG 3
-Brugg AG Kaserne
-Brugg AG
 Hausen AG
 Villnachern
 Umiken
@@ -2092,14 +1810,7 @@ Hettenschwil
 Mandach
 Koblenz
 Baden
-Baden 1
 Ennetbaden
-Baden 1 Postautodienst
-Baden
-Baden
-Baden
-Baden
-Baden
 Gebenstorf
 Birmenstorf AG
 Nussbaumen AG
@@ -2110,10 +1821,6 @@ Freienwil
 Schneisingen
 Lengnau AG
 Wettingen
-Wettingen 1
-Wettingen 2
-Wettingen 3
-Wettingen Sonderdienste
 Neuenhof
 Fislisbach
 Niederrohrdorf
@@ -2134,8 +1841,6 @@ Nesselnbach
 Niederwil AG
 Fischbach-Göslikon
 Lenzburg
-Lenzburg 1
-Lenzburg 2
 Ammerswil AG
 Staufen
 Hendschiken
@@ -2144,8 +1849,6 @@ Dintikon
 Hägglingen
 Stetten AG
 Wohlen AG
-Wohlen AG 1
-Wohlen AG 2
 Anglikon
 Büttikon AG
 Villmergen
@@ -2202,21 +1905,6 @@ Kölliken
 Safenwil
 Walterswil SO
 Luzern
-Luzern 1 Annahme
-Luzern 4
-Luzern 6
-Luzern 7
-Luzern 10
-Luzern 11
-Luzern 14
-Luzern 15
-Luzern 16
-Luzern Zustellung
-Luzern
-Luzern
-Luzern
-Luzern
-Luzern
 Kriens
 Obernau
 Eigenthal
@@ -2227,9 +1915,6 @@ Ruswil
 Sigigen
 Buttisholz
 Emmenbrücke
-Emmenbrücke 1
-Emmenbrücke 2
-Emmenbrücke 3
 Grosswangen
 Rothenburg
 Hildisrieden
@@ -2469,14 +2154,6 @@ Andermatt
 Realp
 Hospental
 Bellinzona
-Bellinzona 1
-Bellinzona 2
-Bellinzona 5
-Bellinzona
-Bellinzona Distribuzione
-Bellinzona Caserma
-Bellinzona
-Bellinzona 6 Autopostale TI
 Giubiasco
 Monte Carasso
 Sementina
@@ -2535,14 +2212,7 @@ Agarone
 Tenero
 Robasacco
 Locarno
-Locarno 1
 Muralto
-Locarno 3 Stazione Autopost
-Locarno
-Locarno Distribuzione
-Locarno
-Locarno
-Monte Brè sopra Locarno
 Golino
 Arcegno
 Contra
@@ -2679,8 +2349,6 @@ Capolago
 Riva San Vitale
 Balerna
 Chiasso
-Chiasso 1
-Chiasso 3
 Sagno
 Caneggio
 Bruzella
@@ -2721,15 +2389,8 @@ Castel San Pietro
 Coldrerio
 Novazzano
 Lugano
-Lugano 1
 Massagno
-Lugano Distribuzione
 Lugano
-Lugano 2 Paradiso Caselle
-Lugano
-Lugano 4 Molino Nuovo Casel
-Lugano 5 Serv Autopostali
-Lugano 6 Cassarate Caselle
 Carabbia
 Pambio-Noranco
 Grancia
@@ -2827,14 +2488,6 @@ Novaggio
 Caslano
 Ponte Tresa
 Chur
-Chur 1 Annahme
-Chur 1 Zustellung
-Chur Kaserne
-Chur
-Chur
-Chur
-Chur
-Chur
 Felsberg
 Domat/Ems
 Tamins
@@ -2843,8 +2496,6 @@ Flims Waldhaus
 Haldenstein
 Maladers
 Laax GR
-Laax GR 1
-Laax GR 2
 Arosa
 Passugg-Araschgen
 Praden
@@ -2969,7 +2620,6 @@ Klosters Dorf
 Davos Dorf
 Davos Wolfgang
 Davos Platz
-Davos Platz 1
 Davos Clavadel
 Davos Frauenkirch
 Davos Glaris
@@ -3128,62 +2778,6 @@ Li Curt
 Le Prese
 Campascio
 Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich BZ FP
-Zürich Mülligen PL
-Zürich 1
-Zürich 16 Zustellung
-Zürich 80
-Zürich 1 Sihlpost
-Zürich 1
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich 32 Zustellung
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich Dist Ba
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich
-Zürich ETH-Zentrum
-Zürich ETH-Hönggerberg
-Zürich Sonderdienste
 Oberengstringen
 Unterengstringen
 Weiningen ZH
@@ -3208,8 +2802,6 @@ Hinteregg
 Egg b. Zürich
 Esslingen
 Adliswil
-Adliswil 1
-Adliswil 2 Sood
 Langnau am Albis
 Gattikon
 Uetliberg
@@ -3243,15 +2835,6 @@ Wasterkingen
 Wil ZH
 Rafz
 Schaffhausen
-Schaffhausen 1
-Schaffhausen 1 Zust
-Schaffhausen
-Schaffhausen
-Schaffhausen
-Schaffhausen
-Schaffhausen
-Schaffhausen
-Schaffhausen
 Trasadingen
 Beggingen
 Hemmental
@@ -3264,7 +2847,6 @@ Hofen SH
 Altdorf SH
 Dörflingen
 Neuhausen am Rheinfall
-Neuhausen am Rheinfall 1
 Neunkirch
 Gächlingen
 Hallau
@@ -3303,9 +2885,6 @@ Ermatingen
 Triboltingen
 Tägerwilen
 Kreuzlingen
-Kreuzlingen 1
-Kreuzlingen 2
-Kreuzlingen 3
 Glattzentrum b. Wallisellen
 Kloten
 Bassersdorf
@@ -3349,18 +2928,6 @@ Oberwangen TG
 Dussnang
 Fischingen
 Au TG
-Winterthur
-Winterthur 1 Annahme
-Winterthur 1 Zustellung
-Winterthur Kaserne
-Winterthur
-Winterthur
-Winterthur
-Winterthur
-Winterthur
-Winterthur
-Winterthur
-Winterthur
 Winterthur
 Aesch (Neftenbach)
 Neftenbach
@@ -3440,12 +3007,7 @@ Gibswil
 Schmidrüti
 Sternenberg
 Frauenfeld
-Frauenfeld 1
 Gerlikon
-Frauenfeld 1 Zustellung
-Frauenfeld
-Frauenfeld
-Frauenfeld
 Pfyn
 Lanzenneunforn
 Hörhausen
@@ -3527,8 +3089,6 @@ Scherzingen
 Landschlacht
 Bottighofen
 Dübendorf
-Dübendorf 1
-Dübendorf 2
 Wangen b. Dübendorf
 Schwerzenbach
 Volketswil
@@ -3538,18 +3098,11 @@ Greifensee
 Aathal-Seegräben
 Bubikon
 Uster
-Uster 1
-Uster 2
-Uster 3
 Bertschikon (Gossau ZH)
 Wermatswil
 Riedikon
 Mönchaltorf
 Oetwil am See
-Wetzikon ZH
-Wetzikon ZH 1
-Wetzikon ZH 4
-Wetzikon ZH
 Wetzikon ZH
 Grüt (Gossau ZH)
 Gossau ZH
@@ -3726,8 +3279,6 @@ Sihlbrugg
 Fahrweid
 Schlieren
 Dietikon
-Dietikon 1
-Dietikon 2
 Geroldswil
 Oetwil an der Limmat
 Killwangen
@@ -3737,21 +3288,6 @@ Rudolfstetten
 Berikon
 Oberwil-Lieli
 Widen
-St. Gallen
-St. Gallen 1 Annahme
-St. Gallen Dist Ba
-St. Gallen Kaserne
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
-St. Gallen
 St. Gallen
 Abtwil SG
 Engelburg
@@ -3795,8 +3331,6 @@ Necker
 St. Peterzell
 Bächli (Hemberg)
 Gossau SG
-Gossau SG 1
-Gossau SG 2
 Niederwil SG
 Andwil SG
 Waldkirch
@@ -3813,8 +3347,6 @@ Hohentannen
 Wilen (Gottshaus)
 St. Pelagiberg
 Flawil
-Flawil 1
-Flawil 2 Botsberg
 Egg (Flawil)
 Oberrindal
 Lütisburg
@@ -3887,7 +3419,6 @@ Frümsen
 Sax
 Haag (Rheintal)
 Buchs SG
-Buchs SG 1
 Buchs SG Räfis
 Grabs
 Grabserberg
@@ -3910,9 +3441,6 @@ Triesen
 Balzers
 Triesenberg
 Wil SG
-Wil SG 1
-Wil SG 2
-Wil SG 1 Zustellung
 Braunau
 Stehrenberg
 Friltschen
@@ -3981,15 +3509,7 @@ Brig Zustellung
 Zug
 Campione d'Italia
 Büsingen
-Bern 3 Nationalrat
-Bern 3 Ständerat
 Zug
-Zug
-Genève Services Spéciaux
-Chur Postauto GR Reg. Chur
-Lugano 3
-Bern
-Lausanne Charles Veillon SA
 Bruson
 Sundlauenen
 Bern
@@ -4002,7 +3522,6 @@ La Chaux-de-Fonds 1 Dépôt
 Innerberg
 Mies
 Tannay
-Martigny 1 Distribution
 Oberdorf NW
 Hermatswil
 Tagelswangen
@@ -4015,9 +3534,7 @@ Luzern
 Vich
 Coinsins
 Gockhausen
-Fribourg 1 Dépôt
 Villigen PSI
-Baar Sonderdienste
 Sulzbach
 Chandolin (Savièse)
 Clavaleyres
@@ -4342,29 +3859,22 @@ Lenzburg Sonderdienste
 Provence
 Châtelat
 Chenaux
-St. Gallen
-St. Gallen Mona Versand
 Vevey Services spéciaux
 Solduno
 Marly Grand Pré
 Thun
-Marly 1
 Bürgenstock
 Wilen b. Wollerau
 Avry-Centre FR
 Felsenau AG
 Mannens
 Grandsivaz
-Genève 14
 Hauptikon
 Uerzlikon
-Zürich Corona
 Echandens
 Nyon car postal La Côte-Ju
 Yverdon car postal VD-Broye
 Sion car postal VS-Léman
-Brig Postauto Oberwallis
-Zürich Postauto Zürich
 Frauenfeld Postauto TG-SH
 Dättwil AG
 Rütihof
@@ -4384,7 +3894,6 @@ Rigi Scheidegg
 Lüterkofen
 Luchsingen-Hätzingen
 Zürich
-Zürich CS PZ
 Bulle
 Bern
 Basel
@@ -4397,284 +3906,59 @@ Aawangen
 Lanterswil
 Oberhofen TG
 Hintermoos
-Genève 71 CS CP
 Chavannes-de-Bogis OLS
 Genève ICC OLS
-Sion 4
 Wiesenberg
-Bern 71 CS PZ
 Lohn-Ammannsegg
 St. Gallen Künzler AG
 Glattbrugg Zustellung
 Thyon-Les Collons
-Berikon 2 Dorf
-Berikon 1
 Schmiedrued-Walde
 Ebikon
-Emmenbrücke 1
 Engelberg
 Hochdorf
 Kriens
-Sarnen 1
 Stans
 Schwyz
 Kloten Kaserne
 St. Gallen Quelle
 Gebertingen
-Lugano 7
-Lugano 7 Loreto Caselle
 Genève
-Buchs SG 1
-Buchs SG 3
-Nyon 2
-Nyon 1
 Payerne Caserne
 Birmensdorf ZH Kaserne
 Bülach Kaserne
 Dübendorf Kaserne
 Frauenfeld Kaserne
 Rorschach
-Wil SG 1
-Bern 77 SBV
-Bremgarten AG 2
-Bremgarten AG 1
-Zürich Briefzentrum
-Delémont car postal JU-NE
-Genève 70
 Solothurn
-Sarnen 2
-Sarnen 2 Büntenpark
-Sarnen 1
 Uvrier
-Genève 5
-Genève 84 Votations
-St. Gallen 14 Zustellung
-Interlaken Postauto BE Ober
-Basel Postauto Nordwestschw
-Luzern Postauto Zentralschw
-Uznach Postauto Linth-SZ-GL
-St. Gallen Postauto SG-Azel
 Basel
 Balmberg
 Oberbalmberg
 Luthern Bad
-Baden 1 Zustellung
 Mehlsecken
 Muralto
 Entlebuch Versandzentrum
 Aurigeno
 Gossau SG
-Lugano 2
-Locarno 4 Solduno
-Frauenfeld Kant. Verwaltung
-Bern Swisscom
-Lugano 8
-Lugano 4
-Lugano 6
 Obermutten
 Lavey-les-Bains
 Gerolfingen
-Bern 60 UPD
-Stein am Rhein 1
-Stein am Rhein 2 Stadt
 Kradolf
-Yverdon Caserne
-Colombier NE Caserne
-Romont Caserne
-Emmen Kaserne
-Fribourg Caserne
-Genève 26 Caserne
-Isone Caserma
-Losone Caserma
-Luzern Kaserne
-Lyss Kaserne
-Mels Kaserne
-Rivera Caserma
-Moudon Caserne
-St-Maurice Caserne
-Sion Caserne
-Wangen a. A. Kaserne
-Stans Kaserne
-Airolo Caserma
-Bern 22 Kaserne
-Bière Caserne
-Porrentruy Caserne
 Hurden
-Zürich Reader's Digest
-Bulle 1
-Bulle 2
-Altdorf UR 1
-Altdorf UR 2 Rynächt
-Altdorf UR 2
 La Lécherette
-Zürich Versicherung
 Thielle
 Wavre
 Misery
 Oberstocken
 Les Monts-de-Pully
-Neuchâtel OFS
-Kreuzlingen Ifolor AG
 Basel
-Givisiez Dist Ba
-Sion Base de distribution
-Brig Distributionsbasis
-Thun Dist Ba
-Biel/Bienne Dist Ba
-Schaffhausen Dist Ba
-Wil SG Distributionsbasis
-Cadenazzo Dist Ba
-Carouge GE Distribution
-Chêne-Bourg Distribution
-Gland Distribution
-Grand-Saconnex Distribution
-Petit-Lancy Distribution
-Le Lignon Distribution
-Meyrin Distribution
-Versoix Distribution
-Aigle Distribution
-Bussigny-p-L Distribution
-Crissier Distribution
-Grenchen 1 Zustellung
-Liestal Zustellung
-Laufen Zustellung
-Muttenz 1 Zustellung
-Münchenstein 1 Zustellung
-Oberwil BL Zustellung
-Oensingen Zustellung
-Pratteln 1 Zustellung
-Riehen 1 Zustellung
-Reinach BL Zustellung
-Therwil Zustellung
-Bremgarten AG 1 Zustellung
-Lenzburg Zustellung
-Möhlin Zustellung
-Oftringen 1 Zustellung
-Rheinfelden 1 Zustellung
-Rothrist Zustellung
-Spreitenbach Zustellung
-Schönenwerd Zustellung
-Wettingen 1 Zustellung
-Wohlen AG 1 Zustellung
-Zofingen Zustellung
-Brunnen Zustellung
-Cham Zustellung
-Ebikon Zustellung
-Emmen Zustellung
-Emmenbrücke 1 Zustellung
-Engelberg Zustellung
-Goldau Zustellung
-Hergiswil NW Zustellung
-Kriens 2 Zustellung
-Malters Zustellung
-Luzern Reussbühl Zustellung
-Rotkreuz Zustellung
-Schwyz Zustellung
-Stans Zustellung
-Sursee Zustellung
-Willisau Zustellung
-Monthey 1 Distribution
-Murten Zustellung
-Adliswil 1 Zustellung
-Affoltern am A. Zustellung
-Amriswil Zustellung
-Arbon Zustellung
-Birmensdorf ZH Zustellung
-Bischofszell Zustellung
-Bülach Zustellung
-Dielsdorf Zustellung
-Effretikon Zustellung
-Embrach Zustellung
-Erlenbach ZH Zustellung
-Hombrechtikon Zustellung
-Orbe Distribution
-Kreuzlingen 1 Zustellung
-Küsnacht ZH Zustellung
-Langnau am Albis Zustellung
-Männedorf Zustellung
-Meilen Zustellung
-Renens VD 1 Distribution
-Sierre Distribution
-Pfäffikon ZH Zustellung
-Regensdorf 1 Zustellung
-Visp Zustellung
-Crans-Montana 1 Dist
-Belp Zustellung
-Romanshorn Zustellung
-Rüti ZH Zustellung
-Schlieren Zustellung
-Frutigen Zustellung
-Stäfa Zustellung
-Thalwil Zustellung
-Gümligen Zustellung
-Herzogenbuchsee Zustellung
-Wädenswil Zustellung
-Wald ZH Zustellung
-Huttwil Zustellung
-Wallisellen Zustellung
-Interlaken Zustellung
-Weinfelden Zustellung
-Jegenstorf Zustellung
-Zumikon Zustellung
-Winterthur 5 Zustellung
-Winterthur 6 Zustellung
-Kirchberg BE Zustellung
-Winterthur 8 Zustellung
-Zürich 37 Zustellung
-Langenthal 1 Zustellung
-Zürich 48 Zustellung
-Zürich Nord Zustellung
-Appenzell Zustellung
-Herisau 1 Zustellung
-Mendrisio Distribuzione
-Münchenbuchsee Zustellung
-Münsingen Zustellung
-Urtenen-Schönbühl Zust
-Spiez Zustellung
-Steffisburg 1 Zustellung
-Worb Zustellung
-Zollikofen Zustellung
-Hinwil Zustellung
-Grand-Lancy 1 Distribution
-Kloten Zustellung
-Gossau SG 1 Zustellung
-Le Locle Distribution
-Moutier 1 Distribution
-Allschwil Zustellung
-Arlesheim Zustellung
-Balsthal Zustellung
-Binningen 1 Zustellung
-Birsfelden Zustellung
-Füllinsdorf Zustellung
-Gerlafingen Zustellung
-Brugg AG 1 Zustellung
 Signy-Centre
 Fontnas
-Luzern 31
-Luzern 30 AAL
-Genève 5 Dépôt
 Erlinsbach
-Delémont Dist Ba
-Daillens Dist Ba
-Daillens Centre Colis
-Payerne Distribution
-Bulle 1 Distribution
-Langnau i. E. Zustellung
-Altdorf UR 2 Zustellung
-Davos Zustellung
-Bern 94 UBS
 Zürich
 Signy
 Zürich
-Burgdorf Dist Fil
-Härkingen Paketzentrum
-Härkingen Dist Ba
-Bülach Dist Ba
-Effretikon Dist Ba
-Frauenfeld Paketzentrum
-Frauenfeld Dist Ba
-Hinwil Dist Ba
-Berneck Dist Ba
 Hefenhausen
 Wagerswil
 Buch b. Kümmertshausen
@@ -4683,74 +3967,9 @@ Courtemautruy
 Le Solliat
 Villars-Bozon
 Allens
-Buchs SG Dist Fil
-Niederurnen Dist Fil
-Landquart Dist Ba
-Sierre Dist Fil
-Bulle Dist Fil
-Gland Dist Fil
-Waldhäusern AG
-Zürich
-Bern 65 SBB
-Epalinges Distribution
-Cheseaux-Laus Distribution
 Niouc
-Liestal Dist Fil
-Produit (Leytron)
-Montagnon (Leytron)
-Dugny (Leytron)
-Auddes-sur-Riddes
-Les Valettes (Bovernier)
-Vens (Sembrancher)
-Chamoille (Sembrancher)
-La Garde (Sembrancher)
-Cries (Vollèges)
-Fontaine Dessus (Liddes)
-Fontaine Dessous (Liddes)
-Dranse (Liddes)
-Chandonne (Liddes)
-Rive Haute (Liddes)
-Fornex (Liddes)
-Les Moulins VS (Liddes)
-Vichères (Liddes)
-Palasuit (Liddes)
-Chez Petit (Liddes)
-Petit Vichères (Liddes)
 Champsec
-Les Vérines (Chamoson)
-Némiaz (Chamoson)
-Grugnay (Chamoson)
-Roumaz (Savièse)
-Granois (Savièse)
-St-Germain (Savièse)
-Ormône (Savièse)
-Mayens-de-la-Zour (Savièse)
-Fortunau (Ayent)
-Luc (Ayent)
-St-Romain (Ayent)
-Saxonne (Ayent)
-Villa (Ayent)
-La Place (Ayent)
-Botyre (Ayent)
-Blignou (Ayent)
-Argnou (Ayent)
-Liez (St-Martin)
-Trogne (St-Martin)
-Suen (St-Martin)
-Champlan (Grimisuat)
 Lanna
-Arvillard (Salins)
-Pravidondaz (Salins)
-Turin (Salins)
-Misériez (Salins)
-Clèbes (Nendaz)
-Brignon (Nendaz)
-La Vernaz (Les Agettes)
-Crête-à-l'Oeil(Les Agettes)
-Bieudron (Nendaz)
-Condémines (Nendaz)
-Saclentse
-Basel Reader's Digest
 Mayens-de-Chamoson
 Cotterd
 Champoussin
@@ -4758,117 +3977,23 @@ Fenin
 Saules
 Les Crosets
 Lutry Distribution
-Le Mont-sur-Lausanne Dist
-Colombier NE Distribution
-Marin-Epagnier Distribution
-La Neuveville Distribution
-Tavannes Distribution
-Tramelan Distribution
-Malleray-Bévilard Dist
-St-Imier Distribution
-Avenches Distribution
-Moudon Distribution
-Düdingen Zustellung
-Romont FR Distribution
-Villeneuve VD Distribution
-Bex Distribution
-Bernex Distribution
-Vernier Distribution
-Rolle Distribution
-Echallens Distribution
-Schwarzenburg Zustellung
-Laupen BE Zustellung
-Kerzers Zustellung
-Büren an der Aare Zust
-Hasle-Rüegsau Zustellung
-Brienz BE Zustellung
-Meiringen Zustellung
-Sissach Zustellung
-Gelterkinden Zustellung
-Bellach Zustellung
-Derendingen Zustellung
-Aarburg Zustellung
-Hägendorf Zustellung
-Buchs AG Zustellung
-Oberentfelden Zustellung
-Frick Zustellung
-Reinach AG Zustellung
-Gränichen Zustellung
-Muri AG Zustellung
-Hochdorf Zustellung
-Wolhusen Zustellung
-Reiden Zustellung
-Unterägeri Zustellung
-Sarnen 2 Zustellung
-Küssnacht am Rigi Zust
-Berikon 1 Zustellung
-Egg b. Zürich Zustellung
-Stein am Rhein 1 Zustellung
-Uznach Zustellung
-Pfäffikon SZ Zustellung
-Wollerau Zustellung
-Einsiedeln Zustellung
-Siebnen Zustellung
-Glarus Zustellung
-Flawil 1 Zustellung
-Uzwil Zustellung
-Wattwil Zustellung
-Teufen AR Zustellung
-Wittenbach Zustellung
-Heiden Zustellung
-Altstätten SG Zustellung
-Rheineck Zustellung
-Heerbrugg Zustellung
-St. Margrethen SG Zust
-Buchs SG 1 Zustellung
-Domat/Ems Zustellung
-Landquart Zustellung
-Sargans Zustellung
-Bad Ragaz Zustellung
-Mels Zustellung
-Flums Zustellung
-Samedan Zustellung
-Losone Distribuzione
-Vésenaz Distribution
-Monteiller (Savièse)
-St. Gallen Presse-Serv.Güll
-Olten Sonderdienste
 Nierlet-les-Bois
-Zürich 15
 Montreux La Redoute
 Mur (Vully) FR
 Morcles
 Marin-Centre
 Gretschins
 Malans SG
-Frauenfeld ST PP 1
-Frauenfeld CALL
-Härkingen ST PP 1
-Härkingen CALL
-Daillens CALL
-Daillens ST PP 1
-Kriens 1
-Kriens 2 Sternmatt
-Kriens 2
 Port-Valais
-Bellinzona VZ
-Zürich PV
 Grafschaft
-Biel/Bienne 10
-Genève 18
 Hattenhausen
-Bern 90
 Montagny-Chamard
 Fretereules
 Brot-Dessous
 Oberstetten
 Niederstetten
 Gunterswilen
-Basel SBB Cargo AG
-St-Légier/Blonay Dist
 Gündlischwand
-Crissier 2
-Crissier 1
 Schattenhalb
 Les Pontins
 Tatroz
@@ -4879,267 +4004,50 @@ Wirzweli
 La Cibourg
 La Cibourg
 Lamperswil TG
-Root D4
 Montezillon
-Bern 7 Bärenplatz
 Territet
-Crans-Montana 1
-Crans-Montana 2
 Arosio-Mugena
-Diessenhofen Zustellung
 Muriaux
 Les Ecorcheresses
-Chiasso 1 ZF
 Lugano MailSource
 St-Prex Distribution
 Freudwil
-Steinen Zustellung
-Nussbaumen AG Zustellung
-Steffisburg 2 Station Zuste
-Uetendorf Zustellung
-Zweisimmen Zustellung
-Lenk i. S. Zustellung
-Cologny Distribution
-Conthey Distribution
-Sumiswald Zustellung
-Biasca Distribuzione
-Pregassona Distribuzione
-Zermatt Zustellung
 Eison (St.Martin)
-Granges VS Distribution
-Basel 34 Breite
-Basel 35 Bäumlihof
-Châtel-St-Denis Dist
-Jongny Distribution
-Savièse Distribution
-Flims Dorf Zustellung
-Nänikon Zustellung
-Ste-Croix Distribution
 Buchen BE
 Brittern
-Bubendorf Zustellung
-Lausen Zustellung
-Basel SPILOG
-Wängi Zustellung
-Oberriet SG Zustellung
-Degersheim Zustellung
-Schwanden GL Zustellung
-Seuzach Zustellung
-Niederhasli Zustellung
-Cham 1
 Hertenstein AG
 Rieden AG
 Münsterlingen
 Zürich
 Unterrindal
-Ostermundigen Zustellung
-Boudry Dist Ba
-Diepoldsau Zustellung
-Basel 33 Novartis
-Urdorf Dist Ba
-Urdorf Sortierstelle
 Champzabé
-Basel SPI AS1
-Basel SPI AS2
-Ostermundigen Rüti Fächer
-Bern PF Operations Center
-Basel PF Operations Center
 Greich
-Chailly-Montreux Dist
-Thayngen Zustellung
-Zollbrück Zustellung
-Eggiwil Zustellung
-Heimberg Zustellung
-Adelboden Zustellung
-Gstaad Zustellung
-Grindelwald Zustellung
-Birr-Lupfig Zustellung
-Döttingen Zustellung
-Dottikon Zustellung
-Seon Zustellung
-Unterkulm Zustellung
-Rothenburg Zustellung
-Root Zustellung
-Adligenswil Zustellung
-Meggen Zustellung
-Alpnach Zustellung
-Buochs Zustellung
-Ostermundigen Dist Ba
-Basel
-Basel
-Basel
-Basel
-Basel
-Basel
-Zürich Helsana
-Le Sentier Distribution
-Cossonay Distribution
-Basel SPI AS 22
-Basel SPI AS 23
-Basel SPI AS 24
-Basel SPI AS 25
-Basel SPI AS 26
-Schaan Zustellung
-Urdorf RRD
 Menzengrüt
-Oftringen SPN
-Andelfingen Zustellung
-Zürich 64 Zustellung
-Corcelles NE Distribution
-Flamatt Zustellung
-Ruswil Zustellung
-Entlebuch Zustellung
-Schüpfheim Zustellung
-Escholzmatt Zustellung
-Kaltbrunn Zustellung
-Bauma Zustellung
-Sempach Stadt
-Lenzerheide Zustellung
-Bern UBS
-Luzern UBS
-Basel UBS
-Buchs ZH Zustellung
-Turbenthal Zustellung
-Wettswil Zustellung
-Mettmenstetten Zustellung
-Arosa Zustellung
-Münchwilen TG Zustellung
-Schaan Log
 Lätti
 Seewil
-Derendingen Swisscom
-Le Châble VS Distribution
-Chexbres Distribution
-Leysin Distribution
 Sihlwald
-Glattpark (Opfikon)
-Genève 94 UBS
-Palézieux Distribution
 Fenkrieden
 Basel
 St. Gallen
-Wädenswil Dist Ba
-Baden IM
-Bazenheid Zustellung
-Thusis Zustellung
-Ilanz Zustellung
-Fully Distribution
-Coppet Distribution
-Formangueires
-Silvaplana-Surlej
-Klosters Zustellung
 Gundetswil
-Basel SPI GLS Retour
 Steg-Gampel
-Kloster Fahr
-Lausanne Services spéciaux
-Cheseaux Polyval
-Baar 3
-Hünenberg Zustellung
-Baar 3 Dist Ba
-Wabern 2 x Weihnachten
-Genève 73
-Dintikon LCD
-Schlieren DocumentServices
-Eclépens Centre Courrier
-Sion Centre logistique
-Bern DocumentServices
-Ostermundigen (LZB)
-Basel Logistikzentrum
-Härkingen Briefzentrum
-Kriens Logistikzentrum
-Cadenazzo Centro logistico
-Chur Logistikzentrum
-Zürich-Mülligen SPS AG
-Gossau SG Logistikzentrum
-Oensingen Hub SecurePost
-Schaan Betriebszentrum
 La Coudre
-Martigny Groupe Mutuel
-Zürich IBRS local
-Martigny Gare CFF
-Lausanne Sozialberatung
-Fribourg PostFinance Fil.
-Zofingen PostFinance
-Zofingen PostFinance
-Burgdorf Filiale
-Zofingen PostFinance
-Zürich-Mülligen BZI
-Eclépens Scanning-Center
-Härkingen Scanning-Center
-Zürich Mülligen SC
-Zürich BZ Annahme
-Zürich
-Bichelsee-Balterswil
-Luzern Uni PG
-Ricketwil (Winterthur)
-Rheinfelden SPI Logistics A
-Pratteln SPI Logistics
-Hünenberg See
-Härkingen SPS AG
-Zofingen Postfinance UBS
-Burgdorf PostFinance mob
-Zofingen PF UBS Verarb.
-Root Längenbold SH
-Zürich 59 Exchange Office
-Zürich 59 Ausland
-Rickenbach Sulz
 Kefikon ZH
 Grafstal
 Wildensbuch
-Bern Zustellung
 Oberwil (Dägerlen)
 Berg (Dägerlen)
 Bänk (Dägerlen)
 Schaan BZ GKS
 Wittenbach
-Eclépens CC Dépôt
 Riet (Neftenbach)
 Hünikon (Neftenbach)
-Cadenazzo Scanning-Center
-Zürich Voice Publishing
-Zürich Oerlikon DB PickPost
-Schwyz Kantonalbank
 Meienberg
 Kleine Scheidegg
 Eigergletscher
 Fétigny Dist Fil
 Bex Dist Fil
 Bern
-Schaffhausen PF
-Aigle Gare CFF
-Bellinzona Stazione FFS
-Brugg Bahnhof SBB
-Brunnen Bahnhof SBB
-Buchs Bahnhof SBB
-Bülach Bahnhof SBB
-Chiasso Stazione FFS
-Dietikon Bahnhof SBB
-Effretikon Bahnhof SBB
-Landquart Bahnhof SBB
-Lenzburg Bahnhof SBB
-Liestal Bahnhof SBB
-Locarno Stazione FFS
-Nyon Gare CFF
-Oensingen Bahnhof SBB
-Pfäffikon Bahnhof SBB
-Renens Gare CFF
-Rheinfelden Bahnhof SBB
-Rotkreuz Bahnhof SBB
-Rüti Bahnhof SBB
-Solothurn Bahnhof SBB
-Sursee Bahnhof SBB
-Thalwil Bahnhof SBB
-Visp Bahnhof SBB
-Yverdon-les-Bains Gare CFF
-Ziegelbrücke Bahnhof SBB
-Zofingen Bahnhof SBB
-Wädenswil Bahnhof SBB
-Zug Bahnhof SBB
-Lugano Stazione FSS
-Bern Brünnen
-Bern Logistikcenter
-Härkingen BZ Briefklinik
 Appenzell Eggerstanden
 Appenzell Enggenhütten
 Appenzell Meistersrüte
@@ -5147,158 +4055,44 @@ Appenzell Steinegg
 Appenzell Schlatt
 Wasserauen
 Gontenbad
-Luzern 1 PF
 Jakobsbad
 Büriswilen
-Ostermundigen LZB BHS-AF
 Peiden
 Zürich
-Eclépens SAB
-Riazzino Distribuzione
-Caslano Distribuzione
-Cadenazzo Distribuzione
-Mägenwil Dist Ba
-Mägenwil GKA
-Mägenwil PL Hub SK Blitz
-Mägenwil HUB
-Epagny Distribution
 La Russille
-Effretikon PostAuto AG
 Sonnental
-Genève Carouge PostFinance
-Rheinfelden PostAuto AG
-Zürich BZI DE
-Lausanne Parking d'Ouchy
-Lausanne Parking du Centre
-Romanel-sur-Lausanne Shell
-Develier PostAuto AG
-Basel Shell Dreispitz
-Therwil Shell
-Zürich Tiefenbrunnen SBB
-Zürich West SPS
-Kloten Bahnhof SBB
-Le Noirmont Distribution
-Lausanne Terreaux PF
-Luzern 2 Universität
-Lignon B&V GK
-Lignon B&V GK 2
 Ferenbalm
 Biberen
 Gammen
-Zofingen B&V GK
-Baden B&V GK 2
-Baden B&V GK
-Altendorf B&V GK
-Altendorf B&V GK 2
-Himmelried PostAuto AG
-Chur B&V GK 2
-Chur B&V GK
-Dietlikon Shell
-Rümlang Tankstelle Shell
-Givisiez PickPost
 Le Bémont JU
 Montfaucon
 Montfavergier
 Les Enfers
 St-Brais
-Bern KC PK 4
-Bern KC PK 5
-Kriens KC PG/GK 2
-St. Gallen KC PKGK 5
-Luzern Bahnhof SBB
-Olten Personal
-Zürich Enge PF Filiale
-Dorénaz PostAuto AG Schweiz
-Lausanne PF 331-120
-Lausanne PF 331-140
-Lausanne Arc Jurassien
-Zofingen KC PK/GK 3
-Zürich Kanton Annahme
-Zürich Helsana Annahme
-Zürich CS Annahme
 St. Josefen
 Maseltrangen
-Lausanne CT
 Landiswil
-Urdorf Exchange
 La Tour VS
 La Forclaz VS
 Villa (Evolène)
-Yverdon Conseil et vente
-Martigny PostFinance
-Ostermundigen KATA
-Vogelsang AG
-Jona Buech Gewerbe
-Baden Täfern Gewerbe
-Härkingen BZ FP
-Eclépens CC AP
-Sornard (Nendaz)
-Horgen Bahnhof Oberdorf
 Dietschwil
-La Chx-de-F. Combe-à-l'Ours
 Sünikon
 Rumlikon
 Gündisau
 Busswil TG
-Visp Verkaufssupport
-Härkingen SPS DO
-Zofingen KC PK/GK 4
-Rothenburg DIST BA
-Zofingen KC PK/GK 5
-Ostermundigen Oberdorf
-Eclépens Clinique
-Zürich BZ Brieflklinik
-Seewis-Pardisla
-Seewis-Schmitten
-Zürich Nord VZ
-Hinwil VZ
-Neuhausen Rundbuck
 St. Gallen
-Arlesheim Postlogistics Hub
-Zofingen KC PK 2
-Genève Les Acacias
-Aarau Altstadt
-Martigny PF 331-130
-Lausanne 10
-Lausanne 18
 Vielbringen b. Worb
 Kreuzlingen Ost
 Vevey Orient
-Luzern Altstadt
 Lengwil
-Dettighofen (Lengwil)
-Gruyères Vieille Ville
-Givisiez DB AFP
-Les Posses-sur-Bex
-Cadenazzo CLL AP
-Gossau SG LZB FP
-Sion RZ
-Zürich
-Nassenwil
-Zofingen Abg. St
 Le Séchey
 Donatyre
 Cournillens
-Zürich Asendia
 Bözberg
 Mission
-Olten 4 Hammer
-Daillens PL3
-Fötigny PL3
-Bern PL3
-Pratteln PL3
-Oftringen PL3
-Niederbipp PL3
-Mägenwil PL3i
-Dintikon PL3
-Villmergen PL3
-Cadenazzo PL3
-Pfungen PL3
-Urdorf PL3
 Solothurn
 La Chaux-de-Fonds
 Diolly (Savièse)
 La Muraz (Savièse)
 Kriens Contact Center
 Biessenhofen
-
