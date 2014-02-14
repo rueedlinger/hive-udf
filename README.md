@@ -17,21 +17,21 @@ First you must build the JAR.
 	
 Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
 
-	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT.jar;
-	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.Distance';
-	CREATE TEMPORARY FUNCTION spell as 'ch.yax.hive.udf.Spell';
+	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT-jar-with-dependencies.jar;
+	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
+	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
 
-	CREATE TABLE DUAL (dummy STRING);
+	CREATE TABLE DUAL (text STRING, number FLOAT);
 	
 	LOAD DATA LOCAL INPATH '/home/dwh/dual.txt' OVERWRITE INTO TABLE DUAL;
 
 You can now execute the query with our spell User-Defined Functions (UDF).
 
 	-- should return --> UNKNOWN";
-	SELECT spell('some text') FROM DUAL; 
+	SELECT distance('some text') FROM DUAL; 
 
 	-- should return --> Bern
 	SELECT spell('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
