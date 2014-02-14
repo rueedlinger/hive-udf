@@ -18,8 +18,6 @@ import ch.yax.hive.udf.util.MemoryDictionary;
 public class Suggestion extends GenericUDF {
 
 	private static final String UNKNOW = "UNKNOW";
-	// private static final float MIN_THRESHOLD = 0.75f;
-	// private static final float MIN_TOKEN_LENGTH = 4;
 	private final int ARGS_LENGHT = 5;
 
 	private StringObjectInspector soiStrategy;
@@ -79,9 +77,6 @@ public class Suggestion extends GenericUDF {
 
 					bestMatch = match;
 
-					// System.out.println(" --> " + bestMatch + " --> " +
-					// found);
-
 					if (bestMatch == 1.0) {
 						break;
 					}
@@ -111,7 +106,7 @@ public class Suggestion extends GenericUDF {
 
 		if (args == null || args.length != ARGS_LENGHT) {
 			throw new UDFArgumentException(
-					"missing argumenst (strategy, target, other)");
+					"missing argumenst (strategy, target, other, threashold, tokenlength)");
 		}
 
 		soiStrategy = (StringObjectInspector) args[0];
