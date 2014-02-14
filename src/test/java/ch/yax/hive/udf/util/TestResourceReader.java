@@ -21,7 +21,6 @@ public class TestResourceReader {
 		List<String> entries = reader.getEntries();
 		Assert.assertNotNull(entries);
 		Assert.assertEquals(4096, entries.size());
-
 	}
 
 	@Test
