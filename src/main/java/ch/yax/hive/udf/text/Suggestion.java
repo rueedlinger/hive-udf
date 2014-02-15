@@ -13,7 +13,7 @@ public class Suggestion extends UDF {
 
 	private static final int DEFAULT_TOKEN_LENGTH = 4;
 
-	private static final float DEFAULT_THRESHOLD = 0.85f;
+	private static final double DEFAULT_THRESHOLD = 0.85f;
 
 	private static final String UNKNOW = "UNKNOW";
 
@@ -36,7 +36,7 @@ public class Suggestion extends UDF {
 	}
 
 	public String evaluate(String strategy, String target, String file,
-			Float minThreshold, Integer minTokenLength) throws HiveException {
+			Double minThreshold, Integer minTokenLength) throws HiveException {
 
 		if (strategy == null || target == null || file == null
 				|| minThreshold == null || minTokenLength == null) {
@@ -65,7 +65,7 @@ public class Suggestion extends UDF {
 			throw new HiveException("distance strategy not found: " + strategy);
 		}
 
-		float bestMatch = minThreshold;
+		double bestMatch = minThreshold;
 		String found = UNKNOW;
 
 		for (String dictValue : reader.getEntries()) {
