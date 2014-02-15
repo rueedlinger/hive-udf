@@ -36,10 +36,9 @@ public class Suggestion extends UDF {
 	}
 
 	public String evaluate(String strategy, String target, String file,
-			Double minThreshold, Integer minTokenLength) throws HiveException {
+			double minThreshold, int minTokenLength) throws HiveException {
 
-		if (strategy == null || target == null || file == null
-				|| minThreshold == null || minTokenLength == null) {
+		if (strategy == null || target == null || file == null) {
 
 			StringBuilder buffer = new StringBuilder();
 			buffer.append("some inputs ar null");
