@@ -17,7 +17,19 @@ public class TestSuggestion {
 		Suggestion suggestion = new Suggestion();
 
 		try {
-			suggestion.evaluate(null, null, null, null, null);
+			suggestion.evaluate(null, null, null, 0.0, 0);
+			Assert.fail();
+		} catch (HiveException ex) {
+
+		}
+	}
+
+	@Test
+	public void testEvaluateWithNullValuesAndDefault() throws HiveException {
+		Suggestion suggestion = new Suggestion();
+
+		try {
+			suggestion.evaluate(null, null, null);
 			Assert.fail();
 		} catch (HiveException ex) {
 
