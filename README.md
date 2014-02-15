@@ -24,14 +24,17 @@ Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class p
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
 
-	CREATE TABLE DUAL (text STRING, number FLOAT);
+	CREATE TABLE DUAL (text STRING);
 	
 	LOAD DATA LOCAL INPATH '/home/dwh/dual.txt' OVERWRITE INTO TABLE DUAL;
 
-You can now execute the query with our spell User-Defined Functions (UDF).
+You can now execute the query to calculate the Levenshtein distance between two strings.
 
-	-- should return --> UNKNOWN";
-	SELECT distance('some text') FROM DUAL; 
+	SELECT distance("L", "my text", "me text") FROM DUAL;
+	
+Or for the Jaro–Winkler distance 
+
+	SELECT distance("J", "my text", "me text") FROM DUAL;
 
 	-- should return --> Bern
 	SELECT spell('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;

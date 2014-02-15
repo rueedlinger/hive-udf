@@ -11,6 +11,10 @@ import ch.yax.hive.udf.util.MemoryDictionary;
 
 public class Suggestion extends UDF {
 
+	private static final int DEFAULT_TOKEN_LENGTH = 4;
+
+	private static final float DEFAULT_THRESHOLD = 0.85f;
+
 	private static final String UNKNOW = "UNKNOW";
 
 	private Map<String, StringDistance> strategies = new HashMap<String, StringDistance>();
@@ -25,18 +29,25 @@ public class Suggestion extends UDF {
 				.put(Strategy.BIGRAM.getName(), Strategy.BIGRAM.getStrategy());
 	}
 
+	public String evaluate(String strategy, String target, String file)
+			throws HiveException {
+		return evaluate(strategy, target, file, DEFAULT_THRESHOLD,
+				DEFAULT_TOKEN_LENGTH);
+	}
+
 	public String evaluate(String strategy, String target, String file,
-			Float minThreashold, Integer minTokenLength) throws HiveException {
+			Float minThreshold, Integer minTokenLength) throws HiveException {
 
 		if (strategy == null || target == null || file == null
-				|| minThreashold == null || minTokenLength == null) {
+				|| minThreshold == null || minTokenLength == null) {
 
 			StringBuilder buffer = new StringBuilder();
 			buffer.append("some inputs ar null");
 			buffer.append(", strategy = " + strategy);
 			buffer.append(", target = " + target);
 			buffer.append(", file = " + file);
-			buffer.append(", minThreashold = " + minTokenLength);
+			buffer.append(", minThreshold = " + minThreshold);
+			buffer.append(", minTokenLength = " + minTokenLength);
 
 			throw new HiveException(buffer.toString());
 		}
@@ -54,7 +65,7 @@ public class Suggestion extends UDF {
 			throw new HiveException("distance strategy not found: " + strategy);
 		}
 
-		float bestMatch = minThreashold;
+		float bestMatch = minThreshold;
 		String found = UNKNOW;
 
 		for (String dictValue : reader.getEntries()) {
