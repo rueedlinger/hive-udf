@@ -31,8 +31,14 @@ public class Suggestion extends UDF {
 
 	public String evaluate(String strategy, String target, String file)
 			throws HiveException {
-		return evaluate(strategy, target, file, DEFAULT_THRESHOLD,
-				DEFAULT_TOKEN_LENGTH);
+		try {
+
+			return evaluate(strategy, target, file, DEFAULT_THRESHOLD,
+					DEFAULT_TOKEN_LENGTH);
+		} catch (HiveException ex) {
+			ex.printStackTrace();
+			throw ex;
+		}
 	}
 
 	public String evaluate(String strategy, String target, String file,
