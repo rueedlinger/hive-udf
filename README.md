@@ -52,9 +52,8 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 
 
-##### distance
+##### float : distance (string strategy, string target, string other)
 
-	float : distance (string strategy, string target, string other)
 	
 	parameters:
 		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
@@ -63,10 +62,8 @@ SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 	
 	returns: the distance between the target and other as float.
 
-##### suggestion
+##### string : suggestion (string strategy, string target, string file)
 
-	string : suggestion (string strategy, string target, string file)
-	
 	parameters:
 		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
 		target: string to compare
@@ -74,9 +71,8 @@ SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 	
 	returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found. As default minimum token length is 4 and match must be equal or better than a threshold 0.85.
 
-	
-	
-	string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
+
+##### string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
 	
 	parameters:
 		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
