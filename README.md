@@ -49,18 +49,18 @@ Or the suggestions function which returns the best match for "football" in the f
 
 This query should return FOOTBALL. You can also add the threshold a value from 0.0 to 1.0 and the minimum token length.
 
-SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
+	SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 
 
 ##### float : distance (string strategy, string target, string other)
 
 	
-	parameters:
-		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
-		target: string to compare
-		other: string  to compare
+parameters:
+	strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+	target: string to compare
+	other: string  to compare
 	
-	returns: the distance between the target and other as float.
+returns: the distance between the target and other as float.
 
 ##### string : suggestion (string strategy, string target, string file)
 
