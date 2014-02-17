@@ -3,8 +3,8 @@ Hive UDF (Lucene Search Spell Wrapper)
 This project contains Apache Hive User-Defined Wrapper Functions for the Apache Lucene Search Spell API. 
 
 This projects provides to main functions
-+distance - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
-+suggestion - based on a text based dictionary.
++ distance - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
++ suggestion - based on a text based dictionary.
 
 
 
@@ -52,7 +52,7 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 	SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 
 
-##### float : distance (string strategy, string target, string other)
+#### float : distance (string strategy, string target, string other)
 
 	
 **parameters:**
@@ -63,7 +63,7 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 	
 **returns:** the distance between the target and other as float.
 
-##### string : suggestion (string strategy, string target, string file)
+#### string : suggestion (string strategy, string target, string file)
 
 **parameters:**
 	
@@ -74,7 +74,7 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 **returns:** the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found. As default minimum token length is 4 and match must be equal or better than a threshold 0.85.
 
 
-##### string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
+#### string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
 	
 **parameters:**
 + strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
