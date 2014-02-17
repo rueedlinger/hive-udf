@@ -6,6 +6,7 @@ public class TextCleansing {
 
 		text = text.replaceAll(";", " ");
 		text = text.replaceAll(":", " ");
+		text = text.replaceAll(",", " ");
 		text = text.replaceAll("\\.", " ");
 		text = text.replaceAll("#", " ");
 		text = text.replaceAll("_", " ");
