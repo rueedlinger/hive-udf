@@ -8,7 +8,7 @@ import org.apache.hadoop.hive.ql.metadata.HiveException;
 import org.apache.lucene.search.spell.StringDistance;
 
 import ch.yax.hive.udf.util.Content;
-import ch.yax.hive.udf.util.SimpleContent;
+import ch.yax.hive.udf.util.MemoryContent;
 
 public class Suggestion extends UDF {
 
@@ -54,8 +54,7 @@ public class Suggestion extends UDF {
 			throw new HiveException(buffer.toString());
 		}
 
-		// Content reader = new MemoryContent(file);
-		Content reader = new SimpleContent();
+		Content reader = new MemoryContent(file);
 
 		String text = target.trim().toUpperCase().replace(".", "")
 				.replace(",", "").replace("!", "").replace("?", "");

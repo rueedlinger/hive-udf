@@ -30,6 +30,8 @@ create a table dummy and a file dual.txt with value ‘X’. The load the file i
 	
 	LOAD DATA LOCAL INPATH '/home/dwh/dual.txt' OVERWRITE INTO TABLE DUAL;
 
+	
+	
 You can now execute the query to calculate the Levenshtein distance between two strings.
 
 	SELECT distance("L", "my text", "me text") FROM DUAL;
@@ -38,12 +40,12 @@ Or for the Jaro–Winkler distance
 
 	SELECT distance("J", "my text", "me text") FROM DUAL;
 
-	-- should return --> Bern
-	SELECT spell('Wandering through bern’s UNESCO-protected Old Town can be a magical experience') FROM DUAL;
 	
-	-- should return --> Zürich
-	SELECT spell('i like zuerich') FROM DUAL;
+Or the suggestions function which returns the best match for "football" in the file "/tmp/sports.txt" based on the Levenshtein distance.
 
+	ADD FILE /tmp/sports.txt
+	
+	SELECT distance("L", "football", "./tmp/places.txt") FROM DUAL;
 
 	
 

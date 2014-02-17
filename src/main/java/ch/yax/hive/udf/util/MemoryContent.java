@@ -1,7 +1,6 @@
 package ch.yax.hive.udf.util;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Collections;
@@ -10,12 +9,13 @@ import java.util.LinkedList;
 import java.util.List;
 
 import org.apache.derby.iapi.services.io.ArrayInputStream;
+import org.apache.hadoop.hive.ql.metadata.HiveException;
 
 public class MemoryContent implements Content {
 
 	private List<String> content = new LinkedList<String>();
 
-	public MemoryContent(String resource) {
+	public MemoryContent(String resource) throws HiveException {
 
 		try {
 
@@ -40,12 +40,14 @@ public class MemoryContent implements Content {
 
 			Collections.sort(content, ALPHA_ORDER);
 
-		} catch (IOException e) {
-			throw new RuntimeException(e);
+		} catch (Exception e) {
+			throw new HiveException(e);
 		}
 	}
 
-	/* (non-Javadoc)
+	/*
+	 * (non-Javadoc)
+	 * 
 	 * @see ch.yax.hive.udf.util.Dictionary#getEntries()
 	 */
 	@Override
