@@ -43,11 +43,14 @@ Or for the Jaro–Winkler distance
 	
 Or the suggestions function which returns the best match for "football" in the file "/tmp/sports.txt" based on the Levenshtein distance.
 
-	ADD FILE /data/sports.txt;
+	ADD FILE /data/sport.txt;
 	
-	SELECT distance("L", "i love football", "/data/sports.txt") FROM DUAL;
+	SELECT suggestion("L", "i love football", "/data/sport.txt") FROM DUAL;
 
-	
+This query should return FOOTBALL. You can also add the threshold a value from 0.0 to 1.0 and the minimum token length.
+
+SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
+
 
 ##### findPlace
 
