@@ -4,7 +4,7 @@ This project contains Apache Hive User-Defined Wrapper Functions for the Apache 
 
 This projects provides to main functions
 +distance - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
-+spell - based on a text based dictionary.
++suggestion - based on a text based dictionary.
 
 
 
@@ -17,7 +17,7 @@ First you must build the JAR.
 	
 Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
 
-	hive -hiveconf hive.root.logger=DEBUG,console
+	hive
 
 	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT-jar-with-dependencies.jar;
 	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
@@ -52,12 +52,40 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 
 
-##### findPlace
+##### distance
 
-tbd
+	float : distance (string strategy, string target, string other)
+	
+	parameters:
+		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+		target: string to compare
+		other: string  to compare
+	
+	returns: the distance between the target and other as float.
 
-##### findPlaceLevensthein
-tbd
+##### suggestion
+
+	string : suggestion (string strategy, string target, string file)
+	
+	parameters:
+		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+		target: string to compare
+		file: a file with suggestions which should be returned when they matched.
+	
+	returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found. As default minimum token length is 4 and match must be equal or better than a threshold 0.85.
+
+	
+	
+	string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
+	
+	parameters:
+		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+		target: string to compare
+		file: a file with suggestions which should be returned when they matched.
+		threshold: the minimum threshold for a match
+		minTokenLength: minimum token length
+	
+	returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found.
 
 	
 ### Initialize Eclipse
