@@ -22,6 +22,7 @@ Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class p
 	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT-jar-with-dependencies.jar;
 	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
 	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';
+	CREATE TEMPORARY FUNCTION clean as 'ch.yax.hive.udf.text.Clean';
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
@@ -85,6 +86,15 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 	
 **returns:** the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found.
 
+
+#### string : clean (string text)
+
+	
+**parameters:**
+	
++ text: original text
+	
+**returns:** cleaned text
 	
 ### Initialize Eclipse
 To initialize eclipse settings run the following maven command.
