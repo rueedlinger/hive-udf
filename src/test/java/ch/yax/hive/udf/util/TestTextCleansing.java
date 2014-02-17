@@ -65,6 +65,26 @@ public class TestTextCleansing {
 	}
 
 	@Test
+	public void testSlash() {
+		String text = cleansing.cleanTesxt("hello/hello ");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello / hello");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+	}
+
+	@Test
+	public void testBackslash() {
+		String text = cleansing.cleanTesxt("hello\\hello ");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello \\ hello");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+	}
+
+	@Test
 	public void testComma() {
 		String text = cleansing.cleanTesxt("hello,hello ");
 		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);

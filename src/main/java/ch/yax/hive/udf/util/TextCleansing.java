@@ -8,6 +8,8 @@ public class TextCleansing {
 		text = text.replaceAll(":", " ");
 		text = text.replaceAll(",", " ");
 		text = text.replaceAll("\\.", " ");
+		text = text.replaceAll("\\\\", " ");
+		text = text.replaceAll("/", " ");
 		text = text.replaceAll("#", " ");
 		text = text.replaceAll("_", " ");
 		text = text.replaceAll("-", " ");
