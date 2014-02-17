@@ -64,24 +64,24 @@ SELECT suggestion("L", "i love foot", "/data/sport.txt", 0.5, 4) FROM DUAL;
 
 ##### string : suggestion (string strategy, string target, string file)
 
-	parameters:
-		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
-		target: string to compare
-		file: a file with suggestions which should be returned when they matched.
+parameters:
+	strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+	target: string to compare
+	file: a file with suggestions which should be returned when they matched.
 	
-	returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found. As default minimum token length is 4 and match must be equal or better than a threshold 0.85.
+returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found. As default minimum token length is 4 and match must be equal or better than a threshold 0.85.
 
 
 ##### string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
 	
-	parameters:
-		strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
-		target: string to compare
-		file: a file with suggestions which should be returned when they matched.
-		threshold: the minimum threshold for a match
-		minTokenLength: minimum token length
+parameters:
+	strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
+	target: string to compare
+	file: a file with suggestions which should be returned when they matched.
+	threshold: the minimum threshold for a match
+	minTokenLength: minimum token length
 	
-	returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found.
+returns: the string from the file in upper-case which has the best match with the target string or 'UNKNOW' when not match was found.
 
 	
 ### Initialize Eclipse
