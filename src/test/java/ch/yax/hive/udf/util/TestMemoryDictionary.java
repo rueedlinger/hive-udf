@@ -10,7 +10,7 @@ public class TestMemoryDictionary {
 
 	@Test
 	public void testGetContent_Full() {
-		MemoryDictionary reader = new MemoryDictionary(resourceFull);
+		MemoryContent reader = new MemoryContent(resourceFull);
 		String content = reader.getContent();
 
 		Assert.assertNotNull(content);
@@ -22,7 +22,7 @@ public class TestMemoryDictionary {
 
 	@Test
 	public void testGetContent_Small() {
-		MemoryDictionary reader = new MemoryDictionary(resourceSmall);
+		MemoryContent reader = new MemoryContent(resourceSmall);
 		String content = reader.getContent();
 
 		Assert.assertNotNull(content);

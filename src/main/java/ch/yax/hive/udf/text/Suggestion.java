@@ -7,7 +7,8 @@ import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 import org.apache.lucene.search.spell.StringDistance;
 
-import ch.yax.hive.udf.util.MemoryDictionary;
+import ch.yax.hive.udf.util.Content;
+import ch.yax.hive.udf.util.SimpleContent;
 
 public class Suggestion extends UDF {
 
@@ -31,14 +32,10 @@ public class Suggestion extends UDF {
 
 	public String evaluate(String strategy, String target, String file)
 			throws HiveException {
-		try {
 
-			return evaluate(strategy, target, file, DEFAULT_THRESHOLD,
-					DEFAULT_TOKEN_LENGTH);
-		} catch (HiveException ex) {
-			ex.printStackTrace();
-			throw ex;
-		}
+		return evaluate(strategy, target, file, DEFAULT_THRESHOLD,
+				DEFAULT_TOKEN_LENGTH);
+
 	}
 
 	public String evaluate(String strategy, String target, String file,
@@ -57,7 +54,8 @@ public class Suggestion extends UDF {
 			throw new HiveException(buffer.toString());
 		}
 
-		MemoryDictionary reader = new MemoryDictionary(file);
+		// Content reader = new MemoryContent(file);
+		Content reader = new SimpleContent();
 
 		String text = target.trim().toUpperCase().replace(".", "")
 				.replace(",", "").replace("!", "").replace("?", "");

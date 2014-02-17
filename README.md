@@ -17,6 +17,8 @@ First you must build the JAR.
 	
 Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
 
+	hive -hiveconf hive.root.logger=DEBUG,console
+
 	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT-jar-with-dependencies.jar;
 	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
 	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';

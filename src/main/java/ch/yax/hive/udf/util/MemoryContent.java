@@ -11,11 +11,11 @@ import java.util.List;
 
 import org.apache.derby.iapi.services.io.ArrayInputStream;
 
-public class MemoryDictionary {
+public class MemoryContent implements Content {
 
 	private List<String> content = new LinkedList<String>();
 
-	public MemoryDictionary(String resource) {
+	public MemoryContent(String resource) {
 
 		try {
 
@@ -45,6 +45,10 @@ public class MemoryDictionary {
 		}
 	}
 
+	/* (non-Javadoc)
+	 * @see ch.yax.hive.udf.util.Dictionary#getEntries()
+	 */
+	@Override
 	public List<String> getEntries() {
 		return content;
 	}
