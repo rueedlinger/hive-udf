@@ -1,6 +1,8 @@
 package ch.yax.hive.udf.util;
 
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Collections;
@@ -19,7 +21,18 @@ public class MemoryContent implements Content {
 
 		try {
 
-			InputStream in = getClass().getResourceAsStream(resource);
+			File file = new File(resource);
+			InputStream in;
+			if (!file.exists()) {
+				// try load from jar
+				in = getClass().getResourceAsStream(resource);
+				if (in == null) {
+					throw new HiveException("resource not found: " + resource);
+				}
+			} else {
+				in = new FileInputStream(file);
+			}
+
 			InputStreamReader is = new InputStreamReader(in, "UTF-8");
 			BufferedReader br = new BufferedReader(is);
 
@@ -39,6 +52,8 @@ public class MemoryContent implements Content {
 			}
 
 			Collections.sort(content, ALPHA_ORDER);
+
+			br.close();
 
 		} catch (Exception e) {
 			throw new HiveException(e);
