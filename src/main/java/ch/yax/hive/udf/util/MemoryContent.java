@@ -10,7 +10,6 @@ import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.apache.derby.iapi.services.io.ArrayInputStream;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 
 public class MemoryContent implements Content {
@@ -68,21 +67,6 @@ public class MemoryContent implements Content {
 	@Override
 	public List<String> getEntries() {
 		return content;
-	}
-
-	public String getContent() {
-
-		StringBuilder buffer = new StringBuilder();
-		for (String value : content) {
-			buffer.append(value);
-			buffer.append("\n");
-		}
-
-		return buffer.toString();
-	}
-
-	public InputStream getInputStream() {
-		return new ArrayInputStream(getContent().getBytes());
 	}
 
 	private static Comparator<String> ALPHA_ORDER = new Comparator<String>() {
