@@ -28,7 +28,7 @@ create a table dummy and a file dual.txt with value ‘X’. The load the file i
 
 	CREATE TABLE DUAL (text STRING);
 	
-	LOAD DATA LOCAL INPATH '/home/dwh/dual.txt' OVERWRITE INTO TABLE DUAL;
+	LOAD DATA LOCAL INPATH '/data/dual.txt' OVERWRITE INTO TABLE DUAL;
 
 	
 	
@@ -43,9 +43,9 @@ Or for the Jaro–Winkler distance
 	
 Or the suggestions function which returns the best match for "football" in the file "/tmp/sports.txt" based on the Levenshtein distance.
 
-	ADD FILE /tmp/sports.txt
+	ADD FILE /data/sports.txt;
 	
-	SELECT distance("L", "football", "./tmp/places.txt") FROM DUAL;
+	SELECT distance("L", "i love football", "/data/sports.txt") FROM DUAL;
 
 	
 
