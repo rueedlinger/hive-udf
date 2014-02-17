@@ -3,8 +3,8 @@ Hive UDF (Lucene Search Spell Wrapper)
 This project contains Apache Hive User-Defined Wrapper Functions for the Apache Lucene Search Spell API. 
 
 This projects provides to main functions
-+ distance - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
-+ suggestion - based on a text based dictionary.
++ **distance** - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
++ **suggestion** - based on a text based dictionary.
 
 
 
