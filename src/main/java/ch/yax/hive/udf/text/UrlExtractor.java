@@ -8,18 +8,17 @@ import org.apache.hadoop.hive.ql.metadata.HiveException;
 
 public class UrlExtractor extends UDF {
 
-	// Pattern for recognizing a URL, based off RFC 3986
-	private static final Pattern urlPattern = Pattern.compile(
-			"(?:^|[\\W])((ht|f)tp(s?):\\/\\/|www\\.)"
-					+ "(([\\w\\-]+\\.){1,}?([\\w\\-.~]+\\/?)*"
-					+ "[\\p{Alnum}.,%_=?&#\\-+()\\[\\]\\*$~@!:/{};']*)",
-			Pattern.CASE_INSENSITIVE | Pattern.MULTILINE | Pattern.DOTALL);
+	private String urlPattern = "((https?|ftp|gopher|telnet|file):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)";
 
 	public String evaluate(String text) throws HiveException {
 
-		Matcher matcher = urlPattern.matcher(text);
+		Pattern p = Pattern.compile(urlPattern, Pattern.CASE_INSENSITIVE);
+		Matcher m = p.matcher(text);
 
-		return matcher.group();
+		if (m.find()) {
+			return text.substring(m.start(0), m.end(0));
+		}
+		return null;
 	}
 
 }
