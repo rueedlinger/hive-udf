@@ -136,6 +136,55 @@ public class TestTextCleansing {
 	}
 
 	@Test
+	public void testQuestionMark() {
+		String text = cleansing.cleanTesxt("hello?hello?");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello? hello?");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+	}
+
+	@Test
+	public void testExclamationMark() {
+		String text = cleansing.cleanTesxt("hello!hello!");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello! hello!");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+	}
+
+	@Test
+	public void testHyphen() {
+		String text = cleansing.cleanTesxt("hello-hello!");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello- hello-");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+	}
+
+	@Test
+	public void testBracktes() {
+		String text = cleansing.cleanTesxt("hello{hello}");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello {hello}");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello(hello)");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello (hello)");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello[hello]");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanTesxt("hello [hello]");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+	}
+
+	@Test
 	public void testMixedSpaceAndTabs() {
 		String text = cleansing.cleanTesxt("hello \t hello ");
 		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
