@@ -14,7 +14,7 @@ import org.apache.hadoop.hive.ql.metadata.HiveException;
 
 public class MemoryContent implements Content {
 
-	private List<String> content = new LinkedList<String>();
+	private LinkedList<String> content = new LinkedList<String>();
 
 	public MemoryContent(String resource) throws HiveException {
 

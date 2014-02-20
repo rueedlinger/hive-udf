@@ -4,6 +4,8 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
+import ch.yax.hive.udf.util.text.TextCleansing;
+
 public class TestTextCleansing {
 
 	private static final String EXPECTED_SIMPLE_TEXT = "hello hello";

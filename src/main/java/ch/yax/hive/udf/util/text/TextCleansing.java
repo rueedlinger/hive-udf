@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.util;
+package ch.yax.hive.udf.util.text;
 
 public class TextCleansing {
 

@@ -1,4 +1,4 @@
-Hive UDF (Lucene Search Spell Wrapper)
+Hive UDF's for Text Mining
 ========
 This project contains Apache Hive User-Defined Wrapper Functions for the Apache Lucene Search Spell API. 
 
@@ -24,6 +24,7 @@ Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class p
 	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
 	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';
 	CREATE TEMPORARY FUNCTION clean as 'ch.yax.hive.udf.text.Clean';
+	CREATE TEMPORARY FUNCTION urlextractor as 'ch.yax.hive.udf.text.UrlExtractor';
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
@@ -96,7 +97,12 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 + text: original text
 	
 **returns:** cleaned text
-	
+
+### Text Mining
+
+	select clean(text), suggestion("L", clean(text),"/home/dwh/ch.place.txt") from tweets;
+
+
 ### Initialize Eclipse
 To initialize eclipse settings run the following maven command.
 
