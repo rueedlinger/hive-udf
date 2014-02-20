@@ -1,21 +1,42 @@
 package ch.yax.hive.udf.text;
 
-import java.util.List;
+import java.util.Map;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 
+import weka.classifiers.bayes.NaiveBayesMultinomialUpdateable;
 import ch.yax.hive.udf.util.data.ContentHelper;
 import ch.yax.hive.udf.util.data.MemoryContent;
+import ch.yax.hive.udf.util.text.SimpleTextClassifier;
 
 public class TextClassifier extends UDF {
+
+	private double THRESHOLD = 0.7;
 
 	public String evaluate(String text, String file) throws HiveException {
 
 		ContentHelper content = new ContentHelper(new MemoryContent(file), ";");
+		SimpleTextClassifier classifier = new SimpleTextClassifier(content,
+				new NaiveBayesMultinomialUpdateable());
 
-		List<String> lines = content.getEntries();
+		try {
+			Map<String, Double> result = classifier.classifyMessage(text);
 
-		return "";
+			for (String key : result.keySet()) {
+				Double ds = result.get(key);
+
+				if (ds.compareTo(THRESHOLD) > 0) {
+					return key.toUpperCase();
+				}
+
+			}
+
+			return "UNKNOWN";
+
+		} catch (Exception e) {
+			throw new HiveException(e);
+		}
+
 	}
 }

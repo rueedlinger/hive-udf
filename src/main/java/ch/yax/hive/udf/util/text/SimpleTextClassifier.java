@@ -1,6 +1,5 @@
 package ch.yax.hive.udf.util.text;
 
-import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -32,12 +31,12 @@ public class SimpleTextClassifier {
 	private ContentHelper contentHelper;
 
 	public SimpleTextClassifier(ContentHelper contentHelper,
-			Classifier classifier) throws FileNotFoundException {
+			Classifier classifier) {
 		this(contentHelper, classifier, 10);
 	}
 
 	public SimpleTextClassifier(ContentHelper contentHelper,
-			Classifier classifier, int startSize) throws FileNotFoundException {
+			Classifier classifier, int startSize) {
 		this.filter = new StringToWordVector();
 		this.classifier = classifier;
 		// Create vector of attributes.
