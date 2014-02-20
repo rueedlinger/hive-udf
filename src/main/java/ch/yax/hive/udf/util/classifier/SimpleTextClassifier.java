@@ -13,7 +13,7 @@ import weka.core.Instance;
 import weka.core.Instances;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
-import ch.yax.hive.udf.util.ContentHelper;
+import ch.yax.hive.udf.util.data.ContentHelper;
 
 /*
  * based on the example from http://stackoverflow.com/questions/9707825/basic-text-classification-with-weka-in-java

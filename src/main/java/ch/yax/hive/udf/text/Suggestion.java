@@ -7,8 +7,8 @@ import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 import org.apache.lucene.search.spell.StringDistance;
 
-import ch.yax.hive.udf.util.Content;
-import ch.yax.hive.udf.util.MemoryContent;
+import ch.yax.hive.udf.util.data.Content;
+import ch.yax.hive.udf.util.data.MemoryContent;
 
 public class Suggestion extends UDF {
 

@@ -5,6 +5,8 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
+import ch.yax.hive.udf.util.data.ResourceReader;
+
 public class TestResourceReader {
 
 	private String resourceFull = "/ch.places.txt";

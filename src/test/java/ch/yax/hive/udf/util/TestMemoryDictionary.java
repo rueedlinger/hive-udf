@@ -6,6 +6,8 @@ import org.apache.hadoop.hive.ql.metadata.HiveException;
 import org.junit.Assert;
 import org.junit.Test;
 
+import ch.yax.hive.udf.util.data.MemoryContent;
+
 public class TestMemoryDictionary {
 
 	private String resourceFull = "/ch.places.txt";

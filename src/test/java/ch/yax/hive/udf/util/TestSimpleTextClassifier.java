@@ -6,6 +6,8 @@ import org.junit.Test;
 
 import weka.classifiers.bayes.NaiveBayesMultinomialUpdateable;
 import ch.yax.hive.udf.util.classifier.SimpleTextClassifier;
+import ch.yax.hive.udf.util.data.ContentHelper;
+import ch.yax.hive.udf.util.data.MemoryContent;
 
 public class TestSimpleTextClassifier {
 
@@ -18,7 +20,7 @@ public class TestSimpleTextClassifier {
 		Assert.assertNotNull(classifier
 				.classifyMessage("cool is like running and java"));
 
-		System.out.println(classifier.classifyMessage("running and java"));
+		// System.out.println(classifier.classifyMessage("running and java"));
 
 	}
 }

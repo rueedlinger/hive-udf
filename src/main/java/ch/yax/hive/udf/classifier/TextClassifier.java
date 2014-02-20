@@ -5,8 +5,8 @@ import java.util.List;
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 
-import ch.yax.hive.udf.util.ContentHelper;
-import ch.yax.hive.udf.util.MemoryContent;
+import ch.yax.hive.udf.util.data.ContentHelper;
+import ch.yax.hive.udf.util.data.MemoryContent;
 
 public class TextClassifier extends UDF {
 
