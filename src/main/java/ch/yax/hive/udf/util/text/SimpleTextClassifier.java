@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.util.classifier;
+package ch.yax.hive.udf.util.text;
 
 import java.io.FileNotFoundException;
 import java.util.HashMap;

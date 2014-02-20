@@ -5,9 +5,9 @@ import junit.framework.Assert;
 import org.junit.Test;
 
 import weka.classifiers.bayes.NaiveBayesMultinomialUpdateable;
-import ch.yax.hive.udf.util.classifier.SimpleTextClassifier;
 import ch.yax.hive.udf.util.data.ContentHelper;
 import ch.yax.hive.udf.util.data.MemoryContent;
+import ch.yax.hive.udf.util.text.SimpleTextClassifier;
 
 public class TestSimpleTextClassifier {
 

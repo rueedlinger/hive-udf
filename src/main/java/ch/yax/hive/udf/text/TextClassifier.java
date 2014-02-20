@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.classifier;
+package ch.yax.hive.udf.text;
 
 import java.util.List;
 
