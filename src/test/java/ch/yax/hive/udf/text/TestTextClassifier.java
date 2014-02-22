@@ -7,9 +7,19 @@ import org.junit.Test;
 public class TestTextClassifier {
 
 	@Test
+	public void testTextClassifierSimple() throws HiveException {
+		TextClassifier classifier = new TextClassifier();
+		String cat = classifier.evaluate("test data",
+				"/trainings_data_simple.csv");
+		Assert.assertNotNull(cat);
+	}
+
+	@Test
 	public void testTextClassifier() throws HiveException {
 		TextClassifier classifier = new TextClassifier();
-		String cat = classifier.evaluate("test data", "/trainingsdata.txt");
+		String cat = classifier.evaluate("stau A1 zwischen bern und basel",
+				"/trainings_data.csv");
+		System.out.println(cat);
 		Assert.assertNotNull(cat);
 	}
 }
