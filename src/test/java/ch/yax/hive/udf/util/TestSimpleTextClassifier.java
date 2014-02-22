@@ -14,7 +14,8 @@ public class TestSimpleTextClassifier {
 	@Test
 	public void testClassify() throws Exception {
 		SimpleTextClassifier classifier = new SimpleTextClassifier(
-				new ContentHelper(new MemoryContent("/trainingsdata.txt"), ";"),
+				new ContentHelper(new MemoryContent(
+						"/trainings_data_simple.csv"), ";"),
 				new NaiveBayesMultinomialUpdateable());
 
 		Assert.assertNotNull(classifier

@@ -19,7 +19,7 @@ public class TestTextClassifier {
 		TextClassifier classifier = new TextClassifier();
 		String cat = classifier.evaluate("stau A1 zwischen bern und basel",
 				"/trainings_data.csv");
-		System.out.println(cat);
+
 		Assert.assertNotNull(cat);
 	}
 }
