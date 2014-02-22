@@ -6,6 +6,8 @@ This projects provides to main functions
 + **distance** - which calculates the distance between to strings based on selected algorithm (e.g Levenstein, Jaro Winkler, NGramDistance, etc.).
 + **suggestion** - based on a text based dictionary.
 + **clean** - clean text from whitspaces and other characters.
++ **urlextractor** - extract first url match from text
++ **classifier** - classify text based on a trainings set (naive bayes classifier)
 
 
 
