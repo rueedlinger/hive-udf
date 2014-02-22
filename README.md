@@ -25,6 +25,7 @@ Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class p
 	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';
 	CREATE TEMPORARY FUNCTION clean as 'ch.yax.hive.udf.text.Clean';
 	CREATE TEMPORARY FUNCTION urlextractor as 'ch.yax.hive.udf.text.UrlExtractor';
+	CREATE TEMPORARY FUNCTION classifier as 'ch.yax.hive.udf.text.TextClassifier
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
@@ -80,6 +81,7 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 #### string : suggestion (string strategy, string target, string file, float threshold, integer minTokenLength)
 	
 **parameters:**
+
 + strategy: the algorithm which should be used for calculating the distance.  L = LEVENSTEIN, J = JAROWINKLER or N2 = BIGRAM
 + target: string to compare
 + file: a file with suggestions which should be returned when they matched.
@@ -91,12 +93,32 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 
 #### string : clean (string text)
 
-	
 **parameters:**
 	
 + text: original text
 	
 **returns:** cleaned text
+
+
+#### string : urlextractor (string text)
+
+
+**parameters:**
+	
++ text: original text with url
+	
+**returns:** returns first url match
+
+#### string : classifier (string text, string file)
+
+**parameters:**
+	
++ text: text to classify
++ file: trainings data for classification
+	
+**returns:** returns classified group from file
+
+
 
 ### Text Mining
 

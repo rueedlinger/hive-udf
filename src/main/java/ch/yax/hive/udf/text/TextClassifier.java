@@ -12,6 +12,7 @@ import ch.yax.hive.udf.util.text.SimpleTextClassifier;
 
 public class TextClassifier extends UDF {
 
+	private static final String UNKNOWN = "UNKNOWN";
 	private double THRESHOLD = 0.75;
 
 	public String evaluate(String text, String file) throws HiveException {
@@ -32,7 +33,7 @@ public class TextClassifier extends UDF {
 
 			}
 
-			return "UNKNOWN";
+			return UNKNOWN;
 
 		} catch (Exception e) {
 			throw new HiveException(e);
