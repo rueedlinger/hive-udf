@@ -11,7 +11,7 @@ public class Clean extends UDF {
 
 		TextCleansing cleansing = new TextCleansing();
 
-		return cleansing.cleanTesxt(text);
+		return cleansing.cleanText(text);
 
 	}
 
