@@ -29,7 +29,7 @@ Start the Hive CLI and add the hive-udf-textmining-1.0-SNAPSHOT.jar to the Hive 
 	CREATE TEMPORARY FUNCTION urlextractor as 'ch.yax.hive.udf.text.UrlExtractor';
 	CREATE TEMPORARY FUNCTION classifier as 'ch.yax.hive.udf.text.TextClassifier';
 	
-	CREATE TEMPORARY FUNCTION timestamp as 'ch.yax.hive.udf.text.Timestamp';
+	CREATE TEMPORARY FUNCTION timestamp as 'ch.yax.hive.udf.number.Timestamp';
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
