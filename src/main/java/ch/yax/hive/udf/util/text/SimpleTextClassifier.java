@@ -22,10 +22,8 @@ public class SimpleTextClassifier {
 	private Instances trainingData;
 	private StringToWordVector filter;
 	private Classifier classifier;
-	private boolean upToDate;
 	private FastVector classValues;
 	private FastVector attributes;
-	private boolean setup;
 
 	private Instances filteredData;
 	private ContentHelper contentHelper;
@@ -45,14 +43,13 @@ public class SimpleTextClassifier {
 		this.attributes.addElement(new Attribute("text", (FastVector) null));
 		// Add class attribute.
 		this.classValues = new FastVector(startSize);
-		this.setup = false;
 		this.contentHelper = contentHelper;
 
-		initData();
+		initClassifier();
 
 	}
 
-	private void initData() {
+	private void initClassifier() {
 		// init catgeories
 		Set<String> categories = this.contentHelper.getCategories(0);
 		for (String category : categories) {
@@ -82,11 +79,8 @@ public class SimpleTextClassifier {
 		classValues.addElement(category);
 	}
 
-	private void addData(String message, String classValue)
-			throws IllegalStateException {
-		if (!setup) {
-			throw new IllegalStateException("Must use setup first");
-		}
+	private void addData(String message, String classValue) {
+
 		message = message.toLowerCase();
 		classValue = classValue.toLowerCase();
 		// Make message into instance.
@@ -95,36 +89,27 @@ public class SimpleTextClassifier {
 		instance.setClassValue(classValue);
 		// Add instance to training data.
 		trainingData.add(instance);
-		upToDate = false;
+
 	}
 
-	/**
-	 * Check whether classifier and filter are up to date. Build i necessary.
-	 * 
-	 * @throws Exception
-	 */
-	private void buildIfNeeded() throws Exception {
-		if (!upToDate) {
-			// Initialize filter and tell it about the input format.
-			filter.setInputFormat(trainingData);
-			// Generate word counts from the training data.
-			filteredData = Filter.useFilter(trainingData, filter);
-			// Rebuild classifier.
-			classifier.buildClassifier(filteredData);
-			upToDate = true;
-		}
+	private void buildClassifier() throws Exception {
+
+		// Initialize filter and tell it about the input format.
+		filter.setInputFormat(trainingData);
+		// Generate word counts from the training data.
+		filteredData = Filter.useFilter(trainingData, filter);
+		// Rebuild classifier.
+		classifier.buildClassifier(filteredData);
+
 	}
 
 	public Map<String, Double> classifyMessage(String message) throws Exception {
 		message = message.toLowerCase();
-		if (!setup) {
-			throw new Exception("Must use setup first");
-		}
 		// Check whether classifier has been built.
 		if (trainingData.numInstances() == 0) {
 			throw new Exception("No classifier available.");
 		}
-		buildIfNeeded();
+		buildClassifier();
 		Instances testset = trainingData.stringFreeStructure();
 		Instance testInstance = makeInstance(message, testset);
 
@@ -163,7 +148,7 @@ public class SimpleTextClassifier {
 		trainingData = new Instances("MessageClassificationProblem",
 				attributes, 100);
 		trainingData.setClassIndex(trainingData.numAttributes() - 1);
-		setup = true;
+
 	}
 
 }
