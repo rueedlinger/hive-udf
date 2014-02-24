@@ -138,7 +138,8 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 	select classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), suggestion('L', clean(text), '/home/dwh/ch.place.txt'), clean(text) from tweets;
 	
 	select increment(), timestamp(), classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), suggestion('L', clean(text), '/home/dwh/ch.place.txt'), clean(text) from tweets;
-
+	
+	insert overwrite local directory '/tmp/out' select clean(text) from tweets;
 
 ### Initialize Eclipse
 To initialize eclipse settings run the following maven command.
