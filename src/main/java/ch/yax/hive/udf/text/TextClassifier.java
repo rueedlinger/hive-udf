@@ -1,5 +1,6 @@
 package ch.yax.hive.udf.text;
 
+import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
@@ -17,11 +18,11 @@ public class TextClassifier extends UDF {
 	private static final String UNKNOWN = "UNKNOWN";
 	private double THRESHOLD = 0.75;
 
+	private Map<String, SimpleTextClassifier> classifiers = new HashMap<String, SimpleTextClassifier>();
+
 	public String evaluate(String text, String file) throws HiveException {
 
-		ContentHelper content = new ContentHelper(new MemoryContent(file), ";");
-		SimpleTextClassifier classifier = new SimpleTextClassifier(content,
-				new NaiveBayesMultinomialUpdateable());
+		SimpleTextClassifier classifier = getClassifier(file);
 
 		try {
 			Map<String, Double> result = classifier.classifyMessage(text);
@@ -41,5 +42,21 @@ public class TextClassifier extends UDF {
 			throw new HiveException(e);
 		}
 
+	}
+
+	private SimpleTextClassifier getClassifier(String file)
+			throws HiveException {
+		SimpleTextClassifier classifier = null;
+		if (classifiers.get(file) == null) {
+
+			ContentHelper content = new ContentHelper(new MemoryContent(file),
+					";");
+			classifier = new SimpleTextClassifier(content,
+					new NaiveBayesMultinomialUpdateable());
+
+		} else {
+			classifier = classifiers.get(file);
+		}
+		return classifier;
 	}
 }

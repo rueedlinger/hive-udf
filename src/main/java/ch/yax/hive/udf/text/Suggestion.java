@@ -22,6 +22,8 @@ public class Suggestion extends UDF {
 
 	private Map<String, StringDistance> strategies = new HashMap<String, StringDistance>();
 
+	private Map<String, Content> handlers = new HashMap<String, Content>();
+
 	public Suggestion() {
 		// init strategies
 		strategies.put(Strategy.LEVENSTEIN.getName(),
@@ -56,7 +58,7 @@ public class Suggestion extends UDF {
 			throw new HiveException(buffer.toString());
 		}
 
-		Content reader = new MemoryContent(file);
+		Content reader = getHandler(file);
 
 		String text = target.trim().toUpperCase().replace(".", "")
 				.replace(",", "").replace("!", "").replace("?", "");
@@ -100,4 +102,13 @@ public class Suggestion extends UDF {
 
 	}
 
+	private Content getHandler(String file) throws HiveException {
+		Content reader = null;
+		if (handlers.get(file) == null) {
+			reader = new MemoryContent(file);
+		} else {
+			reader = handlers.get(file);
+		}
+		return reader;
+	}
 }
