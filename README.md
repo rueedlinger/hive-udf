@@ -128,6 +128,7 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 
 	
 	ADD FILE /home/dwh/trainings_data.csv;
+	select classifier(clean(text),'/home/dwh/trainings_data.csv'), clean(text) from tweets;
 
 
 ### Initialize Eclipse

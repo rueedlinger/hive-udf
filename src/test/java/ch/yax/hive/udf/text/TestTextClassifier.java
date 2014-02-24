@@ -15,6 +15,14 @@ public class TestTextClassifier {
 	}
 
 	@Test
+	public void testTextClassifierSimpleWithThreshold() throws HiveException {
+		TextClassifier classifier = new TextClassifier();
+		String cat = classifier.evaluate("test data",
+				"/trainings_data_simple.csv", 0.85);
+		Assert.assertNotNull(cat);
+	}
+
+	@Test
 	public void testTextClassifier() throws HiveException {
 		TextClassifier classifier = new TextClassifier();
 		String cat = classifier.evaluate("stau A1 zwischen bern und basel",

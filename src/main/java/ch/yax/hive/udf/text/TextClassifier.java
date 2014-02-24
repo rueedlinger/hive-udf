@@ -20,7 +20,8 @@ public class TextClassifier extends UDF {
 
 	private Map<String, SimpleTextClassifier> classifiers = new HashMap<String, SimpleTextClassifier>();
 
-	public String evaluate(String text, String file) throws HiveException {
+	public String evaluate(String text, String file, double threshold)
+			throws HiveException {
 
 		SimpleTextClassifier classifier = getClassifier(file);
 
@@ -30,7 +31,7 @@ public class TextClassifier extends UDF {
 			for (String key : result.keySet()) {
 				Double ds = result.get(key);
 
-				if (ds.compareTo(THRESHOLD) > 0) {
+				if (ds.compareTo(threshold) > 0) {
 					return key.toUpperCase();
 				}
 
@@ -42,6 +43,10 @@ public class TextClassifier extends UDF {
 			throw new HiveException(e);
 		}
 
+	}
+
+	public String evaluate(String text, String file) throws HiveException {
+		return evaluate(text, file, THRESHOLD);
 	}
 
 	private SimpleTextClassifier getClassifier(String file)
