@@ -130,11 +130,13 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 
 	
 	ADD FILE /home/dwh/trainings_data.csv;
+	ADD FILE /home/dwh/ch.place.txt;
 	select classifier(clean(text),'/home/dwh/trainings_data.csv'), clean(text) from tweets;
 	select classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), clean(text) from tweets;
 	
 	select classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), suggestion('L', clean(text), '/home/dwh/ch.place.txt'), clean(text) from tweets;
 	
+	select timestamp(), classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), suggestion('L', clean(text), '/home/dwh/ch.place.txt'), clean(text) from tweets;
 
 
 ### Initialize Eclipse
