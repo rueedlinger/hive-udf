@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ch.yax.hive.udf</groupId>
-	<artifactId>yax-hive-udf</artifactId>
+	<artifactId>hive-udf-textmining</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>yax-hive-udf</name>
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/rueedlinger/hive-udf</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -4,12 +4,14 @@ import java.util.Map;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
+import org.apache.hadoop.hive.ql.udf.UDFType;
 
 import weka.classifiers.bayes.NaiveBayesMultinomialUpdateable;
 import ch.yax.hive.udf.util.data.ContentHelper;
 import ch.yax.hive.udf.util.data.MemoryContent;
 import ch.yax.hive.udf.util.text.SimpleTextClassifier;
 
+@UDFType(stateful = true)
 public class TextClassifier extends UDF {
 
 	private static final String UNKNOWN = "UNKNOWN";

@@ -5,11 +5,13 @@ import java.util.Map;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
+import org.apache.hadoop.hive.ql.udf.UDFType;
 import org.apache.lucene.search.spell.StringDistance;
 
 import ch.yax.hive.udf.util.data.Content;
 import ch.yax.hive.udf.util.data.MemoryContent;
 
+@UDFType(stateful = true)
 public class Suggestion extends UDF {
 
 	private static final int DEFAULT_TOKEN_LENGTH = 4;
