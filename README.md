@@ -29,6 +29,8 @@ Start the Hive CLI and add the hive-udf-textmining-1.0-SNAPSHOT.jar to the Hive 
 	CREATE TEMPORARY FUNCTION urlextractor as 'ch.yax.hive.udf.text.UrlExtractor';
 	CREATE TEMPORARY FUNCTION classifier as 'ch.yax.hive.udf.text.TextClassifier';
 	
+	CREATE TEMPORARY FUNCTION timestamp as 'ch.yax.hive.udf.text.Timestamp';
+	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
 
@@ -129,6 +131,10 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 	
 	ADD FILE /home/dwh/trainings_data.csv;
 	select classifier(clean(text),'/home/dwh/trainings_data.csv'), clean(text) from tweets;
+	select classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), clean(text) from tweets;
+	
+	select classifier(clean(text),'/home/dwh/trainings_data.csv', 0.5), suggestion('L', clean(text), '/home/dwh/ch.place.txt'), clean(text) from tweets;
+	
 
 
 ### Initialize Eclipse
