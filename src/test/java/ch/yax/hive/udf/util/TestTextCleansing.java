@@ -206,7 +206,11 @@ public class TestTextCleansing {
 	@Test
 	public void testUrl() {
 		String text = cleansing
-				.cleanText("hello http://www.foo.com/test?test=1&query=ab http://www.foo.ch/mypdf.pdf hello ");
+				.cleanText("hello (http://www.foo.com/test?test=1&query=ab) http://www.foo.ch/mypdf.pdf hello ");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing
+				.cleanText("hello [http://www.foo.com/test?test=1&query=ab] http://www.foo.ch/mypdf.pdf hello ");
 		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
 
 	}

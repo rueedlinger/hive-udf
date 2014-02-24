@@ -63,7 +63,8 @@ public class TextCleansing {
 	private String removeUrlsFromText(String text, List<String> urls) {
 		for (String url : urls) {
 			// escape '?' in url
-			text = text.replaceAll(url.replace("?", "\\?"), "");
+			text = text.replaceAll(url.replace("?", "\\?")
+					.replaceAll("\\(", "").replaceAll("\\)", ""), "");
 		}
 		return text;
 	}

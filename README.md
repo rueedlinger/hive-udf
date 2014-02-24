@@ -18,16 +18,16 @@ First you must build the JAR.
 	mvn package
 	
 	
-Start the Hive CLI and add the yax-hive-udf-1.0-SNAPSHOT.jar to the Hive class path.
+Start the Hive CLI and add the hive-udf-textmining-1.0-SNAPSHOT.jar to the Hive class path.
 
 	hive
 
-	ADD JAR /home/dwh/projects/hive-udf/target/yax-hive-udf-1.0-SNAPSHOT-jar-with-dependencies.jar;
+	ADD JAR /home/dwh/projects/hive-udf/target/hive-udf-textmining-1.0-SNAPSHOT-jar-with-dependencies.jar;
 	CREATE TEMPORARY FUNCTION distance as 'ch.yax.hive.udf.text.Distance';
 	CREATE TEMPORARY FUNCTION suggestion as 'ch.yax.hive.udf.text.Suggestion';
 	CREATE TEMPORARY FUNCTION clean as 'ch.yax.hive.udf.text.Clean';
 	CREATE TEMPORARY FUNCTION urlextractor as 'ch.yax.hive.udf.text.UrlExtractor';
-	CREATE TEMPORARY FUNCTION classifier as 'ch.yax.hive.udf.text.TextClassifier
+	CREATE TEMPORARY FUNCTION classifier as 'ch.yax.hive.udf.text.TextClassifier';
 	
 	
 create a table dummy and a file dual.txt with value ‘X’. The load the file into the table.
@@ -125,6 +125,9 @@ This query should return FOOTBALL. You can also add the threshold a value from 0
 ### Text Mining
 
 	select clean(text), suggestion("L", clean(text),"/home/dwh/ch.place.txt") from tweets;
+
+	
+	ADD FILE /home/dwh/trainings_data.csv;
 
 
 ### Initialize Eclipse
