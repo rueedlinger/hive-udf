@@ -165,6 +165,15 @@ public class TestTextCleansing {
 	}
 
 	@Test
+	public void testPlusSign() {
+		String text = cleansing.cleanText("hello+hello!");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+
+		text = cleansing.cleanText("hello+ hello+");
+		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
+	}
+
+	@Test
 	public void testBracktes() {
 		String text = cleansing.cleanText("hello{hello}");
 		Assert.assertEquals(EXPECTED_SIMPLE_TEXT, text);
